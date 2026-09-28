@@ -1,0 +1,118 @@
+{
+  "palette_id": "N-0697",
+  "school_name_exact": "ROSE OIL TURKISH LMR",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "rose oil Turkish LMR IFF",
+      "purpose": "supplier_page",
+      "executed_at": "2026-09-28T10:53:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "ROSE ULTIMATE EXTRACT FOR LIFE|LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/rose-ultimate-extract-for-life/"},
+        {"rank": 2, "title": "ROSE ABS MD TURKEY FOR LIFE|LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/rose-abs-md-turkey-for-life/"},
+        {"rank": 3, "title": "ROSE ESSENTIAL FOR LIFE|LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/rose-essential-for-life/"},
+        {"rank": 4, "title": "ROSE ESSENTIAL LOW ME FOR LIFE|LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/rose-essential-low-me-for-life/"},
+        {"rank": 5, "title": "Rose Oil, Isparta – Fraterworks", "url": "https://fraterworks.com/products/rose-oil-isparta"},
+        {"rank": 6, "title": "rose oil (rosa damascena) turkey, 8007-01-0", "url": "https://www.thegoodscentscompany.com/data/es1050111.html"},
+        {"rank": 7, "title": "SAFETY DATA SHEET INTERNATIONAL FLAVORS & FRAGRANCES Product", "url": "https://finefrag.com/wp-content/uploads/2020/06/ROSE-OIL-TURKISH-LMR_00181102_GHS_SDS_28May2020_482142.pdf"},
+        {"rank": 8, "title": "Rose oil", "url": "https://en.wikipedia.org/wiki/Rose_oil"},
+        {"rank": 9, "title": "Erçetin Rose Oil - IFF Harvests Turkish Rose", "url": "https://www.ercetin.com/video-play-iff-harvests-turkish-rose.html"},
+        {"rank": 10, "title": "ROSE OIL TURKISH LMR – Fine Fragrances Pvt Ltd", "url": "https://finefrag.com/product/rose-oil-turkish-lmr/"}
+      ],
+      "provider_summary": "I've found search results related to rose oil, Turkish sourcing, and LMR (which is part of IFF - International Flavors & Fragrances).\n\nHere's what the search revealed:\n\n**Turkish Rose Oil from LMR/IFF:**\n\nLMR has established a natural innovation platform in Isparta, Turkey based on an exclusive partnership with one of the largest local producers of Turkish roses.\n\n**Product Characteristics:**\n\nClassic floral rose oil with apricot and osmanthus notes that dry down to honey, tobacco, and spicy facets. The rose absolute variety offers a fresh, green, and spicy petal rose with delicate fruity, slightly honey undertones.\n\n**IFF Code and Product Details:**\n\nThe ROSE OIL TURKISH LMR has an IFF Code of 00181102 and is used as a fragrance for consumer products.\n\n**Sustainability Efforts:**\n\nLMR's natural innovation platform partnership led to agricultural and production optimization by improving harvest and storage practices, saving water and energy, and diversifying the factory's activities."
+    },
+    {
+      "query": "Rosa damascena flower essential oil GC-MS composition Turkey",
+      "purpose": "gcms_composition",
+      "executed_at": "2026-09-28T10:53:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Chemical Composition, Antifungal Activity, and Plant-Protective Potential of Rosa damascena Mill. Essential Oil Against Fusarium graminearum - PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12030332/"},
+        {"rank": 2, "title": "The famous Turkish rose essential oil: Characterization and authenticity monitoring by FTIR, Raman and GC–MS techniques combined with chemometrics - ScienceDirect", "url": "https://www.sciencedirect.com/science/article/abs/pii/S030881462100501X"},
+        {"rank": 3, "title": "Chemical composition of essential oil from Rosa", "url": "https://nuft.edu.ua/doi/doc/ufj/2016/3/8.pdf"},
+        {"rank": 4, "title": "Chemical profiling of Bulgarian rose absolute (Rosa damascena Mill.) using gas chromatography–mass spectrometry and trimethylsilyl derivatives - ScienceDirect", "url": "https://www.sciencedirect.com/science/article/abs/pii/S092666901730393X"},
+        {"rank": 5, "title": "Rosa × damascena - an overview | ScienceDirect Topics", "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/rosa-damascena"},
+        {"rank": 6, "title": "Volatile oil composition of Turkish rose (Rosa damascena) - Bayrak - 1994 - Journal of the Science of Food and Agriculture - Wiley Online Library", "url": "https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.2740640408"},
+        {"rank": 7, "title": "Rosa damascena as holy ancient herb with novel applications - ScienceDirect", "url": "https://www.sciencedirect.com/science/article/pii/S2225411015000954"},
+        {"rank": 8, "title": "Essential oil composition of Damask rose (Rosa damascena Mill.) distilled under different pressures and temperatures | Request PDF", "url": "https://www.researchgate.net/publication/232957720_Essential_oil_composition_of_Damask_rose_Rosa_damascena_Mill_distilled_under_different_pressures_and_temperatures"},
+        {"rank": 9, "title": "Rosa × damascena Herrm. From Azaran region, Kashan: rich in saturated and unsaturated fatty acids with inhibitory effect against Proteus mirabilis", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11234773/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rosa damascena flower essential oil composition analyzed by GC-MS in Turkey:\n\n## Cultivation in Turkey\n\nTurkish Rose Oil is obtained from Rosa damascena roses, which are cultivated largely in Isparta, Burdur, Afyon and Denizli in Turkey. Turkey is a leading producer of R. damascena.\n\n## Chemical Composition\n\nGC-MS chromatograph profiles reveal significant presence of β-citronellol (30.24–31.15%), trans-geraniol (20.62–21.24%), n-heneicosane (8.79–9.05%), n-nonadecane (8.51–8.77%), nonadecene (4.42–4.55%) and phenylethyl alcohol (4.04%).\n\nIn another study, the dominant and main components of the essential oil were oleic acid (48.08%), palmitic acid (15.44%), stearic acid (10.17%), citronellol (7.37%) and nonadecane (3.70%).\n\n## Analysis Methods\n\nStudies have determined the composition of Rosa damascena essential oil from Turkey via GC-MS. Essential oil extraction is typically performed by hydrodistillation using a Clevenger apparatus."
+    },
+    {
+      "query": "ISO 9842 rose oil Rosa x damascena",
+      "purpose": "iso_standard",
+      "executed_at": "2026-09-28T10:53:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "ISO 9842:2003— Oil Of Rose - The ANSI Blog", "url": "https://blog.ansi.org/ansi/iso-9842-2003-oil-of-rose/"},
+        {"rank": 2, "title": "ISO 9842:2003, Oil of rose (Rosa x damascena Miller): International Organization for Standardization: Amazon.com: Books", "url": "https://www.amazon.com/ISO-9842-2003-damascena-Miller/dp/B000Y2TR7G"},
+        {"rank": 3, "title": "ISO 9842:2003 - Oil of rose (Rosa x damascena Miller)", "url": "https://webstore.ansi.org/standards/iso/ISO98422003"},
+        {"rank": 4, "title": "ISO 9842:2024 - Essential oil of rose (Rosa x damascena Miller)", "url": "https://www.iso.org/standard/86897.html"},
+        {"rank": 5, "title": "ISO 9842:2003 - Oil of rose (Rosa x damascena Miller)", "url": "https://www.iso.org/standard/28611.html"},
+        {"rank": 6, "title": "ISO 9842 - Oil of Rose (Rosa x Damascena Miller) | GlobalSpec", "url": "https://standards.globalspec.com/std/602800/ISO%209842"},
+        {"rank": 7, "title": "Reference number ISO 9842:2003(E) © ISO 2003 INTERNATIONAL STANDARD ISO 9842", "url": "https://www.sis.se/api/document/preview/904024/"},
+        {"rank": 8, "title": "ISO 9842:1991 - Oil of rose (Rosa damascena P.Miller)", "url": "https://www.iso.org/standard/17720.html"},
+        {"rank": 9, "title": "ISO 9842:2024 - Essential oil of rose (Rosa x damascena ...", "url": "https://standards.iteh.ai/catalog/standards/iso/270aa86d-3a64-4159-8d50-374f2944356b/iso-9842-2024"},
+        {"rank": 10, "title": "ISO 9842:2003 Oil of rose (Rosa x damascena Miller)", "url": "https://www.intertekinform.com/en-gb/standards/iso-9842-2003-589014_saig_iso_iso_1349230/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about ISO 9842 and rose oil from Rosa x damascena:\n\n## What is ISO 9842?\n\nISO 9842:2003 specifies characteristics of the oil of rose (Rosa x damascena Miller) in order to facilitate assessment of its quality. The standard specifies certain characteristics of the oil of rose (Rosa x damascena Miller) cultivated in Turkey, Morocco and Bulgaria, of the Rosaceae family, in order to facilitate assessment of its quality.\n\n## About Rosa x damascena\n\nRosa Damascena is the most widely used rose variety in perfumery. Classified in the rose family, Rosa Damascena rose essential oil is one of the best-known perfumery ingredients, as it is prized for the diffusion, sensual quality, and sweetness that it gives to a composition. Besides perfume, this high quality rose oil is also used in cosmetics, medicine, and food markets.\n\n## Geographic Origins and History\n\nIt originated from Iran and essential oil extracting from its flowers has been started since 7th century A.D. Nowadays, Bulgaria and Turkey are the main producers of R. damascena essential oil in the world, and the Bulgarian R. damascena oil is the known best ones.\n\n## Testing Methods\n\nThe standard details that analysis of the essential oil should be carried out by gas chromatography.\n\nNote: There is also a newer version—ISO 9842:2024 specifies quality characteristics and test methods for rose essential oil produced from Rosa x damascena cultivated in Turkey, Morocco and Bulgaria."
+    },
+    {
+      "query": "rose oil Turkey safety data sheet CAS 8007-01-0",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:53:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Rose oil,Turkish 8007-01-0", "url": "https://www.sigmaaldrich.com/catalog/product/aldrich/w523704?lang=en&region=US"},
+        {"rank": 2, "title": "rose oil (rosa damascena) turkey, 8007-01-0", "url": "https://www.thegoodscentscompany.com/data/es1050111.html"},
+        {"rank": 3, "title": "CAS Number 8007-01-0 | Rose Oil", "url": "https://www.spectrumchemical.com/cas/8007-01-0"},
+        {"rank": 4, "title": "Rose Oil SDS (CAS 8007-01-0) | Download MSDS PDF & Safety Data Sheets | chemBlink", "url": "https://www.chemblink.com/en/MSDS/8007-01-0MSDS.htm"},
+        {"rank": 5, "title": "Rose Oil CAS#: 8007-01-0", "url": "https://www.chemicalbook.com/ProductChemicalPropertiescb6167644_EN.htm"},
+        {"rank": 6, "title": "Rose Oil | 8007-01-0", "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB6167644.htm"},
+        {"rank": 7, "title": "SAFETY DATA SHEET Version : GHS/SDS/ Print Date: 18-Aug-2023", "url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-ROSE-OIL.pdf"},
+        {"rank": 8, "title": "SAFETY DATA SHEET INTERNATIONAL FLAVORS & FRAGRANCES Product", "url": "https://finefrag.com/wp-content/uploads/2020/06/ROSE-OIL-TURKISH-LMR_00181102_GHS_SDS_28May2020_482142.pdf"},
+        {"rank": 9, "title": "CAS No.8007-01-0,Rose oil Suppliers", "url": "https://www.lookchem.com/cas-800/8007-01-0.html"},
+        {"rank": 10, "title": "Rose Oil | CAS#:8007-01-0 | Chemsrc", "url": "https://www.chemsrc.com/en/cas/8007-01-0_1376332.html"}
+      ],
+      "provider_summary": "I found several results related to rose oil (CAS 8007-01-0) and safety data sheets. Here's what the search revealed:\n\n## Key Information\n\nRose oil with CAS number 8007-01-0 is derived from Rosa x damascena Mill. The main producing countries of this essential oil are Bulgaria, Turkey, and Morocco.\n\n## Safety Data Sheet Availability\n\nSafety data sheets for Rose Oil (CAS 8007-01-0) are available for free download, including information on hazards, handling, storage, and safety, with multiple SDS sources available.\n\n## Hazardous Components\n\nThe dangerous components include Linalool (CAS 78-70-6) with hazard classifications including Acute Toxicity (Oral), Skin Irritation, Eye Irritation, and Skin Sensitization, and Geraniol (CAS 106-24-1) with Skin Irritation and Eye Damage classifications.\n\n## Classifications\n\nThe substance has GHS classifications including Acute Toxicity (Dermal), Skin Irritation, and Skin Sensitization.\n\nYou can access the full safety data sheets from sources like ChemBlink, Ultra International, or International Flavors & Fragrances for complete technical and safety information."
+    },
+    {
+      "query": "Turkish rose oil Isparta origin citronellol geraniol ratio Bulgarian comparison",
+      "purpose": "chemotype_origin",
+      "executed_at": "2026-09-28T10:53:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "(PDF) Turkish rose oil: Recent results", "url": "https://www.researchgate.net/publication/233853035_Turkish_rose_oil_Recent_results"},
+        {"rank": 2, "title": "Volatile oil composition of Turkish rose (Rosa damascena) - Bayrak - 1994 - Journal of the Science of Food and Agriculture - Wiley Online Library", "url": "https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.2740640408"},
+        {"rank": 3, "title": "Turkish Rose: A Review of the History, Ethnobotany, and Modern Uses of Rose Petals, Rose Oil, Rose Water, and Other Rose Products", "url": "https://www.herbalgram.org/resources/herbalgram/issues/96/table-of-contents/herbalgram-96-turkish-rose-history-ethnobotany-modern-uses/"},
+        {"rank": 4, "title": "Rose Otto, Turkey EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/rose-otto-turkey-886.html"},
+        {"rank": 5, "title": "Rose Oil, Isparta – Fraterworks", "url": "https://fraterworks.com/products/rose-oil-isparta"},
+        {"rank": 6, "title": "Turkish Rose in Perfumery — Everything You Need to Know | The Sniff Test", "url": "https://thesnifftest.co.uk/note/turkish-rose/"},
+        {"rank": 7, "title": "Rose Otto Turkish Organic Essential Oil | Amrita Aromatherapy", "url": "https://www.amrita.net/rose-otto-turkish-organic-essential-oil/"},
+        {"rank": 8, "title": "What Does Turkish Rose Smell Like? Perfumery Guide", "url": "https://caperfume.com/pages/discover-ingredient/turkish-rose"},
+        {"rank": 9, "title": "What Does Bulgarian Rose Smell Like? Perfumery Guide", "url": "https://caperfume.com/pages/discover-ingredient/bulgarian-rose"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Turkish rose oil from Isparta, its citronellol/geraniol ratio, and comparison with Bulgarian rose oil:\n\n## Turkish Rose Oil Origin and Production\n\nTurkish rose is derived from Rosa x damascena cultivated primarily in the Isparta region, which is the finest of the Turkish rose oils and even has a special designation much in the same way that Champagne has in France.\n\n## Citronellol and Geraniol Ratios\n\nIn Turkish rose oil, citronellol ranges from 24.47–42.97%, with geraniol at 2.11–18.04%. More specifically, Turkish rose has high citronellol content (up to 37%), and Turkish rose contains β-Citronellol at 25–37% and trans-Geraniol at 20–32%.\n\nRegarding the citronellol/geraniol ratio specifically, in Turkish factory oils the citronellol/geraniol ratio is 2.30 to 4.84%, while village oils give a ratio of 0.83 to 1.92%.\n\n## Comparison with Bulgarian Rose Oil\n\nIn Bulgarian rose oil the citronellol/geraniol ratio is around 1%, which is notably lower than Turkish oils. \n\nThe chemical composition of Turkish Rose Otto is distinguishable from that of Bulgarian Rose Otto due to higher percentages of the two main components – citronellol and geraniol – resulting in a bit more sweetness and strength in the aroma. Additionally, Bulgarian oil is sweeter and more intense, while Turkish oils are fruitier, fresher and spicier."
+    },
+    {
+      "query": "rose oil use level perfumery IFRA methyl eugenol",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:53:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Rose Essential Oil: Science Meets Tradition | American College of Healthcare Sciences", "url": "https://achs.edu/blog/rose-essential-oil-science-meets-tradition/"},
+        {"rank": 2, "title": "Methyl eugenol—the current bête noir of aromatherapy - ScienceDirect", "url": "https://www.sciencedirect.com/science/article/abs/pii/S0962456203000067"},
+        {"rank": 3, "title": "Methyl eugenol - The current Bête Noire of aromatherapy | Request PDF", "url": "https://www.researchgate.net/publication/229254518_Methyl_eugenol_-_The_current_Bete_Noire_of_aromatherapy"},
+        {"rank": 4, "title": "Fine fragrance/EDT/methy eugenol | Basenotes Forum", "url": "https://basenotes.net/threads/408275-Fine-fragrance-EDT-methy-eugenol"},
+        {"rank": 5, "title": "Perfume composition containing (4R)-cis-4-methyl-2-substituted-tetrahydro-2H-pyran derivative and method for improving fragrance by using (4R)-cis-4-methyl-2-substituted-tetrahydro-2H-pyran derivative", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/5858348"},
+        {"rank": 6, "title": "Eugenol in Perfumery | Première Peau", "url": "https://premierepeau.com/pages/glossary-terms/eugenol"},
+        {"rank": 7, "title": "Methyl Eugenol | Methyl Eugenol | PerfumersWorld", "url": "https://www.perfumersworld.com/view.php?pro_id=9SW00298"},
+        {"rank": 8, "title": "Odorant compositions containing megastigma-5(11),8-dien-4,7-oxides and tetra-substituted-7-oxa-bicyclo[3.3.0]-octanes", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4485036"},
+        {"rank": 9, "title": "Warning About Rose Oils | Artisanal Oud Community", "url": "https://www.ouddict.com/threads/warning-about-rose-oils.2773/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about rose oil use levels, methyl eugenol, and IFRA regulations in perfumery:\n\n## Rose Oil and Methyl Eugenol Content\n\nRose contains eugenol and methyl eugenol, both regulated under IFRA. Rose oil contains a small amount of methyl eugenol, and factors such as aquaculture practices, harvest and post-harvest processes and distillation practices affect the methyl eugenol content.\n\n## IFRA Limits for Methyl Eugenol in Perfumery\n\nMethyl eugenol as a fragrance is currently used at a rate of 0.3-0.8% in perfumes, 0.01-0.05% in creams and lotions, and 0.02-0.2% in soaps and detergents. More specifically for fine fragrance products, under the IFRA label of Methyl Eugenol, Fine fragrance is 0.01% and Eau de toilette is 0.004%.\n\n## Eugenol Limits\n\nFor eugenol generally (distinct from methyl eugenol), for many leave-on products, the limit for eugenol is about 0.64% in finished formulations.\n\n## Implications for Natural Rose Oil\n\nOnly the tiniest amounts of natural rose oil, basil oil, nutmeg and many others can be used unless they have been rectified to get rid of the methyl eugenol."
+    }
+  ]
+}

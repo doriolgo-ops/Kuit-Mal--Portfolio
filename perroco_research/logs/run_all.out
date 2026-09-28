@@ -1,0 +1,147 @@
+2026-09-28 11:19:55,655 INFO pipeline: init: 20 materials, master sha256 3a626dedfa9d
+2026-09-28 11:19:55,656 INFO run: == search S-0002
+2026-09-28 11:19:57,076 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 1)
+2026-09-28 11:20:27,170 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 2)
+2026-09-28 11:20:57,272 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 3)
+2026-09-28 11:21:27,273 WARNING apis: pubchem cid lookup failed for 55722-59-3: 503 Server Error: PUGREST.ServerBusy for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/55722-59-3/cids/JSON
+2026-09-28 11:21:27,276 WARNING pipeline: S-0002: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:21:27,276 INFO pipeline: S-0002: 58 distinct leads, 14 selected for fetch
+2026-09-28 11:21:27,277 INFO run: == search S-0468
+2026-09-28 11:21:27,377 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 1)
+2026-09-28 11:21:57,471 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 2)
+2026-09-28 11:22:27,575 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 3)
+2026-09-28 11:22:57,575 WARNING apis: pubchem cid lookup failed for 5986-55-0: 503 Server Error: PUGREST.ServerBusy for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/5986-55-0/cids/JSON
+2026-09-28 11:22:57,579 WARNING pipeline: S-0468: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,579 INFO pipeline: S-0468: 47 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,579 INFO run: == search S-0486
+2026-09-28 11:22:57,586 WARNING apis: pubchem cid lookup failed for 28219-61-6: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,588 WARNING pipeline: S-0486: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,588 INFO pipeline: S-0486: 51 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,588 INFO run: == search S-0526
+2026-09-28 11:22:57,595 WARNING apis: pubchem cid lookup failed for 82356-51-2: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,595 WARNING apis: pubchem cid lookup failed for 63314-79-4: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,598 WARNING pipeline: S-0526: 2 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,598 INFO pipeline: S-0526: 52 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,598 INFO run: == search S-0479
+2026-09-28 11:22:57,607 WARNING apis: pubchem cid lookup failed for 54464-57-2: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,607 WARNING apis: pubchem cid lookup failed for 68155-66-8: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,607 WARNING apis: pubchem cid lookup failed for 68155-67-9: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,609 WARNING pipeline: S-0479: 3 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,610 INFO pipeline: S-0479: 49 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,610 INFO run: == search S-0024
+2026-09-28 11:22:57,616 WARNING apis: pubchem cid lookup failed for 41816-03-9: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,618 WARNING pipeline: S-0024: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,619 INFO pipeline: S-0024: 39 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,619 INFO run: == search S-0518
+2026-09-28 11:22:57,625 WARNING apis: pubchem cid lookup failed for 111879-80-2: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,628 WARNING pipeline: S-0518: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,628 INFO pipeline: S-0518: 50 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,628 INFO run: == search S-0372
+2026-09-28 11:22:57,634 WARNING apis: pubchem cid lookup failed for 125109-85-5: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,637 WARNING pipeline: S-0372: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,637 INFO pipeline: S-0372: 43 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,637 INFO run: == search S-0502
+2026-09-28 11:22:57,643 WARNING apis: pubchem cid lookup failed for 70788-30-6: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,645 WARNING pipeline: S-0502: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,646 INFO pipeline: S-0502: 54 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,646 INFO run: == search S-0366
+2026-09-28 11:22:57,654 WARNING apis: pubchem cid lookup failed for 28940-11-6: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,656 WARNING pipeline: S-0366: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,656 INFO pipeline: S-0366: 53 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,656 INFO run: == search S-0507
+2026-09-28 11:22:57,662 WARNING apis: pubchem cid lookup failed for amber xtreme: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,664 WARNING pipeline: S-0507: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,664 INFO pipeline: S-0507: 38 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,664 INFO run: == search S-0023
+2026-09-28 11:22:57,671 WARNING apis: pubchem cid lookup failed for rhubafuran: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,673 WARNING pipeline: S-0023: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,674 INFO pipeline: S-0023: 37 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,674 INFO run: == search S-0020
+2026-09-28 11:22:57,682 WARNING apis: pubchem cid lookup failed for aldehyde c-11 intreleven: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,682 WARNING apis: pubchem cid lookup failed for c-11 intreleven aldehyde: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,682 WARNING apis: pubchem cid lookup failed for aldehyde intreleven: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,682 WARNING apis: pubchem cid lookup failed for ald c-11 intreleven: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,685 WARNING pipeline: S-0020: 4 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,685 INFO pipeline: S-0020: 35 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,685 INFO run: == search S-0508
+2026-09-28 11:22:57,693 WARNING apis: pubchem cid lookup failed for ambrocemor: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:22:57,696 WARNING pipeline: S-0508: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:22:57,696 INFO pipeline: S-0508: 64 distinct leads, 14 selected for fetch
+2026-09-28 11:22:57,696 INFO run: == fetch S-0002
+2026-09-28 11:22:58,256 WARNING fetch: domain iff.com marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:23:00,254 WARNING fetch: domain chemicalbook.com marked BLOCKED: HTTP 429 (site refuses automated access; not bypassed)
+2026-09-28 11:23:07,796 WARNING fetch: domain tandfonline.com marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:23:17,706 INFO run: == fetch S-0468
+2026-09-28 11:23:30,794 INFO run: == fetch S-0486
+2026-09-28 11:23:39,037 WARNING fetch: domain vigon.com marked BLOCKED: bot challenge page
+2026-09-28 11:23:39,047 INFO run: == fetch S-0526
+2026-09-28 11:23:45,227 WARNING fetch: domain lmrnaturals.iff.com marked UNREACHABLE: robots.txt unreachable: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2026-09-28 11:23:56,046 INFO run: == fetch S-0479
+2026-09-28 11:24:10,789 INFO run: == fetch S-0024
+2026-09-28 11:24:17,234 WARNING fetch: domain ulprospector.com marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:24:19,768 INFO run: == fetch S-0518
+2026-09-28 11:24:30,397 INFO run: == fetch S-0372
+2026-09-28 11:24:36,961 WARNING fetch: domain pellwall.com marked UNREACHABLE: robots.txt unreachable: HTTPSConnectionPool(host='pellwall.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway'))
+2026-09-28 11:24:48,323 INFO run: == fetch S-0502
+2026-09-28 11:26:05,358 WARNING fetch: domain olaughlinco.com marked UNREACHABLE: ConnectionError: HTTPConnectionPool(host='olaughlinco.com', port=80): Read timed out.
+2026-09-28 11:26:17,289 INFO run: == fetch S-0366
+2026-09-28 11:26:24,291 INFO run: == fetch N-0775
+2026-09-28 11:26:54,619 WARNING fetch: domain ir.iff.com marked UNREACHABLE: robots.txt unreachable: HTTPSConnectionPool(host='ir.iff.com', port=443): Read timed out. (read timeout=30)
+2026-09-28 11:27:01,177 INFO run: == fetch N-0697
+2026-09-28 11:27:05,050 WARNING fetch: domain scijournals.onlinelibrary.wiley.com marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:27:05,852 INFO run: == fetch N-0623
+2026-09-28 11:27:15,658 INFO run: == fetch N-0632
+2026-09-28 11:27:17,509 WARNING fetch: 429 from eutils.ncbi.nlm.nih.gov, backing off 2s (attempt 1)
+2026-09-28 11:27:26,161 INFO run: == fetch N-0556
+2026-09-28 11:27:27,664 WARNING fetch: domain doi.org marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:27:27,868 WARNING fetch: 429 from ncbi.nlm.nih.gov, backing off 10s (attempt 1)
+2026-09-28 11:27:54,513 WARNING fetch: domain avenalab.com marked UNREACHABLE: robots.txt unreachable: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2026-09-28 11:28:02,714 INFO run: == fetch N-0728
+2026-09-28 11:28:07,461 WARNING fetch: domain manuals.plus marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:28:10,024 INFO run: == fetch S-0507
+2026-09-28 11:28:19,908 INFO run: == fetch S-0023
+2026-09-28 11:28:32,759 INFO run: == fetch S-0020
+2026-09-28 11:28:41,412 INFO run: == fetch S-0508
+2026-09-28 11:28:48,533 WARNING fetch: 429 from eutils.ncbi.nlm.nih.gov, backing off 2s (attempt 1)
+2026-09-28 11:28:50,738 INFO run: == extract S-0002
+2026-09-28 11:28:50,942 INFO run: == extract S-0468
+ModuleNotFoundError: No module named '_cffi_backend'
+thread '<unnamed>' panicked at /usr/share/cargo/registry/pyo3-0.20.2/src/err/mod.rs:788:5:
+Python API call failed
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Traceback (most recent call last):
+  File "/home/user/Kuit-Mal--Portfolio/perroco_research/run_pilot.py", line 70, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/user/Kuit-Mal--Portfolio/perroco_research/run_pilot.py", line 56, in main
+    funcs[stage](con, pid)
+  File "/home/user/Kuit-Mal--Portfolio/perroco_research/perroco/pipeline.py", line 239, in stage_extract
+    title, text, pairs = extract.load_text(doc)
+                         ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Kuit-Mal--Portfolio/perroco_research/perroco/extract.py", line 71, in load_text
+    return _pdf_text(path)
+           ^^^^^^^^^^^^^^^
+  File "/home/user/Kuit-Mal--Portfolio/perroco_research/perroco/extract.py", line 78, in _pdf_text
+    import pdfplumber
+  File "/usr/local/lib/python3.11/dist-packages/pdfplumber/__init__.py", line 15, in <module>
+    from .pdf import PDF
+  File "/usr/local/lib/python3.11/dist-packages/pdfplumber/pdf.py", line 8, in <module>
+    from pdfminer.layout import LAParams
+  File "/usr/local/lib/python3.11/dist-packages/pdfminer/layout.py", line 14, in <module>
+    from pdfminer.pdfinterp import Color, PDFGraphicState
+  File "/usr/local/lib/python3.11/dist-packages/pdfminer/pdfinterp.py", line 11, in <module>
+    from pdfminer.pdfdevice import PDFDevice, PDFTextSeq
+  File "/usr/local/lib/python3.11/dist-packages/pdfminer/pdfdevice.py", line 13, in <module>
+    from pdfminer.pdfpage import PDFPage
+  File "/usr/local/lib/python3.11/dist-packages/pdfminer/pdfpage.py", line 7, in <module>
+    from pdfminer.pdfdocument import (
+  File "/usr/local/lib/python3.11/dist-packages/pdfminer/pdfdocument.py", line 14, in <module>
+    from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
+  File "/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/__init__.py", line 11, in <module>
+    from cryptography.hazmat.primitives.ciphers.base import (
+  File "/usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/base.py", line 10, in <module>
+    from cryptography.exceptions import (
+  File "/usr/lib/python3/dist-packages/cryptography/exceptions.py", line 9, in <module>
+    from cryptography.hazmat.bindings._rust import exceptions as rust_exceptions
+pyo3_runtime.PanicException: Python API call failed

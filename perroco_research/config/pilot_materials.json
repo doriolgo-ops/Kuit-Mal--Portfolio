@@ -1,0 +1,25 @@
+{
+  "pilot_id": "PILOT-2026-09-28-A",
+  "materials": [
+    {"palette_id": "S-0002", "group": "IFF_SYNTHETIC", "expected_manufacturer": "IFF", "test_purpose": ["exact identity", "IFF domain blocked -> distributor fallback", "dose missing (Tier A but NOT_READY)"]},
+    {"palette_id": "S-0468", "group": "IFF_SYNTHETIC", "expected_manufacturer": "IFF", "test_purpose": ["exact identity", "Tier A NOT_READY", "SDS"]},
+    {"palette_id": "S-0486", "group": "IFF_SYNTHETIC", "expected_manufacturer": "IFF", "test_purpose": ["exact identity", "shared CAS with SANJINOL (S-0493) -> identity by grade not CAS"]},
+    {"palette_id": "S-0526", "group": "IFF_SYNTHETIC", "expected_manufacturer": "IFF", "test_purpose": ["multi-CAS captive", "PDF/SDS"]},
+    {"palette_id": "S-0479", "group": "IFF_SYNTHETIC", "expected_manufacturer": "IFF", "test_purpose": ["well documented", "multiple CAS -> conflict detection", "dose already in master -> duplicate detection"]},
+    {"palette_id": "S-0024", "group": "GIV_DSMF_SYM", "expected_manufacturer": "dsm-firmenich", "test_purpose": ["Firmenich grade", "studio.dsm-firmenich blocked -> distributor fallback"]},
+    {"palette_id": "S-0518", "group": "GIV_DSMF_SYM", "expected_manufacturer": "dsm-firmenich", "test_purpose": ["Firmenich captive", "SDS"]},
+    {"palette_id": "S-0372", "group": "GIV_DSMF_SYM", "expected_manufacturer": "Givaudan", "test_purpose": ["official manufacturer HTML (Givaudan structured page)", "CAS conflict in secondary sources"]},
+    {"palette_id": "S-0502", "group": "GIV_DSMF_SYM", "expected_manufacturer": "Symrise", "test_purpose": ["Symrise", "NOT_READY", "downgraded Tier A->B in audit"]},
+    {"palette_id": "S-0366", "group": "GIV_DSMF_SYM", "expected_manufacturer": "dsm-firmenich", "test_purpose": ["Calone 1951 vs generic molecule", "IFRA 52 pending"]},
+    {"palette_id": "N-0775", "group": "NATURAL", "expected_manufacturer": "LMR Naturals (IFF)", "test_purpose": ["natural GC-MS", "ISO 4716", "REFERENCE_COMPOSITION"]},
+    {"palette_id": "N-0697", "group": "NATURAL", "expected_manufacturer": "LMR Naturals (IFF)", "test_purpose": ["natural GC-MS", "ISO 9842", "botanical identity"]},
+    {"palette_id": "N-0623", "group": "NATURAL", "expected_manufacturer": "LMR Naturals (IFF)", "test_purpose": ["natural GC-MS", "ISO 7609", "chemotype/origin"]},
+    {"palette_id": "N-0632", "group": "NATURAL", "expected_manufacturer": "LMR Naturals (IFF)", "test_purpose": ["natural GC-MS", "ISO 4733", "EI origin code"]},
+    {"palette_id": "N-0556", "group": "NATURAL", "expected_manufacturer": null, "test_purpose": ["natural GC-MS", "ISO 3520", "FCF processing", "SDS"]},
+    {"palette_id": "N-0728", "group": "DIFFICULT", "expected_manufacturer": "LMR Naturals (IFF)", "test_purpose": ["suspected master error: botanical Rosa x damascena + rose CAS on a tuberose absolute -> botanical CONFLICT"]},
+    {"palette_id": "S-0507", "group": "DIFFICULT", "expected_manufacturer": null, "test_purpose": ["no CAS", "trademark name", "ambiguous identity"]},
+    {"palette_id": "S-0023", "group": "DIFFICULT", "expected_manufacturer": null, "test_purpose": ["no CAS in master", "identity improvement"]},
+    {"palette_id": "S-0020", "group": "DIFFICULT", "expected_manufacturer": null, "test_purpose": ["no CAS", "chart code PRG", "ambiguous aldehyde mixture"]},
+    {"palette_id": "S-0508", "group": "DIFFICULT", "expected_manufacturer": null, "test_purpose": ["expected no-result", "NO_PUBLIC_DATA_FOUND path"]}
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "palette_id": "N-0556",
+  "school_name_exact": "BERGAMOT OIL DEFUROCOUMARI NIZED",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "bergamot oil furocoumarin free LMR IFF",
+      "purpose": "supplier_page",
+      "executed_at": "2026-09-28T10:57:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "BERGAMOT OIL CP ITALY ORG FCR CSM|LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/bergamot-oil-cp-italy-org-fcr-csm/"},
+        {"rank": 2, "title": "Furocoumarin-free Bergamot essential oil: properties and uses - Aroma-Zone", "url": "https://www.aroma-zone.com/en/guide/organic-calabrian-bergamot-furocoumarin-free-essential-oil"},
+        {"rank": 3, "title": "Bergamot “Superior” Oil, FCF", "url": "https://fraterworks.com/products/bergamot-oil-fcf"},
+        {"rank": 4, "title": "Wholesale Bergamot FCF (Furocoumarin Free), Essential Oil Organic Supplier – O&3", "url": "https://www.oand3.com/product/bergamot-fcf-furocoumarin-free-essential-oil-organic/"},
+        {"rank": 5, "title": "In vitro activity of bergamot natural essence and furocoumarin-free and distilled extracts, and their associations with boric acid, against clinical yeast isolates - PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/15574476/"},
+        {"rank": 6, "title": "Bergamot Oil Melito – Fraterworks", "url": "https://fraterworks.com/products/bergamot-oil-melito-p-n"},
+        {"rank": 7, "title": "Elimination of Furocoumarins in Bergamot Peel Oil", "url": "https://img.perfumerflavorist.com/files/base/allured/all/document/2016/02/pf.PF_29_05_048_04.pdf"},
+        {"rank": 8, "title": "Bergamot FCF (Furocoumarin Free), Essential Oil Organic | INKY Ingredients", "url": "https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil-organic"},
+        {"rank": 9, "title": "Alcoholic or aqueous-alcoholic compositions containing natural essences and benzylidene-camphor derivatives", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4731200"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found regarding bergamot oil furocoumarin-free products from IFF LMR:\n\n## IFF LMR Bergamot Oil FCF Product\n\nLMR sources its bergamot in the region of Calabria in Italy, the world's leading producer of this citrus. Furocoumarins are removed using expert know-how that retains the ideal olfactive profile. The Bergamot oil CP Italy org FCR CSM features bright citrus floral freshness, cold pressed from peel, with traceable sourcing for fragrance creation.\n\n## What Furocoumarin-Free Bergamot Oil Is\n\nFCF signifies that the oil is free from furocoumarins, minimizing the risk of phototoxicity. The 'furocoumarin-free' version is ideal for skincare.\n\n## Why Furocoumarins Are Removed\n\nThe IFRA (International Fragrance Association) recommends a maximum content of bergamot oil of 2 percent in compositions. This restriction exists because 5-Methoxyfurocoumarin is responsible for skin reactions at a concentration of 10 ppm or above, which explains that, to prevent any risk of skin disease, the use of more than 0.1 to 0.3% of bergamot oil on the skin is generally avoided."
+    },
+    {
+      "query": "Citrus bergamia peel essential oil GC-MS composition limonene linalyl acetate bergapten",
+      "purpose": "gcms_composition",
+      "executed_at": "2026-09-28T10:57:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Determination of the Antifungal, Antibacterial Activity and Volatile Compound Composition of Citrus bergamia Peel Essential Oil", "url": "https://doi.org/10.3390/foods12010203"},
+        {"rank": 2, "title": "Determination of the Antifungal, Antibacterial Activity and Volatile Compound Composition of Citrus bergamia Peel Essential Oil - PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9818623/"},
+        {"rank": 3, "title": "Determination of the Antifungal, Antibacterial Activity and Volatile Compound Composition of Citrus bergamia Peel Essential Oil", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9818623/"},
+        {"rank": 4, "title": "Determination of the Antifungal, Antibacterial Activity and Volatile Compound Composition of Citrus bergamia Peel Essential Oil - PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/36613419/"},
+        {"rank": 5, "title": "Full article: In vitro photo-induced cytotoxic activity of Citrus bergamia and C. medica L. cv. Diamante peel essential oils and identified active coumarins", "url": "https://www.tandfonline.com/doi/full/10.3109/13880200903486636"},
+        {"rank": 6, "title": "(PDF) Chemical Composition of Bergamot (Citrus Bergamia Risso) Essential Oil Obtained by Hydrodistillation", "url": "https://www.researchgate.net/publication/202064590_Chemical_Composition_of_Bergamot_Citrus_Bergamia_Risso_Essential_Oil_Obtained_by_Hydrodistillation"},
+        {"rank": 7, "title": "Citrus Aurantium Bergamia Peel Oil (Explained + Products)", "url": "https://incidecoder.com/ingredients/citrus-aurantium-bergamia-peel-oil"},
+        {"rank": 8, "title": "Frontiers | Citrus bergamia essential oil: from basic research to clinical application", "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2015.00036/full"},
+        {"rank": 9, "title": "Bergamot Essential Oil - an overview | ScienceDirect Topics", "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/bergamot-essential-oil"}
+      ],
+      "provider_summary": "I found comprehensive research on the GC-MS composition of *Citrus bergamia* peel essential oil. Here are the key findings:\n\n## Major Volatile Components\n\nThe major volatile composition of Citrus bergamia essential oil, obtained by hydro-distillation, was determined using GC-MS to consist of limonene (17.06%), linalool (46.34%) and linalyl acetate (17.69%).\n\nHowever, the composition can vary depending on the source material. In some cases, the oil was characterized by high content of limonene (59.21%), linalool (9.51%) and linalyl acetate (16.83%), and Italian bergamot essential oil contains limonene (37.2%), linalyl acetate (30.1%), linalool (8.8%), γ-terpinene (6.8%), and β-pinene (6.2%).\n\n## Bergapten Content\n\nRegarding bergapten, one oil was characterized by limonene (38.1%), linalyl acetate (28.9%), γ-terpinene (7.3%), linalool (6.4%), β-pinene (5.4%) and bergapten (1.7%) as major components. More generally, the non-volatile fraction contains coumarins and psoralens such as 5-methoxypsoralen (also known as bergapten or 5-MOP, contained in about 0.2%).\n\nThe variation in composition reflects differences in geographical origin, cultivation conditions, and extraction methods of the bergamot essential oil."
+    },
+    {
+      "query": "ISO 3520 bergamot oil Italian type",
+      "purpose": "iso_standard",
+      "executed_at": "2026-09-28T10:57:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Standard - Oil of bergamot [Citrus aurantium L. subsp. bergamia (Wight et Arnott) Engler], Italian type ISO 3520:1998 - Swedish Institute for Standards, SIS", "url": "https://www.sis.se/en/produkter/chemical-technology/products-of-the-chemical-industry/essential-oils/iso3520/"},
+        {"rank": 2, "title": "ISO 3520:1998 - Oil of bergamot [Citrus aurantium L. subsp. bergamia (Wight et Arnott) Engler], Italian type", "url": "https://www.iso.org/standard/8893.html"},
+        {"rank": 3, "title": "ISO 3520:1998/Cor 1:2002 - Oil of bergamot [Citrus aurantium L. subsp. bergamia (Wight et Arnott) Engler], Italian type — Technical Corrigendum 1", "url": "https://www.iso.org/standard/36353.html"},
+        {"rank": 4, "title": "Bergamot - an Identity Crisis - Tisserand Institute", "url": "https://tisserandinstitute.org/bergamot-identity-crisis/"},
+        {"rank": 5, "title": "ISO 3520:2022 - Essential oil of bergamot [Citrus bergamia Risso et Poit], Calabrian type", "url": "https://www.iso.org/standard/81602.html"},
+        {"rank": 6, "title": "ISO 3520:1998 - Oil of bergamot [Citrus aurantium L. subsp. bergamia (Wight et Arnott) Engler], Italian type", "url": "https://standards.iteh.ai/catalog/standards/iso/ad47fd7e-f29b-4f2d-9e02-e71af449deca/iso-3520-1998"},
+        {"rank": 7, "title": "ISO 3520:1980 - Oil of bergamot, Italy", "url": "https://standards.iteh.ai/catalog/standards/iso/de748544-bcb6-45ca-be09-ec134ab98785/iso-3520-1980"},
+        {"rank": 8, "title": "Essential oil of bergamot [Citrus bergamia Risso et Poit], Calabrian type", "url": "https://cdn.standards.iteh.ai/samples/81602/2b45583f486b4ae29289d765e8a46f9c/ISO-3520-2022.pdf"},
+        {"rank": 9, "title": "Bergamot", "url": "https://www.herbalgram.org/resources/herbalgram/issues/145/table-of-contents/hg145-herbprofile-bergamot/"},
+        {"rank": 10, "title": "bergamot oil italy, 8007-75-8", "url": "https://www.thegoodscentscompany.com/data/es1618821.html"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about ISO 3520 bergamot oil Italian type:\n\nISO 3520:1998 is a standard published by the International Organization for Standardization (ISO) titled \"Oil of bergamot [Citrus aurantium L. subsp. bergamia (Wight et Arnott) Engler], Italian type\". This standard is classified under ICS (International Classification for Standards) category 71.100.60 - Essential oils.\n\nIt's worth noting that ISO 3520:1998 has relationships with other standards including ISO 3520:2022 and ISO 3520:1980. The more recent ISO 3520:2022 standard specifies certain characteristics of the essential oil of bergamot (Citrus bergamia Risso et Poit), Calabrian type, with a view to facilitate the assessment of its quality.\n\nThere is also a Technical Corrigendum 1 (ISO 3520:1998/Cor 1:2002) that was issued as a correction to the original standard."
+    },
+    {
+      "query": "bergamot oil FCF furocoumarin-free safety data sheet CAS 68648-33-9",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:57:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Bergamot Furocoumarin-Free Safety Data | PDF | Dangerous Goods | Fires", "url": "https://www.scribd.com/document/355157046/Bergamota-LFC"},
+        {"rank": 2, "title": "Wholesale Bergamot FCF (Furocoumarin Free), Essential Oil Organic Supplier – O&3", "url": "https://www.oand3.com/product/bergamot-fcf-furocoumarin-free-essential-oil/"},
+        {"rank": 3, "title": "Bergamot “Superior” Oil, FCF", "url": "https://fraterworks.com/products/bergamot-oil-fcf"},
+        {"rank": 4, "title": "Bergamot-Essential-Oil-CLP-Safety-Data-Sheet- ...", "url": "https://freshskin.co.uk/wp-content/uploads/2015/01/Bergamot-Essential-Oil-CLP-Safety-Data-Sheet-Banded.pdf"},
+        {"rank": 5, "title": "BERGAMOT ESSENTIAL OIL, FCF (BERGAPTEN FREE)", "url": "https://www.avenalab.com/images/001SDS/MSDS2023/BERGAMOT-ESSENTIAL-OIL-FCF-BERGAPTEN-FREE-MSDS.pdf"},
+        {"rank": 6, "title": "Material Safety Data Sheet MSDS Product name Product number E1004", "url": "https://opella.se/dokument/MSDS%20-%20Bergamot%20(FCF),%20essential%20oil,%20organic-%20E1004.pdf"},
+        {"rank": 7, "title": "Material Safety Data Sheet", "url": "https://essicanoils.com/wp-content/uploads/2024/09/BERGAMOT.pdf"},
+        {"rank": 8, "title": "bergamot oil bergaptene reduced italy, 68648-33-9", "url": "https://www.thegoodscentscompany.com/data/es1001871.html"},
+        {"rank": 9, "title": "Safety Data Sheet Organic Bergamot Essential Oil", "url": "https://www.nhrorganicoils.com/uploads/20160817124803e_Bergamot_Bergapten_Free_SDS.pdf"}
+      ],
+      "provider_summary": "Based on the search results, I found multiple safety data sheets and product information for bergamot oil FCF (furocoumarin-free) with CAS number 68648-33-9:\n\n## Product Identification\n\nThe CAS Number for Bergamot FCF is 8007-75-8 / 68648-33-9. The product is Citrus Aurantium Bergamia (Bergamot) Fruit Oil.\n\n## Processing\n\nBergamot Essential Oil FCF Organic is expressed then steam distilled to remove furocoumarins, and it is Furocoumarins and Bergaptene (>0.0005%) free.\n\n## Safety Hazards\n\nThe FCF bergamot oil has several documented hazards in its safety data sheets:\n\n- H226 Flammable liquid and vapour. H304 May be fatal if swallowed and enters airways. H315 Causes skin irritation. H317 May cause an allergic skin reaction. H411 Toxic to aquatic life with long lasting effects\n\n## Applications\n\nIt is a concentrated aromatic ingredient which may be used in aromatherapy, natural perfumery, cosmetics and personal care formulations according to legal and IFRA guidelines.\n\nThe search returned multiple available safety data sheets from various suppliers, which you can access directly for complete technical specifications."
+    },
+    {
+      "query": "bergamot oil Calabria origin furocoumarin removal bergapten FCF process",
+      "purpose": "chemotype_origin",
+      "executed_at": "2026-09-28T10:57:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "The Essential Oil We Never Planned to Bring Home", "url": "https://anitafelice.substack.com/p/the-essential-oil-we-never-planned"},
+        {"rank": 2, "title": "Bergamot BF/FCF* (Bergaptene-Free) Organic – Divine Essence", "url": "https://www.divineessence.com/products/bergamot-bf-fcf-bergaptene-free-organic"},
+        {"rank": 3, "title": "Bergamot FCF EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/bergamot-fcf.html"},
+        {"rank": 4, "title": "Bergamot “Superior” Oil, FCF", "url": "https://fraterworks.com/products/bergamot-oil-fcf"},
+        {"rank": 5, "title": "Bergamot vs. FCF Bergamot Essential Oil Explained | AromaWeb", "url": "https://www.aromaweb.com/articles/bergamot-vs-fcf-bergamot-essential-oil.php"},
+        {"rank": 6, "title": "Bergamot Essential Oil: History, Uses, and Benefits", "url": "https://jeanenchantedcp.wixsite.com/enchanted-country-po/post/bergamot-essential-oil-history-uses-and-benefits"},
+        {"rank": 7, "title": "Alcoholic or aqueous-alcoholic compositions containing natural essences and benzylidene-camphor derivatives", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4731200"},
+        {"rank": 8, "title": "Bergamot Essential Oil (BF) Calabria IT | Perfume Material", "url": "https://olfactorian.com/materials/bergamot---essential-oil-bf---calabria-it"},
+        {"rank": 9, "title": "What Does Calabrian Bergamot Smell Like? Perfumery Guide", "url": "https://caperfume.com/pages/discover-ingredient/calabrian-bergamot"}
+      ],
+      "provider_summary": "Based on the search results, here's comprehensive information about bergamot oil from Calabria and the FCF process:\n\n## Calabria Origin\n\nBergamot is especially grown in Calabria, along a narrow strip of the coast of Calabria, on the Ionian Sea and the Tyrrhenian Sea, where its production still drives a small local industry. Trees were later cultivated in the Calabria region of southern Italy which now produces about 90% of the world's supply of bergamot oil.\n\nThe growing area is a narrow coastal strip, about 100 km long, where unique microclimatic conditions—sea breezes, limestone-rich soils, and stable humidity—yield a chemical profile unmatched elsewhere. Harvesting occurs from November to March, with fruits hand-picked at peak ripeness. The extraction process is mechanical, using cold-pressing.\n\n## Furocoumarins and Bergapten\n\nTraditional cold-expressed Bergamot contains naturally occurring furocoumarins, including bergapten. When sufficient amounts remain on the skin and are followed by exposure to ultraviolet light, these constituents can cause a phototoxic reaction.\n\n## FCF Process\n\nFCF (furocoumarin-free) means that the furocoumarin-rich fraction has been removed during additional processing. FCF Bergamot Essential Oil is cold pressed Bergamot Essential Oil that has had most or virtually all of its bergapten removed via vacuum distillation or rectification.\n\nFCF (furocoumarin-free) bergamot is produced via fractional distillation to remove bergapten (CAS 484-20-8). Notably, some Calabrian bergamot oil FCF is produced using a highly specialised cold extraction process that removes restricted furocoumarins (including bergapten) without any damage to the oil."
+    },
+    {
+      "query": "bergamot oil use level perfumery IFRA bergapten limit",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:57:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "A G Organica - Bergamot Oil for Perfume: Scent Profile, Benefits, and Modern Uses", "url": "https://www.pureoilsindia.com/blog/bergamot-oil-for-perfume"},
+        {"rank": 2, "title": "Bergamot in Perfumery | Première Peau", "url": "https://premierepeau.com/pages/glossary-terms/bergamot"},
+        {"rank": 3, "title": "bergamot oil bergaptene reduced italy, 68648-33-9", "url": "https://www.thegoodscentscompany.com/data/es1001871.html"},
+        {"rank": 4, "title": "Sun products", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4699781"},
+        {"rank": 5, "title": "Bergamot essential oil", "url": "https://en.wikipedia.org/wiki/Bergamot_essential_oil"},
+        {"rank": 6, "title": "IFRA 51 Conformity Certificate Organic Bergamot Essential ...", "url": "https://www.nhrorganicoils.com/uploads/20240429151520e_Bergamot_Bergapten_Free_IFRA_51.pdf"},
+        {"rank": 7, "title": "IFRA Compliance – Filigree & Shadow", "url": "https://www.filigreeandshadow.co/blogs/news/ifra-compliance"},
+        {"rank": 8, "title": "Bergamot “Superior” Oil, FCF", "url": "https://fraterworks.com/products/bergamot-oil-fcf"},
+        {"rank": 9, "title": "Bergapten-free (Citrus bergamia)", "url": "https://www.nhrorganicoils.com/uploads/20221118130355e_Bergamot_Bergapten_Free_IFRA_49.pdf"}
+      ],
+      "provider_summary": "Based on the search results, here's information about bergamot oil use levels and bergapten limits in perfumery according to IFRA:\n\n## IFRA Bergapten Limits\n\nIFRA's 51st Amendment caps the bergapten level at approximately 0.4% in leave-on products, with a stricter 15 ppm limit in sun-exposed skin products. More specifically, for applications on areas of skin exposed to UV-light, the total level of Bergapten in consumer products should not exceed 0.0015% (15 ppm).\n\n## Bergamot Oil Use in Perfumery\n\nIFRA standards restrict the use of Bergamot oil to 0.40% of a finished fragrance.\n\n## Bergapten-Free (FCF) Alternative\n\nTo address safety concerns, scientists developed a way to remove the bergapten, which is sold as Bergamot FCF (Furocoumarin-Free). Bergaptene-free (FCF) oil is produced by vacuum distillation, stripping the furocoumarins while preserving the olfactory profile.\n\nThe reason for these restrictions is that the crude oil contains bergapten (5-methoxypsoralen) and bergamottin at phototoxic concentrations."
+    },
+    {
+      "query": "\"bergamot oil defurocoumarinized\"",
+      "purpose": "name_variant_exact",
+      "executed_at": "2026-09-28T10:58:05Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Translational Value of the Transdermal Administration of Bergamot Essential Oil and of Its Fractions - PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9143031/"},
+        {"rank": 2, "title": "Combined coulometric and voltammetric analytical approach provides novel insights into the antioxidant capacity of natural coumarins and furanocoumarins - ScienceDirect", "url": "https://www.sciencedirect.com/science/article/pii/S0039914025000657"},
+        {"rank": 3, "title": "Efficacy of Defurocumarinized Bergamot in the Treatment of Agitation in Severe Dementia Patients.", "url": "https://clinicaltrials.gov/study/NCT04321889"},
+        {"rank": 4, "title": "Elimination of Furocoumarins in Bergamot Peel Oil", "url": "https://img.perfumerflavorist.com/files/base/allured/all/document/2016/02/pf.PF_29_05_048_04.pdf"},
+        {"rank": 5, "title": "Bergamottin and 5-Geranyloxy-7-methoxycoumarin Cooperate in the Cytotoxic Effect of Citrus bergamia (Bergamot) Essential Oil in Human Neuroblastoma SH-SY5Y Cell Line", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069240/"},
+        {"rank": 6, "title": "Bergamot Essential Oil Attenuates Anxiety-Like Behaviour in Rats", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6154596/"},
+        {"rank": 7, "title": "Efficacy of bergamot: From anti‐inflammatory and anti‐oxidative mechanisms to clinical applications as preventive agent for cardiovascular morbidity, skin diseases, and mood alterations", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6392855/"},
+        {"rank": 8, "title": "Mechanisms Underlying the Anti-Inflammatory Activity of Bergamot Essential Oil and Its Antinociceptive Effects", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7356015/"},
+        {"rank": 9, "title": "High Quality Bergamot Oil from Greece: Chemical Analysis Using Chiral Gas Chromatography and Larvicidal Activity against the West Nile Virus Vector", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6253838/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about defurocoumarinized bergamot oil:\n\n## Overview\n\nDefurocoumarinized bergamot oil fractions are processed to avoid phototoxicity. This process involves removing certain compounds from the natural bergamot essential oil.\n\n## The Process\n\nThe yield in defurocoumarinized oil varies between 88-90 percent with a loss of about 10 percent. The commercial quotation of the defurocoumarinized oil is about 10 percent more elevated in comparison to that of the natural oil.\n\nWhile removal of bergapten minimizes the risks associated with phototoxicity, the predominant persistence of bergamottin means removal of bergapten did not significantly reduce the antioxidant capacity.\n\n## Research Applications\n\nThe decolored essential oil (DEC), with higher levels of limonene, and the deterpenated (DET) fraction, with higher levels of linalool and linalyl acetate, have been investigated for their analgesic efficacy.\n\nAdditionally, there has been clinical research into defurocoumarinized bergamot, including a randomized double-blind controlled trial to evaluate the efficacy of defurocoumarinized bergamot loaded in a nanotechnological system for the release of essential oil in the treatment of agitation in severe dementia patients."
+    },
+    {
+      "query": "bergamot oil Italy FCF LMR Naturals compendium",
+      "purpose": "supplier_page_variant",
+      "executed_at": "2026-09-28T10:58:05Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "BERGAMOT OIL CP ITALY ORG FCR CSM|LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/bergamot-oil-cp-italy-org-fcr-csm/"},
+        {"rank": 2, "title": "Bergamot “Superior” Oil, FCF", "url": "https://fraterworks.com/products/bergamot-oil-fcf"},
+        {"rank": 3, "title": "Bergamot Oil FCF, Organic – Fraterworks", "url": "https://fraterworks.com/products/bergamot-oil-fcf-organic"},
+        {"rank": 4, "title": "Bergamot FCF - Organic EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/bergamot-fcf-organic.html"},
+        {"rank": 5, "title": "Bergamot Oil FCF, Terpeneless – Fraterworks", "url": "https://fraterworks.com/products/bergamot-oil-terpeneless"},
+        {"rank": 6, "title": "Bergamot FCF EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/bergamot-fcf.html"},
+        {"rank": 7, "title": "Bergamot Essential Oil FCF (Bergapten Free) Italy", "url": "https://www.natureinbottle.com/product/bergamot_oil_fcf"},
+        {"rank": 8, "title": "bergamot oil bergaptene reduced italy, 68648-33-9", "url": "https://www.thegoodscentscompany.com/data/es1001871.html"},
+        {"rank": 9, "title": "LMR Naturals Compendium Products", "url": "https://www.iff.com/scent/lmr-compendium/"}
+      ],
+      "provider_summary": "I found relevant results for your search on bergamot oil from Italy in the LMR Naturals compendium. Here's what the search revealed:\n\n## LMR Naturals Bergamot Oil (FCF - Furocoumarin Free)\n\nThe LMR Naturals compendium lists Bergamot Oil CP Italy Org FCR, described as a zesty and fresh citrus with floral and herbal undertones.\n\n### Sourcing and Origin\n\nLMR sources its bergamot in the region of Calabria in Italy, the world's leading producer of this citrus. Fruits are harvested by hand, selected for their unripe, green color: a critical choice for optimal quality and yield of the essential oil.\n\n### Product Details\n\nThe crop calendar shows availability in January, February, and December. The bergamot oil is classified as a citrus ingredient with zesty and floral characteristics.\n\nThe first search result links directly to the LMR Naturals Compendium product page hosted on IFF's website, which provides detailed information about this specific bergamot oil product, including its sourcing practices and olfactive profile."
+    }
+  ]
+}

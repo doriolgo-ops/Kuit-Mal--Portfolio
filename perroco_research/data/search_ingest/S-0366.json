@@ -1,0 +1,155 @@
+{
+  "palette_id": "S-0366",
+  "school_name_exact": "CALONE",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "Calone 1951 Firmenich",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:57:20Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 2, "title": "Calone", "url": "https://en.wikipedia.org/wiki/Calone"},
+        {"rank": 3, "title": "Calone 1951 (Fir) *ADR* Online Kopen bij Hekserij", "url": "https://eng.hekserij.nl/shop/fragrance-raw-material/search-by-type/aroma-chemicals/calone-1951-fir/"},
+        {"rank": 4, "title": "Perfumers Apprentice - Calone® 10% (Firmenich) (DPG)", "url": "https://shop.perfumersapprentice.com/p-8228-calone-10-firmenich-dpg.aspx"},
+        {"rank": 5, "title": "Jacques Cavallier", "url": "https://en.wikipedia.org/wiki/Jacques_Cavallier"},
+        {"rank": 6, "title": "CALONE® FIRMENICH 918970 (1951)", "url": "https://www.ventos.com/index.php/en/producto/3077/CALONE+FIRMENICH+918970+(1951)/CALONE%C2%AE+FIRMENICH+918970+(1951)"},
+        {"rank": 7, "title": "CALONE® FIRMENICH 918970 (1951)", "url": "https://ventos.com/index.php/en/producto/3077/CALONE+FIRMENICH+918970+(1951)"},
+        {"rank": 8, "title": "Calone® 1951", "url": "https://fraterworks.com/products/calone-plus"},
+        {"rank": 9, "title": "Buy Calone® (Firmenich) for Perfumery - Evocative Perfumes", "url": "https://evocativeperfumes.com/calone"},
+        {"rank": 10, "title": "Calone 1951®: Watermelon & Sea Breeze - Nathaniel Davis", "url": "https://nathanieldavis.co.uk/2019/02/27/watermelon-calone-ketone/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Calone 1951 by Firmenich:\n\n## Overview\nCalone (methylbenzodioxepinone, trade-named Calone 1951) is an organic compound with the formula CH3C6H3(OCH2)2CO. In the fragrance industry it is known as \"watermelon ketone\" or simply \"calone\".\n\n## Characteristics\nThis odorant has intense ozone and marine notes with floral overtones. Calone 1951 (from Firmenich) is a colourless to slightly yellow liquid at room temperature with purity of at least 99% and a fairly long shelf life.\n\n## Origin and Discovery\nCalone 1951 was discovered in 1966 by chemists from Camilli, Albert & Laloue, a fragrance company founded in 1830 and owned by Coty until 1963.\n\n## Industry Use\nCalone is very trendy and has been widely used since the 1990s. Calone imparts a light, airy, sea-breeze scent with an aqueous watermelon/melon feel that was used in Aqua di Gio and L'Eau d'Issey in the 1990s."
+    },
+    {
+      "query": "Calone CAS 28940-11-6",
+      "purpose": "cas_identity",
+      "executed_at": "2026-09-28T10:57:20Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Calone", "url": "https://en.wikipedia.org/wiki/Calone"},
+        {"rank": 2, "title": "Calone (28940-11-6) — Premium Marine Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/calone"},
+        {"rank": 3, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 4, "title": "28940-11-6 | MFCD07371373 | C10H10O3", "url": "https://www.keyorganics.net/calone-28940-11-6-c10h10o3.html"},
+        {"rank": 5, "title": "Calone / Calone 1951 / Methylbenzodioxepinone CAS 28940-11-6 for Fragrance - Watermelon Ketone and Calone", "url": "https://entrepreneur.en.made-in-china.com/product/NZzAyYExvlaf/China-Calone-Calone-1951-Methylbenzodioxepinone-CAS-28940-11-6-for-Fragrance.html"},
+        {"rank": 6, "title": "Watermelon Ketone / Calone CAS 28940-11-6 for Fragrance - Watermelon Ketone and Calone", "url": "https://entrepreneur.en.made-in-china.com/product/LdeGRPWEsDaI/China-Watermelon-Ketone-Calone-CAS-28940-11-6-for-Fragrance.html"},
+        {"rank": 7, "title": "ScenTree - Calone® (CAS N° 28940-11-6)", "url": "https://www.scentree.co/en/Calone%C2%AE.html"},
+        {"rank": 8, "title": "Calone (Watermelon ketone) | CAS 28940-11-6 - Arran Chemical Company", "url": "https://arranchemical.ie/achiral/wmk-cas-28940-11-6/"},
+        {"rank": 9, "title": "Watermelon Ketone CAS 28940-11-6-Beijing Entrepreneur Science & Trading Co., Ltd", "url": "https://www.entrepreneur-cn.com/Products/Watermelon-Ketone-CAS-28940-11-6-185.html"},
+        {"rank": 10, "title": "BENSCENTS - Calone — 28940-11-6", "url": "https://www.benscents.com/aromaversity/cas-library-numbers/c-cas-numbers/calone-28940-11-6"}
+      ],
+      "provider_summary": "Based on the search results, here's information about Calone CAS 28940-11-6:\n\n## Overview\nCalone (CAS 28940-11-6) is an organic compound with the formula C₁₀H₁₀O₃, also known as 7-Methyl-2,4-dihydro-3H-1,5-benzodioxepin-3-one. In the fragrance industry it is known as \"watermelon ketone\" or simply \"calone\".\n\n## Chemical Properties\nIt appears as white crystals, flakes or clumps with a distinctive odor and has a melting point of 35–41 °C. It is insoluble in water but soluble in ethanol and other organic solvents.\n\n## Fragrance Applications\nCalone is a powerful marine aroma molecule used for its sea-breeze, ozonic, and subtle fruity profile. Calone is famous for its ozonic, marine, watery-fresh character with nuances of watermelon, cucumber, and sea breeze. It is iconic in Acqua Di Gio and Hugo, and is essential for aquatic compositions and ambergris reconstructions.\n\n## History\nCalone was developed by Pfizer in the 1960s. The shift toward widespread use occurred with Aramis New West for Her (1989), which used Calone at 1.2% concentration—an unprecedented move that marked the beginning of the aquatic olfactory trend."
+    },
+    {
+      "query": "Calone 1951 safety data sheet",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:57:20Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "503181 CALONE® 1951 SAFETY DATA SHEET Version # 02 Revision Date: 04-03-2018", "url": "https://www.vigon.com/product/calone-1951/?doc=MSDS%2F503181_vigon_sds_us_english.pdf&namee=Calone1951SDS"},
+        {"rank": 2, "title": "Calone 1951® by Vigon - Personal Care & Cosmetics", "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/31183/994880/Calone-1951"},
+        {"rank": 3, "title": "Calone / Calone 1951 / Methylbenzodioxepinone CAS 28940-11-6 for Fragrance - Watermelon Ketone and Calone", "url": "https://entrepreneur.en.made-in-china.com/product/NZzAyYExvlaf/China-Calone-Calone-1951-Methylbenzodioxepinone-CAS-28940-11-6-for-Fragrance.html"},
+        {"rank": 4, "title": "Page 1 of 5 A0281 CALONE 1951 MATERIAL SAFETY DATA SHEET", "url": "http://www.mu-intel.com/upload/msds/20140101034908.pdf"},
+        {"rank": 5, "title": "MATERIAL SAFETY DATA SHEET", "url": "https://perfumersupplyhouse.com/wp-content/uploads/2014/04/CALONE-1951-MSDS.pdf"},
+        {"rank": 6, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 7, "title": "Calone Safety Data Sheet", "url": "https://www.chemtexusa.com/wp-content/uploads/2021/03/C0150_Calone.pdf"},
+        {"rank": 8, "title": "Material Safety Data Sheet (MSDS) Calone Revision Date: 30-September-2025", "url": "https://www.chemicalbull.com/images/product/MSDS-1759302468.pdf"},
+        {"rank": 9, "title": "Calone — Grokipedia", "url": "https://grokipedia.com/page/Calone"}
+      ],
+      "provider_summary": "I found several safety data sheets for Calone 1951. Here's what I discovered:\n\n## Product Information\n\nCalone 1951® is a concentrated aromatic ingredient which may be used in fragrance compounds according to legal and IFRA guidelines. The molecular formula is C10H10O3 with a molecular weight of 178.18 and CAS# 28940-11-6.\n\n## Physical Properties\n\nThe melting point/freezing point is 104°F (40°C), with an initial boiling point of 316.4°F (158°C) and a flash point of >200.0°F (>93.3°C) in a closed cup. Vapor pressure is 1 mm Hg at 20°C with a vapor density of 6.2, and it is insoluble in water.\n\n## Hazard Classification\n\nAccording to GHS classification, Calone 1951 is categorized as causing skin irritation (Category 2) and eye irritation (Category 2A), with hazard statements indicating it may be harmful if swallowed and causes skin and eye irritation.\n\n## Available Documents\n\nEssential documents such as Certificate of Analysis (COA), Technical Data Sheet (TDS), and Material Safety Data Sheet (MSDS) are available upon request from suppliers.\n\nI located multiple safety data sheets from different suppliers including Vigon, Perfumer's Supply House, and CHEMTEX USA with revision dates ranging from 2010 to 2018."
+    },
+    {
+      "query": "Calone use level",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:57:20Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 2, "title": "Calone (28940-11-6) — Premium Marine Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/calone"},
+        {"rank": 3, "title": "Perfumers Apprentice - Calone® 10% (Firmenich) (DPG)", "url": "https://shop.perfumersapprentice.com/p-8228-calone-10-firmenich-dpg.aspx"},
+        {"rank": 4, "title": "Calone 10% DPG - BC Fragrance", "url": "https://shop.bcfragrance.com/product/calone-10-dpg/"},
+        {"rank": 5, "title": "Calone® 1% (Ready to Use)", "url": "https://www.theparfumapothecary.com/products/calone-1-ready-to-use"},
+        {"rank": 6, "title": "Calone: The Molecule That Invented Ocean | Première Peau", "url": "https://premierepeau.com/blogs/news/calone-ocean-perfume-molecule-premiere-peau"},
+        {"rank": 7, "title": "What Does Calone Smell Like? Perfumery Guide", "url": "https://caperfume.com/pages/discover-ingredient/calone"},
+        {"rank": 8, "title": "Calone Longevity: The Aquatic Molecule (2-4 Hours but 600+ on Paper) | House of Sultan", "url": "https://houseofsultan.in/blog/calone-longevity"},
+        {"rank": 9, "title": "Calone", "url": "https://en.wikipedia.org/wiki/Calone"}
+      ],
+      "provider_summary": "Based on the search results, here are the typical use levels for Calone in perfumery:\n\nFor pure Calone 1951, the use level is up to 0.5%. However, the recommended concentration varies depending on the formulation and application:\n\n- Usage levels are often ≤0.8% in fine fragrance\n- The recommended concentration is 0.02–2% (very potent; start low)\n- Recommended usage is 0.1 to 0.4% in fine fragrance, and at trace amounts below 0.1%, it provides lift without any explicitly marine signature\n- It is used as a heart note in aquatic compositions, typically at concentrations of 0.1–0.5%\n\nFor diluted formulations, a 10% Calone solution has a use level up to 5% of the total fragrance concentrate.\n\nIt's important to note that Calone can dominate compositions even at low concentrations, so it should be used sparingly and with care when creating fragrances."
+    },
+    {
+      "query": "Calone dsm-firmenich",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:58:04Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "CALONE® DSM-Firmenich - cosmetics", "url": "https://www.specialchem.com/cosmetics/product/dsm-firmenich-calone"},
+        {"rank": 2, "title": "CASCALONE - DSM-Firmenich - Technical Datasheet", "url": "https://www.specialchem.com/cosmetics/product/dsm-firmenich-cascalone"},
+        {"rank": 3, "title": "CASCALONE®", "url": "https://studio.dsm-firmenich.com/product/cascaloner-pe-920000"},
+        {"rank": 4, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 5, "title": "DSM-Firmenich", "url": "https://en.wikipedia.org/wiki/DSM-Firmenich"},
+        {"rank": 6, "title": "Firmenich", "url": "https://en.wikipedia.org/wiki/Firmenich"},
+        {"rank": 7, "title": "Calone - Firmenich – The Fragrance Foundry", "url": "https://thefragrancefoundry.com/products/calone-firmenich"},
+        {"rank": 8, "title": "Calone® from dsm-firmenich-Aromatic Chemicals", "url": "https://bulkaroma.com/en-us/products/calone-watermelon-ketone-firmenich"},
+        {"rank": 9, "title": "Calone (watermelon Ketone) – DSM-Firmenich -", "url": "https://australianperfumerysupplies.com.au/products/Calone-watermelon-Ketone-DSM-Firmenich-p698767915"}
+      ],
+      "provider_summary": "Here are the search results for Calone by dsm-firmenich:\n\n## Product Overview\n\nCALONE® by DSM-Firmenich is a perfumery ingredient produced by green synthesis. It is also known as Methyl Benzodioxepinone.\n\n## Characteristics\n\nIt offers intense ozone and marine notes with floral undertones. Calone is an aquatic, fruity ketone that adds a refreshing, watery touch to fragrances. Calone is famous for its role in the inception of the aquatic genre in perfumery, and this molecule synonymous with the 90s smells fresh and watery.\n\n## Applications\n\nIt is used in fine fragrances, shampoo, shower gel, and soap. CALONE has been widely used since the 1990's and is the basis of several perfumes.\n\n## Historical Significance\n\nCALONE® was one of the very first watery molecules introduced to the perfumery industry and was solely responsible for launching the marine fragrance trend of the 1990s.\n\n## Certifications\n\nIt is EcoIngredient Compass™, Kosher, and Halal certified."
+    },
+    {
+      "query": "Calone Firmenich pdf",
+      "purpose": "manufacturer_tds_pdf",
+      "executed_at": "2026-09-28T10:58:04Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "CALONE® 918970 OLFACTIVE DESCRIPTION This unusual ingredient displays intense", "url": "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/CALONE_918970.pdf"},
+        {"rank": 2, "title": "CASCALONE® 920000 OLFACTIVE DESCRIPTION CASCALONE® is a fresh, aquatic", "url": "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/sharing_innovation/CASCALONE.pdf"},
+        {"rank": 3, "title": "Calone", "url": "https://en.wikipedia.org/wiki/Calone"},
+        {"rank": 4, "title": "CALONE - Firmenich - Cosmetics Ingredients", "url": "https://cosmetics.specialchem.com/product/i-firmenich-calone"},
+        {"rank": 5, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 6, "title": "watermelon ketone calone (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1002352.html"},
+        {"rank": 7, "title": "Calone (Firmenich) Crystals – Pell Wall", "url": "https://pellwall.com/products/calone-firmenich-crystals"},
+        {"rank": 8, "title": "Perfumers Apprentice - Calone® 10% (Firmenich) (DPG)", "url": "https://shop.perfumersapprentice.com/p-8228-calone-10-firmenich-dpg.aspx"},
+        {"rank": 9, "title": "Calone (Firmenich) Liquid – Pell Wall", "url": "https://pellwall.com/products/calone-firmenich-liquid"},
+        {"rank": 10, "title": "Jacques Cavallier", "url": "https://en.wikipedia.org/wiki/Jacques_Cavallier"}
+      ],
+      "provider_summary": "I found search results for Calone Firmenich. Here's what I discovered:\n\nThe search returned several relevant results, including direct PDF files from Firmenich:\n\n1. **Firmenich Official PDF**: The first result links to an official Firmenich marketing sheet for CALONE® 918970, which is one of the very first watery molecules in the perfumery industry, invented by Firmenich.\n\n2. **Cascalone PDF**: There's also another related Firmenich PDF on CASCALONE® 920000, which comes in the footsteps of Firmenich work initiated in the 1990s on the development of new marine notes and CALONE® analogues.\n\n**About Calone:**\nIn the fragrance industry it is known as \"watermelon ketone\" or simply \"calone\" and is used to give the olfactory impression of a fresh seashore through marine and ozone nuances.\n\nYou can access the official Firmenich PDFs directly at:\n- Calone 918970: https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/CALONE_918970.pdf\n- Cascalone 920000: https://www.firmenich.com/sites/default/files/uploads/files/ingredients/sharing_innovation/CASCALONE.pdf"
+    },
+    {
+      "query": "Calone odor vapor pressure",
+      "purpose": "odor_physchem",
+      "executed_at": "2026-09-28T10:58:04Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Calone 1951 (Fir) *ADR* Online Kopen bij Hekserij", "url": "https://eng.hekserij.nl/shop/fragrance-raw-material/search-by-type/aroma-chemicals/calone-1951-fir/"},
+        {"rank": 2, "title": "503181 CALONE® 1951 SAFETY DATA SHEET Version # 02 Revision Date: 04-03-2018", "url": "https://www.vigon.com/product/calone-1951/?doc=MSDS%2F503181_vigon_sds_us_english.pdf&namee=Calone1951SDS"},
+        {"rank": 3, "title": "MATERIAL SAFETY DATA SHEET", "url": "https://perfumersupplyhouse.com/wp-content/uploads/2014/04/CALONE-1951-MSDS.pdf"},
+        {"rank": 4, "title": "Hydrogen odorants and odorant selection method", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8394553"},
+        {"rank": 5, "title": "Hydrogen odorants and odorant selection method", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7811688"},
+        {"rank": 6, "title": "Malodor covering perfumery", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7585833"},
+        {"rank": 7, "title": "Perfumes for rinse-off systems", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7446079"},
+        {"rank": 8, "title": "Fragrance material", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6808684"},
+        {"rank": 9, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 10, "title": "Calone (28940-11-6) — Premium Marine Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/calone"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Calone's odor and vapor pressure:\n\n**Odor Profile:**\nCalone 1951 is an aromachemical having the scent of algae, ozone, ocean, cyclamen and watermelon. Its odor profile is characterized by intense sea breeze, ozonic, marine with a faint floral background, and slight green and fruity aspects including melon and oyster.\n\n**Vapor Pressure:**\nThere are varying measurements reported for Calone's vapor pressure:\n- One source lists it as 0.87 Pa\n- Another reports 1 mm Hg at 20 °C\n- A third source indicates a vapor pressure of 0.05 Pa at 20°C\n\nThe variation in reported values may be due to different measurement methods or product formulations. Despite these relatively low vapor pressures, Calone is described as having a quite strong smell and is a solid, powdery substance."
+    },
+    {
+      "query": "Calone 1951 Vigon",
+      "purpose": "distributor_page",
+      "executed_at": "2026-09-28T10:58:04Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Calone 1951® by Vigon - Personal Care & Cosmetics", "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/31183/994880/Calone-1951"},
+        {"rank": 2, "title": "Calone 1951 | Vigon", "url": "https://www.vigon.com/product/calone-1951/"},
+        {"rank": 3, "title": "Product Name: Vigon Code: CAS Number: CALONE® 1951 503181 28940-11-6", "url": "https://www.vigon.com/product/calone-1951/?doc=PACKET/503181packet.pdf&namee=Calone1951AllDocuments"},
+        {"rank": 4, "title": "503181 CALONE® 1951 SAFETY DATA SHEET Version # 02 Revision Date: 04-03-2018", "url": "https://www.vigon.com/product/calone-1951/?doc=MSDS%2F503181_vigon_sds_us_english.pdf&namee=Calone1951SDS"},
+        {"rank": 5, "title": "Sincerely, Vigon Regulatory Department regulatory@vigon.com", "url": "https://www.vigon.com/product/calone-1951/?doc=HEAMET%2F503181heamet.pdf&namee=Calone1951PesticidesMetals"},
+        {"rank": 6, "title": "Calone 1951? | Basenotes", "url": "https://basenotes.com/threads/calone-1951.480687/"},
+        {"rank": 7, "title": "Perfumers Apprentice - Calone 1951® (Firmenich) **", "url": "https://shop.perfumersapprentice.com/p-6021-calone-1951-firmenich.aspx"},
+        {"rank": 8, "title": "Calone® 1951", "url": "https://fraterworks.com/products/calone-plus"},
+        {"rank": 9, "title": "watermelon ketone calone (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1002352.html"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Calone 1951 by Vigon:\n\n## Product Overview\n\nCalone 1951® is a concentrated aromatic ingredient which may be used in fragrance compounds according to legal and IFRA guidelines. It has CAS number 28940-11-6 and Vigon Item number 503181.\n\n## Chemical Background\n\nCalone® 1951 was discovered in 1966 by chemists from Camilli, Albert & Laloue, a fragrance company founded in 1830 and owned by Coty until 1963. It was an accidental discovery in the process of inventing a new tranquiliser which eventually came to be known as Valium. It was named for the first letters of the company (C, A, L + Ketone), with the \"1951\" relating to the chemical registration number.\n\n## Scent Profile\n\nThis unusual odorant has intense ozone and marine notes with floral overtones. The substance (methylbenzodioxepinone) had a strong scent of watermelon.\n\n## Manufacturer Information\n\nVigon International, LLC is based at 127 Airport Road, East Stroudsburg, PA 18301-9629 USA and specializes in providing actives, botanical extracts, and functional ingredients for various industries."
+    }
+  ]
+}

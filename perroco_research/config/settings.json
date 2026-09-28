@@ -1,0 +1,18 @@
+{
+  "user_agent": "PerrocoLabResearchBot/0.1 (non-commercial educational perfumery research; respects robots.txt; operated via Claude Code)",
+  "robots_agents_checked": [
+    "PerrocoLabResearchBot",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Claude-Web",
+    "Claude-User"
+  ],
+  "default_min_interval_s": 6.0,
+  "request_timeout_s": 30,
+  "max_bytes": 26214400,
+  "max_leads_fetched_per_material": 14,
+  "ncbi_min_interval_s": 2.0,
+  "ncbi_max_articles_per_natural": 3,
+  "master_path": "input/Perroco_Lab_Research_Master_v2.xlsx",
+  "extractor_version": "0.1.0"
+}

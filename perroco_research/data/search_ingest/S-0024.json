@@ -1,0 +1,154 @@
+{
+  "palette_id": "S-0024",
+  "school_name_exact": "RHUBOFIX FIRM",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "Rhubofix Firmenich",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:52:25Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "RHUBOFIX - DSM Firmenich", "url": "https://www.specialchem.com/cosmetics/product/dsm-firmenich-rhubofix"},
+        {"rank": 2, "title": "RHUBOFIX® DSM-Firmenich - cosmetics", "url": "https://cosmetics.specialchem.com/product/i-firmenich-rhubofix"},
+        {"rank": 3, "title": "Rhubofix (41816-03-9) – Premium Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/rhubofix"},
+        {"rank": 4, "title": "rhubarb oxirane rhubofix (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1028291.html"},
+        {"rank": 5, "title": "Perfumers Apprentice - Rhubofix® (Firmenich)", "url": "https://shop.perfumersapprentice.com/p-8903-rhubofix-firmenich.aspx"},
+        {"rank": 6, "title": "Rhubofix - Firmenich – The Fragrance Foundry", "url": "https://thefragrancefoundry.com/products/rhubofix-firmenich"},
+        {"rank": 7, "title": "Rhubofix – Fraterworks", "url": "https://fraterworks.com/products/rhubofix"},
+        {"rank": 8, "title": "Rhubofix® (Firmenich) – Perfumer Supply House", "url": "https://perfumersupplyhouse.com/product/rhubofix-firmenich/"},
+        {"rank": 9, "title": "Rhubofix (Firmenich®) » scentfriends", "url": "https://scentfriends.com/en/product/rhubofix-firmenich/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubofix Firmenich:\n\n## Overview\nRhubofix by DSM-Firmenich is a synthetic, perfumery ingredient produced by green synthesis. Rhubofix is a proprietary captive ingredient developed by Firmenich (now part of dsm-firmenich), characterized by its complex spirocyclic molecular structure containing an oxirane (epoxide) ring fused to a methylated naphthalene system.\n\n## Scent Profile\nIt has a complex woody, spicy, floral and fruity note and has a zesty freshness and unique green rhubarb effect. The opening is grapefruit-bright and tart-green, with exactly the astringent freshness of a raw rhubarb stalk.\n\n## Uses and Applications\nIt is used in fine fragrances, shampoo, shower gel, and soap. It blends very well with woody, spicy, rose, bergamot and lavender notes.\n\n## Performance and Certifications\nIt shows tenacity for 4 days on a smelling strip. Rhubofix is EcoIngredient Compass™, Kosher, and Halal certified."
+    },
+    {
+      "query": "Rhubofix dsm-firmenich",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:52:25Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "RHUBOFIX - DSM Firmenich", "url": "https://www.specialchem.com/cosmetics/product/dsm-firmenich-rhubofix"},
+        {"rank": 2, "title": "RHUBOFIX® DSM-Firmenich - cosmetics", "url": "https://cosmetics.specialchem.com/product/i-firmenich-rhubofix"},
+        {"rank": 3, "title": "RHUBOFIX - DSM Firmenich - Cosmetics Ingredients", "url": "https://cosmetics.specialchem.com/product/i-dsm-firmenich-rhubofix"},
+        {"rank": 4, "title": "RHUBOFIX®", "url": "https://studio.dsm-firmenich.com/product/rhubofixr-pe-978880"},
+        {"rank": 5, "title": "Rhubofix (41816-03-9) – Premium Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/rhubofix"},
+        {"rank": 6, "title": "Perfumers Apprentice - Rhubofix® (Firmenich)", "url": "https://shop.perfumersapprentice.com/p-8903-rhubofix-firmenich.aspx"},
+        {"rank": 7, "title": "DSM-Firmenich", "url": "https://en.wikipedia.org/wiki/DSM-Firmenich"},
+        {"rank": 8, "title": "ScenTree - Rhubofix® (CAS N° 41816-03-9)", "url": "https://www.scentree.co/en/Rhubofix%C2%AE.html"},
+        {"rank": 9, "title": "Rhubofix® - dsm-firmenich", "url": "https://bulkaroma.com/products/rhubofix-firmenich"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubofix from DSM-Firmenich:\n\n## Overview\nRHUBOFIX® by DSM-Firmenich is a synthetic, perfumery ingredient produced by green synthesis. Rhubofix® is a proprietary captive ingredient developed by Firmenich (now part of dsm-firmenich), characterized by its complex spirocyclic molecular structure containing an oxirane (epoxide) ring fused to a methylated naphthalene system.\n\n## Fragrance Profile\nIt has a complex woody, spicy, floral and fruity note. It has a zesty freshness and unique green rhubarb effect. It blends very well with woody, spicy, rose, bergamot and lavender notes.\n\n## Applications\nIt is used in fine fragrances, shampoo, shower gel, and soap.\n\n## Longevity & Certifications\nIt shows tenacity for 4 days on a smelling strip. RHUBOFIX® is EcoIngredient Compass™, Kosher, and Halal certified."
+    },
+    {
+      "query": "Rhubofix CAS 41816-03-9",
+      "purpose": "cas_identity",
+      "executed_at": "2026-09-28T10:52:25Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Buy Online CAS Number 41816-03-9 - TRC - Rhubofix | LGC Standards", "url": "https://www.lgcstandards.com/US/en/p/TRC-R414100"},
+        {"rank": 2, "title": "Rhubofix | 41816-03-9 | RBA81603 | Biosynth", "url": "https://www.biosynth.com/p/RBA81603/41816-03-9-rhubofix"},
+        {"rank": 3, "title": "Rhubofix - prefix CAS No. 41816-03-9 | Aladdin Scientific", "url": "https://www.aladdinsci.com/rhubofix-bioactive-small-molecules-by-aladdin-scientific-r341038.html"},
+        {"rank": 4, "title": "464695 Rhubofix CAS: 41816-03-9", "url": "https://www.usbio.net/biochemicals/464695/rhubofix"},
+        {"rank": 5, "title": "Rhubofix (41816-03-9) – Premium Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/rhubofix"},
+        {"rank": 6, "title": "Rhubofix | CAS 41816-03-9 | SCBT - Santa Cruz Biotechnology", "url": "https://www.scbt.com/p/rhubofix-41816-03-9"},
+        {"rank": 7, "title": "ScenTree - Rhubofix® (CAS N° 41816-03-9)", "url": "https://www.scentree.co/en/Rhubofix%C2%AE.html"},
+        {"rank": 8, "title": "Rhubofix | Rhubofix | PerfumersWorld", "url": "https://www.perfumersworld.com/view.php?pro_id=3FL06757"},
+        {"rank": 9, "title": "Rhubofix® (Firmenich) – Perfumer Supply House", "url": "https://perfumersupplyhouse.com/product/rhubofix-firmenich/"},
+        {"rank": 10, "title": "Perfumers Apprentice - Rhubofix® (Firmenich)", "url": "https://shop.perfumersapprentice.com/p-8903-rhubofix-firmenich.aspx"}
+      ],
+      "provider_summary": "Based on the search results, here's information about Rhubofix (CAS 41816-03-9):\n\n**Chemical Properties:**\nRhubofix has a molecular formula of C14H20O with a molecular weight of 204.31.\n\n**Primary Use:**\nRhubofix is a synthetic ester with a rhubarb-green olfactory profile used in fine fragrance for crisp top notes and naturalistic effects. It has a complex woody, spicy, floral and fruity note with zesty freshness and unique green rhubarb effect.\n\n**Chemical Structure:**\nThe full chemical name is Spiro[1,4-methanonaphthalene-2(1H),2'-oxirane], 3,4,4a,5,8,8a-hexahydro-3',7-dimethyl.\n\n**Fragrance Applications:**\nRhubofix has the ability to fill out a fragrance and blends well with woody, spicy, rose, bergamot and lavender notes.\n\n**Regulatory Status:**\nRhubofix is FEMA GRAS approved, REACH registered, and non-allergenic."
+    },
+    {
+      "query": "Rhubofix safety data sheet",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:52:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "rhubarb oxirane rhubofix (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1028291.html"},
+        {"rank": 2, "title": "Rhubofix | Rhubofix | PerfumersWorld", "url": "https://www.perfumersworld.com/view.php?pro_id=3FL06757"},
+        {"rank": 3, "title": "Rhubofix Manufacturer & Suppliers |ELAROMA-RFx - Elchemy", "url": "https://elchemy.com/product/rhubofix-935"},
+        {"rank": 4, "title": "Rhubofix | C14H20O | CID 94522 - PubChem", "url": "https://pubchem.ncbi.nlm.nih.gov/compound/94522"},
+        {"rank": 5, "title": "RHUBOFIX", "url": "https://www.directpcw.com/en/fruity/705-rhubofix.html"},
+        {"rank": 6, "title": "Rhubofix: The Complete Guide To This Aroma Chemical – glooshi.", "url": "https://www.glooshi.com/rhubofix/"},
+        {"rank": 7, "title": "Safety data sheet", "url": "https://en.wikipedia.org/wiki/Safety_data_sheet"},
+        {"rank": 8, "title": "SAFETY DATA SHEET - release.makewebeasy.com", "url": "https://image.makewebeasy.net/makeweb/0/oCmFYX9sp/Document/Rhubofix_SDS.pdf?v=202405291424"},
+        {"rank": 9, "title": "Rhubofix (41816-03-9) – Premium Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/rhubofix"}
+      ],
+      "provider_summary": "Based on the search results, I found information about Rhubofix safety data sheets:\n\nRhubofix is a chemical with EC Number 255-560-0 and CAS Number 41816-03-9, and safety data sheets are available in GHS format. Safety Data Sheet documents are available for download from suppliers.\n\nRegarding safety considerations, Rhubofix may be harmful if swallowed, and it is toxic to aquatic life and toxic to aquatic life with long lasting effects.\n\nFor handling, protective gear such as gloves and safety glasses should be worn, and work should be done in a well-ventilated area.\n\nIf you need the complete official Safety Data Sheet with all detailed information, you can request it directly from suppliers or access it through chemical supplier websites, as indicated by the search results showing that downloadable SDS documents are available."
+    },
+    {
+      "query": "Rhubofix use level",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:52:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Perfumers Apprentice - Rhubofix® (Firmenich)", "url": "https://shop.perfumersapprentice.com/p-8903-rhubofix-firmenich.aspx"},
+        {"rank": 2, "title": "Rhubofix® by Vigon - Personal Care & Cosmetics", "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/31183/994828/Rhubofix"},
+        {"rank": 3, "title": "PerfumersWorld www.PerfumersWorld.com", "url": "https://www.perfumersworld.com/ifra/IFRA/IFRA_3FL06757.pdf"},
+        {"rank": 4, "title": "Rhubofix (Firmenich®) » scentfriends", "url": "https://scentfriends.com/en/product/rhubofix-firmenich/"},
+        {"rank": 5, "title": "Rhubofix: The Complete Guide To This Aroma Chemical – glooshi.", "url": "https://www.glooshi.com/rhubofix/"},
+        {"rank": 6, "title": "Rhubofix | Rhubofix | PerfumersWorld", "url": "https://www.perfumersworld.com/view.php?pro_id=3FL06757"},
+        {"rank": 7, "title": "Rhubofix (41816-03-9) – Premium Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/rhubofix"},
+        {"rank": 8, "title": "rhubarb oxirane rhubofix (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1028291.html"},
+        {"rank": 9, "title": "RHUBOFIX", "url": "https://www.directpcw.com/en/index.php?controller=attachment&id_attachment=15161"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubofix use levels:\n\nThe general use level for Rhubofix ranges from trace to 0.5%. More specifically, Firmenich recommends use levels up to 0.5% in the concentrate, though in practice one usually works between 0.05 and 0.3%.\n\nThe recommended use levels also vary depending on the specific application according to IFRA (International Fragrance Association) guidelines. For example, maximum compound levels range from 0.50% for eye products to 40% for fine fragrance on unshaved skin.\n\nRhubofix is one of those materials that cannot be overdosed without the whole composition tipping over, so care should be taken not to exceed recommended levels."
+    },
+    {
+      "query": "Rhubofix Firmenich pdf",
+      "purpose": "manufacturer_tds_pdf",
+      "executed_at": "2026-09-28T10:52:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "RHUBOFIX® 978880 OLFACTIVE DESCRIPTION", "url": "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/RHUBOFIX_978880.pdf"},
+        {"rank": 2, "title": "RHUBOFIX - DSM Firmenich", "url": "https://www.specialchem.com/cosmetics/product/dsm-firmenich-rhubofix"},
+        {"rank": 3, "title": "RHUBOFIX® DSM-Firmenich - cosmetics", "url": "https://cosmetics.specialchem.com/product/i-firmenich-rhubofix"},
+        {"rank": 4, "title": "rhubarb oxirane rhubofix (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1028291.html"},
+        {"rank": 5, "title": "Perfumers Apprentice - Rhubofix® (Firmenich)", "url": "https://shop.perfumersapprentice.com/p-8903-rhubofix-firmenich.aspx"},
+        {"rank": 6, "title": "Rhubofix - Firmenich – The Fragrance Foundry", "url": "https://thefragrancefoundry.com/products/rhubofix-firmenich"},
+        {"rank": 7, "title": "Rhubarb long lasting? | Basenotes", "url": "https://basenotes.com/threads/rhubarb-long-lasting.440369/"},
+        {"rank": 8, "title": "RHUBOFIX FIRMENICH 978880", "url": "https://www.ventos.com/index.php/en/producto/3813"},
+        {"rank": 9, "title": "Rhubofix® (Firmenich) – Perfumer Supply House", "url": "https://perfumersupplyhouse.com/product/rhubofix-firmenich/"},
+        {"rank": 10, "title": "Firmenich", "url": "https://en.wikipedia.org/wiki/Firmenich"}
+      ],
+      "provider_summary": "The search found relevant information about Rhubofix from Firmenich. Here's what I found:\n\n## Rhubofix® by Firmenich\n\nRHUBOFIX® by DSM-Firmenich is a synthetic, perfumery ingredient produced by green synthesis. \n\n**Olfactive Profile:**\nIt's a complex woody, spicy, floral and fruity note with zesty freshness and unique green rhubarb effect.\n\n**Perfumery Uses:**\nRHUBOFIX® blends very well with woody, spicy, rose, bergamot and lavender notes. It is used in fine fragrances, shampoo, shower gel, and soap.\n\n**Properties:**\nIt shows tenacity for 4 days on a smelling strip. RHUBOFIX® is EcoIngredient Compass™, Kosher, and Halal certified.\n\nThe most relevant PDF appears to be the official Firmenich product sheet available at: https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/RHUBOFIX_978880.pdf"
+    },
+    {
+      "query": "Rhubofix odor vapor pressure",
+      "purpose": "odor_physchem",
+      "executed_at": "2026-09-28T10:52:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "RHUBOFIX®", "url": "https://studio.dsm-firmenich.com/product/rhubofixr-pe-978880"},
+        {"rank": 2, "title": "Rhubofix (CAS 41816-03-9): Odor profile, Properties, & IFRA compliance", "url": "https://scent.vn/en/pages/compound/rhubofix-94522"},
+        {"rank": 3, "title": "RHUBOFIX® 978880 OLFACTIVE DESCRIPTION", "url": "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/RHUBOFIX_978880.pdf"},
+        {"rank": 4, "title": "Rhubofix (41816-03-9) – Premium Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/rhubofix"},
+        {"rank": 5, "title": "Mesoporous metal-organic framework", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7842827"},
+        {"rank": 6, "title": "Hydrogen odorants and odorant selection method", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8394553"},
+        {"rank": 7, "title": "Hydrogen odorants and odorant selection method", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7811688"},
+        {"rank": 8, "title": "rhubarb oxirane rhubofix (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1028291.html"},
+        {"rank": 9, "title": "Malodor covering perfumery", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7585833"},
+        {"rank": 10, "title": "Perfumers Apprentice - Rhubofix® (Firmenich)", "url": "https://shop.perfumersapprentice.com/p-8903-rhubofix-firmenich.aspx"}
+      ],
+      "provider_summary": "Based on the search results, here's the information about Rhubofix:\n\n**Odor Profile:**\nRhubofix delivers a sharply green and fruity scent profile reminiscent of fresh rhubarb stalk and tart apple skin. It has a versatile woody note with vetiver facets, prominent floral-green rhubarb effect, grapefruit undertone, and spicy-fresh character.\n\n**Vapor Pressure:**\nRhubofix has a vapor pressure of 0.98 Pa at 20°C.\n\n**Additional Properties:**\nRhubofix is a synthetic ester derived from (Z)-3-hexenol and (E)-2-hexenoic acid, and it serves as a top note modifier and freshness enhancer in perfumery."
+    },
+    {
+      "query": "Rhubofix perfumersworld",
+      "purpose": "distributor_page",
+      "executed_at": "2026-09-28T10:52:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Rhubofix | PerfumersWorld", "url": "https://www.perfumersworld.com/ifra/view-page.php?pro_id=3FL06757&ifra=defaultOpen"},
+        {"rank": 2, "title": "Rhubofix | Rhubofix | PerfumersWorld", "url": "https://www.perfumersworld.com/view.php?pro_id=3FL06757"},
+        {"rank": 3, "title": "PerfumersWorld www.PerfumersWorld.com", "url": "https://www.perfumersworld.com/ifra/IFRA/IFRA_3FL06757.pdf"},
+        {"rank": 4, "title": "Rhubofix (41816-03-9) – Premium Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/rhubofix"},
+        {"rank": 5, "title": "Perfumers Apprentice - Rhubofix® (Firmenich)", "url": "https://shop.perfumersapprentice.com/p-8903-rhubofix-firmenich.aspx"},
+        {"rank": 6, "title": "Rhubofix - Firmenich – The Fragrance Foundry", "url": "https://thefragrancefoundry.com/products/rhubofix-firmenich"},
+        {"rank": 7, "title": "rhubarb oxirane rhubofix (Firmenich)", "url": "https://www.thegoodscentscompany.com/data/rw1028291.html"},
+        {"rank": 8, "title": "Rhubofix® (Firmenich) – Perfumer Supply House", "url": "https://perfumersupplyhouse.com/product/rhubofix-firmenich/"},
+        {"rank": 9, "title": "Rhubarb long lasting? | Basenotes", "url": "https://basenotes.com/threads/rhubarb-long-lasting.440369/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubofix on PerfumersWorld:\n\nRhubofix is a woody, spicy, floral and fruity note that has a zesty freshness and unique green rhubarb effect. It has the ability to fill out a fragrance and blends very well with woody, spicy, rose, bergamot and lavender notes.\n\nRhubofix® is a proprietary captive ingredient developed by Firmenich (now part of dsm-firmenich), characterized by its complex spirocyclic molecular structure containing an oxirane (epoxide) ring fused to a methylated naphthalene system. It serves as a top note modifier and freshness enhancer in perfumery, particularly useful in rhubarb, peony, or green apple-inspired accords.\n\nPerfumersWorld offers this ingredient for sale as a fragrance component, and it is generally unrestricted for use in non-skin contact home fragrances, candles, incense, plastics, fuels, paints, and car and air fresheners."
+    }
+  ]
+}

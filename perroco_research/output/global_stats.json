@@ -1,0 +1,968 @@
+{
+ "materials_with_new_data": [
+  "S-0486",
+  "S-0526",
+  "S-0479",
+  "S-0024",
+  "S-0518",
+  "S-0372",
+  "S-0502",
+  "S-0366",
+  "N-0775",
+  "N-0697",
+  "N-0623",
+  "N-0632",
+  "N-0556",
+  "N-0728",
+  "S-0507",
+  "S-0023",
+  "S-0020"
+ ],
+ "materials_without_useful_results": [
+  "S-0002",
+  "S-0468",
+  "S-0508"
+ ],
+ "documents_downloaded": 229,
+ "api_documents": 59,
+ "documents_by_kind": {
+  "xml": 59,
+  "html": 147,
+  "pdf": 82
+ },
+ "urls_attempted": 410,
+ "fetch_status": {
+  "MANUAL_RETRIEVAL_REQUIRED": 73,
+  "ROBOTS_DISALLOWED": 86,
+  "FETCHED": 230,
+  "HTTP_ERROR": 1,
+  "ENV_UNREACHABLE": 19,
+  "UNSUPPORTED_CONTENT": 1
+ },
+ "exact_duplicate_urls": 9,
+ "near_duplicates": [
+  {
+   "doc_id": "ff9628955868cfe4b092bfc54c4035d20bd8abdca3eaab512818a9aface34a00",
+   "first_url": "https://www.ventos.com/index.php/en/producto/9969/MUSCEMOR+IFF/223",
+   "duplicate_of": "7479fec6e22a0f924fa1589d8beb8a714f71ca7d7c766b8bd5f3ecec8599a60d",
+   "duplicate_basis": "text similarity 100%"
+  },
+  {
+   "doc_id": "197db811b1327475a33c19335d5e0c949ddd508264514eef091178e20572686c",
+   "first_url": "https://www.ventos.com/index.php/en/producto/3075/ISO%20E%20SUPER%20IFF/ISO%20E%20SUPER%C2%AE%20IFF",
+   "duplicate_of": "e242de9b6bb67a5888f0fe805784eb764613df439df4239adf53d13d811b557e",
+   "duplicate_basis": "text similarity 100%"
+  },
+  {
+   "doc_id": "e50a16f90d72e01260f412bdbc748f406b5f8de7d30f06d9ad824b2d414787c9",
+   "first_url": "https://our-company.dsm-firmenich.com/en/our-company/news/our-stories/2024/increasing-production-capacity-for-perfumery-ingredients-in-europe.html",
+   "duplicate_of": "0f83d1e073eea5bd8a32ef00e8a5e16a4a31ef4f507f1384f98301c84a8f74cd",
+   "duplicate_basis": "text similarity 99%"
+  },
+  {
+   "doc_id": "6fb56ad8b6ba2fe07f5e364c623d8ba9918f2b078e7e0de5d2fa73965bfffb44",
+   "first_url": "https://www.givaudan.com/print/1314306",
+   "duplicate_of": "58bc8af2be1c9cecaa86706e1517c1c7b0846e22a3afa8aac840dedd753024e0",
+   "duplicate_basis": "text similarity 100%"
+  },
+  {
+   "doc_id": "6a73bacff8b9501bf68da0e9355481152e96a20a041f661148a0455bd18a6320",
+   "first_url": "https://www.perfumersworld.com/view.php?pro_id=1WU21632",
+   "duplicate_of": "f21efccbd3690fbf879c2923696e13e35ae6bb97374f1975600adfae0641d5f6",
+   "duplicate_basis": "text similarity 96%"
+  }
+ ],
+ "derived_copies": [
+  {
+   "doc_id": "6fb56ad8b6ba2fe07f5e364c623d8ba9918f2b078e7e0de5d2fa73965bfffb44",
+   "first_url": "https://www.givaudan.com/print/1314306",
+   "derived_from": "58bc8af2be1c9cecaa86706e1517c1c7b0846e22a3afa8aac840dedd753024e0"
+  }
+ ],
+ "conflicts": [
+  {
+   "palette_id": "S-0486",
+   "field": "flash_point",
+   "detail": "flash_point: independent sources disagree beyond tolerance ('abs', 6)",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0486",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0526",
+   "field": "density",
+   "detail": "density: independent sources disagree beyond tolerance ('abs', 0.012)",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0479",
+   "field": "boiling_point",
+   "detail": "boiling_point: independent sources disagree beyond tolerance ('abs', 8) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0479",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0518",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0372",
+   "field": "vapour_pressure",
+   "detail": "vapour_pressure: independent sources disagree beyond tolerance ('rel', 0.3) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0372",
+   "field": "flash_point",
+   "detail": "flash_point: independent sources disagree beyond tolerance ('abs', 6) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0372",
+   "field": "logp",
+   "detail": "logp: independent sources disagree beyond tolerance ('abs', 0.6) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0372",
+   "field": "use_level",
+   "detail": "recommended use levels from independent sources do not agree [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0366",
+   "field": "vapour_pressure",
+   "detail": "vapour_pressure: independent sources disagree beyond tolerance ('rel', 0.3)",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0366",
+   "field": "flash_point",
+   "detail": "flash_point: independent sources disagree beyond tolerance ('abs', 6) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0366",
+   "field": "boiling_point",
+   "detail": "boiling_point: independent sources disagree beyond tolerance ('abs', 8) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0775",
+   "field": "cas",
+   "detail": "source CAS not in master CAS set",
+   "includes_master": 1
+  },
+  {
+   "palette_id": "N-0775",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0697",
+   "field": "density",
+   "detail": "density: independent sources disagree beyond tolerance ('abs', 0.012)",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0697",
+   "field": "flash_point",
+   "detail": "flash_point: independent sources disagree beyond tolerance ('abs', 6) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0697",
+   "field": "cas",
+   "detail": "source CAS not in master CAS set",
+   "includes_master": 1
+  },
+  {
+   "palette_id": "N-0697",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0623",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0632",
+   "field": "flash_point",
+   "detail": "flash_point: independent sources disagree beyond tolerance ('abs', 6) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0632",
+   "field": "cas",
+   "detail": "source CAS not in master CAS set",
+   "includes_master": 1
+  },
+  {
+   "palette_id": "N-0632",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "N-0556",
+   "field": "cas",
+   "detail": "source CAS not in master CAS set",
+   "includes_master": 1
+  },
+  {
+   "palette_id": "N-0728",
+   "field": "cas",
+   "detail": "source CAS not in master CAS set",
+   "includes_master": 1
+  },
+  {
+   "palette_id": "N-0728",
+   "field": "botanical_species",
+   "detail": "sources identify polianthes tuberosa; master says 'Rosa x damascena (typical source; not stated for all grades)'",
+   "includes_master": 1
+  },
+  {
+   "palette_id": "N-0728",
+   "field": "h_statement",
+   "detail": "SDS from different suppliers/grades list different H statements (reported per SDS; not merged) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0020",
+   "field": "flash_point",
+   "detail": "flash_point: independent sources disagree beyond tolerance ('abs', 6) [lower-tier dissent only]",
+   "includes_master": 0
+  },
+  {
+   "palette_id": "S-0020",
+   "field": "tenacity",
+   "detail": "tenacity: independent sources disagree beyond tolerance ('rel', 0.5)",
+   "includes_master": 0
+  }
+ ],
+ "new_manufacturer_dose_records": {
+  "AUTO_ELIGIBLE": 1,
+  "NEEDS_REVIEW": 2,
+  "BLOCKED_CONFLICT": 0
+ },
+ "new_secondary_dose_records": 7,
+ "new_vp_records": {
+  "AUTO_ELIGIBLE": 0,
+  "NEEDS_REVIEW": 5,
+  "BLOCKED_CONFLICT": 3
+ },
+ "new_physchem_records": 47,
+ "new_performance_records": {
+  "AUTO_ELIGIBLE": 1,
+  "NEEDS_REVIEW": 10,
+  "BLOCKED_CONFLICT": 2
+ },
+ "identity_improvements": [
+  [
+   "S-0372",
+   "identity_tier",
+   "B_EXACT_CHEMICAL_GRADE_UNCONFIRMED",
+   "A_EXACT_COMMERCIAL_GRADE",
+   "AUTO_ELIGIBLE"
+  ],
+  [
+   "S-0372",
+   "supplier_grade_url",
+   null,
+   "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/florhydraltm",
+   "AUTO_ELIGIBLE"
+  ],
+  [
+   "S-0502",
+   "identity_tier",
+   "B_EXACT_CHEMICAL_VIA_TRADE_NAME_LINK",
+   "A_EXACT_COMMERCIAL_GRADE",
+   "AUTO_ELIGIBLE"
+  ],
+  [
+   "S-0502",
+   "supplier_grade_url",
+   null,
+   "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Timberol.pdf",
+   "AUTO_ELIGIBLE"
+  ],
+  [
+   "N-0728",
+   "botanical_species",
+   "Rosa x damascena (typical source; not stated for all grades)",
+   "polianthes tuberosa",
+   "BLOCKED_CONFLICT"
+  ],
+  [
+   "S-0507",
+   "resolved_cas",
+   null,
+   "476332-65-7",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0507",
+   "identity_tier",
+   "D_FAMILY_LEVEL_ONLY",
+   "B_EXACT_CHEMICAL_VIA_TRADE_NAME_LINK",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0023",
+   "resolved_cas",
+   null,
+   "82461-14-1",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0023",
+   "identity_tier",
+   "D_FAMILY_LEVEL_ONLY",
+   "B_EXACT_CHEMICAL_VIA_TRADE_NAME_LINK",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0020",
+   "resolved_cas",
+   null,
+   "1337-83-3",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0020",
+   "identity_tier",
+   "D_FAMILY_LEVEL_ONLY",
+   "B_EXACT_CHEMICAL_VIA_TRADE_NAME_LINK",
+   "NEEDS_REVIEW"
+  ]
+ ],
+ "new_sds_clp": [
+  [
+   "S-0486",
+   " | H: H315, H319, H411",
+   "https://media.knowde.com/image/upload/v1731934339/10341-01Bacdanol_SDSEUEN.pdf20241118-1-8n7ky9.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0486",
+   " | H: EUH208, H315, H319, H411",
+   "https://www.hekserij.nl/wp-content/uploads/2024/10/SDS-23144-Bacdanol-IFF-2024-05.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0486",
+   " | H: H319, H410",
+   "https://shop.perfumersapprentice.com/msds/9237.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0486",
+   "Aquatic Acute 1; Aquatic Chronic 1; Eye Irrit. 2A; Skin Irrit. 2 | H: H315, H319, H400, H410",
+   "https://www.chemtexusa.com/wp-content/uploads/2021/03/B1000_Bacdanol.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0526",
+   " | H: H317, H400, H410",
+   "https://finefrag.com/wp-content/uploads/2020/06/MUSCEMOR-MSDS.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0479",
+   " | H: H315, H317, H400, H410",
+   "https://www.hekserij.nl/wp-content/uploads/2025/03/SDS-23021-Iso-E-Super-IFF-2025-03.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0479",
+   "Aquatic Acute 2; Skin Irrit. 2; Skin Sens. 1 | H: H315, H317, H401",
+   "https://www.chemtexusa.com/wp-content/uploads/2021/03/I2200_IsoESuper.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0479",
+   " | H: H315, H317",
+   "https://perfumersupplyhouse.com/wp-content/uploads/2019/06/ISO-E-SUPER-GHS-SDS.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0479",
+   " | H: H315, H317, H401, H411",
+   "http://www.mu-intel.com/upload/msds/20180320232644.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0479",
+   " | H: H315, H317, H401, H410",
+   "https://finefrag.com/wp-content/uploads/2019/11/ISO-E-SUPER_00098663_GHS_MSDS_17SEP2019_112130.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0024",
+   "Acute Tox. 5; Aquatic Acute 2; Aquatic Chronic 2 | H: H303, H401, H411",
+   "https://image.makewebeasy.net/makeweb/0/oCmFYX9sp/Document/Rhubofix_SDS.pdf?v=202405291424",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0518",
+   " | H: H303, H313, H400, H410",
+   "https://shop.perfumersapprentice.com/Images/HabanolideSDS.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0518",
+   " | H: H303, H313, H410",
+   "https://shop.perfumersapprentice.com/msds/6099.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0372",
+   "Aquatic Acute 2; Aquatic Chronic 2; Flam. Liq. 4 | H: H227, H401, H411",
+   "https://www.vigon.com/product/florhydral/?doc=PACKET%2F501126packet.pdf&namee=FlorhydralAllDocuments",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0366",
+   "Eye Dam. 1; STOT SE 3; Skin Corr. 1B | H: H314, H318, H336",
+   "https://www.vigon.com/product/calone-1951/?doc=PACKET/503181packet.pdf&namee=Calone1951AllDocuments",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0775",
+   " | H: H317",
+   "https://cdn.accentuate.io/1800375107643/1592454388521/Vetiver---Material-Safety--Data-Sheet.pdf?v=0",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0775",
+   " | H: H304, H315, H317, H411",
+   "https://nikura.blob.core.windows.net/pdfs/Safety_Data_Sheet_Vetiver_Essential_Oil_EO-VET.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0697",
+   "Aquatic Acute 2; Aquatic Chronic 2; Asp. Tox. 1; Carc. 2; Muta. 2; Skin Irrit. 2; Skin Sens. 1 | H: H304, H313, H315, H317, H318, H341, H351, H401, H411",
+   "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-ROSE-OIL.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0697",
+   " | H: H226, H303, H315, H317, H318, H341, H351, H401, H412",
+   "https://finefrag.com/wp-content/uploads/2020/06/ROSE-OIL-TURKISH-LMR_00181102_GHS_SDS_28May2020_482142.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0623",
+   " | H: H227, H315",
+   "https://cdn.accentuate.io/1871053684795/1619828099392/Clary-Sage---Material-Safety--Data-Sheet.pdf?v=0",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0623",
+   " | H: H315, H317, H319, H402, H412",
+   "https://docs.newdirectionsaromatics.com/msds/SDS_ClarySageOrganicEO.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0632",
+   " | H: H226, H304, H315, H317, H319, H411",
+   "https://www.nhrorganicoils.com/uploads/20221122161304e_Cardamom_SDS.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0632",
+   " | H: H227, H303, H315, H317, H319, H411",
+   "https://finefrag.com/wp-content/uploads/2020/06/CARDAMOM-OIL-GUATEMALA-LMR_00032885_GHS_SDS_28May2020_482080.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0632",
+   "Aquatic Acute 2; Aquatic Chronic 2; Asp. Tox. 1; Eye Irrit. 2A; Flam. Liq. 3; Skin Irrit. 2; Skin Sens. 1 | H: H226, H304, H315, H317, H319, H401, H411",
+   "http://ultrainternational.com/wp-content/uploads/2023/08/SDS-CARDAMOM-OIL.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0556",
+   " | H: H226, H302, H304, H314, H315, H317, H410, H411",
+   "https://www.nhrorganicoils.com/uploads/20160817124803e_Bergamot_Bergapten_Free_SDS.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0728",
+   "Aquatic Acute 3; Aquatic Chronic 3 | H: H317, H332, H402, H412",
+   "https://shop.perfumersapprentice.com/msds/9309.pdf",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "N-0728",
+   " | H: H302, H317, H332, H412",
+   "https://www.echemi.com/sds/tuberoseabsolute-pid_Rock27439.html",
+   "NEEDS_REVIEW"
+  ],
+  [
+   "S-0507",
+   " | H: H317, H411",
+   "https://www.scentspiracy.com/fragrance-ingredients/p/amberxtreme",
+   "NEEDS_REVIEW"
+  ]
+ ],
+ "new_gcms_reference_rows": 44,
+ "gcms_studies": [
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10034984&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10049179&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10179952&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10198992&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10574192&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11234773&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11561422&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11592901&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12030332&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12114718&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12329038&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12394166&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12986586&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=13061289&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=13358669&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=13379571&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3281396&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5590077&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5668225&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6152346&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6154596&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6253838&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7009127&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7356015&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7986879&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8067454&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8069240&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8123808&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8294528&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8434190&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8586929&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8954624&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9073046&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9143031&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9415812&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9818623&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9920946&rettype=xml",
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9921129&rettype=xml"
+ ],
+ "changes_by_status": {
+  "NEEDS_REVIEW": 154,
+  "BLOCKED_CONFLICT": 10,
+  "AUTO_ELIGIBLE": 10
+ },
+ "changes_by_sheet": {
+  "INDIVIDUAL RESEARCH LOG": 21,
+  "DOSE EVIDENCE STRUCTURED": 10,
+  "PHYSICOCHEMICAL DATA": 47,
+  "PERFORMANCE EVIDENCE": 13,
+  "CLP HAZARDS": 28,
+  "MATERIAL IDENTITY": 10,
+  "NATURAL GCMS STUDIES": 44,
+  "NATURAL IDENTITY": 1
+ },
+ "inaccessible_domains": [
+  [
+   "thegoodscentscompany.com",
+   "ROBOTS_DISALLOWED",
+   12,
+   "robots.txt disallows ClaudeBot for /data/ab1005391.html -> MANUAL_RETRIEVAL_REQUIRED"
+  ],
+  [
+   "scentree.co",
+   "ROBOTS_DISALLOWED",
+   4,
+   "robots.txt disallows ClaudeBot for /en/Muscenone%C2%AE.html -> MANUAL_RETRIEVAL_REQUIRED"
+  ],
+  [
+   "fragrantica.com",
+   "ROBOTS_DISALLOWED",
+   3,
+   "robots.txt disallows ClaudeBot for /notes/Amber-Xtreme-879.html -> MANUAL_RETRIEVAL_REQUI\u2026"
+  ],
+  [
+   "iff.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   2,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "chemicalbook.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   2,
+   "HTTP 429 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "tandfonline.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   2,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "ulprospector.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   2,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "scribd.com",
+   "ROBOTS_DISALLOWED",
+   2,
+   "robots.txt disallows ClaudeBot for /document/710633645/Iso-E-Super-SDS -> MANUAL_RETRIEVA\u2026"
+  ],
+  [
+   "researchgate.net",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   2,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "creatingperfume.com",
+   "ENV_UNREACHABLE",
+   2,
+   "domain unreachable earlier in run: robots.txt unreachable: HTTPSConnectionPool(host='www.\u2026"
+  ],
+  [
+   "specialchem.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "lmrnaturals.iff.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "firmenich.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "cosmetics.specialchem.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "datasheets.scbt.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "studio.dsm-firmenich.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "sciencedirect.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "labelsds.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt disallows PerrocoLabResearchBot for /images/user_uploads/Tim-bor%20Label%204-1\u2026"
+  ],
+  [
+   "sds.rentokil-initial.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "scijournals.onlinelibrary.wiley.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   1,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "manuals.plus",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   1,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "givaudan.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   1,
+   "CAPTCHA page served (HTTP 200) - bot protection; not bypassed"
+  ],
+  [
+   "doi.org",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   1,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "basenotes.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "lmrnaturals.iff.com",
+   "ENV_UNREACHABLE",
+   1,
+   "domain unreachable earlier in run: robots.txt unreachable: ('Connection aborted.', Connec\u2026"
+  ],
+  [
+   "t3db.ca",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "pim-resources.coleparmer.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "pellwall.com",
+   "ENV_UNREACHABLE",
+   1,
+   "domain unreachable earlier in run: robots.txt unreachable: HTTPSConnectionPool(host='pell\u2026"
+  ],
+  [
+   "fishersci.com",
+   "ENV_UNREACHABLE",
+   1,
+   "robots.txt unreachable: HTTPSConnectionPool(host='www.fishersci.com', port=443): Read tim\u2026"
+  ],
+  [
+   "biosynth.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "olaughlinco.com",
+   "ENV_UNREACHABLE",
+   1,
+   "domain unreachable earlier in run: ConnectionError: HTTPConnectionPool(host='olaughlinco.\u2026"
+  ],
+  [
+   "ir.iff.com",
+   "ENV_UNREACHABLE",
+   1,
+   "domain unreachable earlier in run: robots.txt unreachable: HTTPSConnectionPool(host='ir.i\u2026"
+  ],
+  [
+   "carlroth.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "data.aromatics.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   1,
+   "HTTP 429 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "sigmaaldrich.com",
+   "ENV_UNREACHABLE",
+   1,
+   "robots.txt unreachable: HTTPSConnectionPool(host='www.sigmaaldrich.com', port=443): Read \u2026"
+  ],
+  [
+   "spectrumchemical.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "ouddict.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "ultranl.com",
+   "ENV_UNREACHABLE",
+   1,
+   "robots.txt unreachable: HTTPSConnectionPool(host='ultranl.com', port=443): Max retries ex\u2026"
+  ],
+  [
+   "cdn.planttherapy.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "dam.hollandandbarrettimages.co.uk",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "aroma-zone.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "ewg.org",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   1,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "efsa.onlinelibrary.wiley.com",
+   "MANUAL_RETRIEVAL_REQUIRED",
+   1,
+   "HTTP 403 (site refuses automated access; not bypassed)"
+  ],
+  [
+   "avenalab.com",
+   "ENV_UNREACHABLE",
+   1,
+   "domain unreachable earlier in run: robots.txt unreachable: ('Connection aborted.', Connec\u2026"
+  ],
+  [
+   "m.molbase.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "myskinrecipes.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ],
+  [
+   "perfumerflavorist.com",
+   "ROBOTS_DISALLOWED",
+   1,
+   "robots.txt itself returns 401/403 (site blocks automated clients) -> MANUAL_RETRIEVAL_REQ\u2026"
+  ]
+ ],
+ "errors": [],
+ "states": {
+  "NO_PUBLIC_DATA_FOUND": 3,
+  "NEEDS_REVIEW": 17
+ },
+ "readiness_before": {
+  "NOT_READY": 11,
+  "PARTIAL": 7,
+  "READY_WITH_CAVEATS": 2
+ },
+ "readiness_after_auto": {
+  "NOT_READY": 10,
+  "PARTIAL": 8,
+  "READY_WITH_CAVEATS": 2
+ },
+ "readiness_after_all": {
+  "NOT_READY": 9,
+  "PARTIAL": 9,
+  "READY_WITH_CAVEATS": 2
+ },
+ "readiness_moves": [
+  [
+   "S-0372",
+   74,
+   "READY_WITH_CAVEATS",
+   81,
+   "READY_WITH_CAVEATS",
+   81,
+   "READY_WITH_CAVEATS"
+  ],
+  [
+   "S-0502",
+   41,
+   "NOT_READY",
+   61,
+   "PARTIAL",
+   61,
+   "PARTIAL"
+  ],
+  [
+   "N-0697",
+   36,
+   "NOT_READY",
+   36,
+   "NOT_READY",
+   38,
+   "NOT_READY"
+  ],
+  [
+   "N-0556",
+   55,
+   "PARTIAL",
+   55,
+   "PARTIAL",
+   57,
+   "PARTIAL"
+  ],
+  [
+   "N-0728",
+   18,
+   "NOT_READY",
+   18,
+   "NOT_READY",
+   20,
+   "NOT_READY"
+  ],
+  [
+   "S-0507",
+   0,
+   "NOT_READY",
+   0,
+   "NOT_READY",
+   20,
+   "NOT_READY"
+  ],
+  [
+   "S-0023",
+   20,
+   "NOT_READY",
+   20,
+   "NOT_READY",
+   50,
+   "PARTIAL"
+  ],
+  [
+   "S-0020",
+   0,
+   "NOT_READY",
+   0,
+   "NOT_READY",
+   33,
+   "NOT_READY"
+  ]
+ ],
+ "audit": {
+  "text": "**Propuestas AUTO_ELIGIBLE: 10/10 correctas (100 %, n peque\u00f1a).** Claims extra\u00eddos: 88,6 % (62/70) en la muestra 1 y 87,5 % (49/56) en la muestra 2; propuestas de revisi\u00f3n: 80 % (32/40). Todos los tipos de error encontrados se corrigieron y el piloto se re-ejecut\u00f3; la precisi\u00f3n tras la \u00faltima ronda no se ha re-medido con una muestra nueva, por lo que la estimaci\u00f3n prudente para claims no autom\u00e1ticos es **~85\u201390 %**, y por eso siguen marcados NEEDS_REVIEW. Aparte de la extracci\u00f3n, varias fuentes (retailers, agregadores tipo ChemicalBook/LookChem) publican valores dudosos: se leen fielmente pero se marcan como evidencia secundaria y suelen acabar en CONFLICT. Detalle: data/audit/audit_verdicts.json."
+ },
+ "queries_total": 180,
+ "queries_by_provider": {
+  "claude_websearch": 153,
+  "pubchem_api": 21,
+  "ncbi_pmc_api": 6
+ },
+ "distinct_urls_found": 992
+}

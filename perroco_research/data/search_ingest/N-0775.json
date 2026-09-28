@@ -1,0 +1,137 @@
+{
+  "palette_id": "N-0775",
+  "school_name_exact": "VETIVER OIL LMR",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "vetiver oil LMR IFF",
+      "purpose": "supplier_page",
+      "executed_at": "2026-09-28T10:52:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "VETIVER OIL HAITI|LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/vetiver-oil-haiti/"},
+        {"rank": 2, "title": "VETIVER HEART|LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/vetiver-heart/"},
+        {"rank": 3, "title": "VETIVER OIL JAVA|LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/vetiver-oil-java/"},
+        {"rank": 4, "title": "VETIVER CONCENTRATE MD |Fragrance Ingredients| IFF", "url": "https://www.iff.com/scent/lmr-compendium/vetiver-concentrate-md-for-life/"},
+        {"rank": 5, "title": "Vetiver Oil Haiti – International Flavors & Fragrances", "url": "http://lmrnaturals.iff.com/en/scent/lmr-naturals/online-compendium/vetiver-oil-haiti"},
+        {"rank": 6, "title": "IFF-LMR Naturals Achieves For Life Social Responsibility Certification for Haitian Vetiver Operations | International Flavors & Fragrances Inc.", "url": "https://ir.iff.com/news-releases/news-release-details/iff-lmr-naturals-achieves-life-social-responsibility-0"},
+        {"rank": 7, "title": "LMR Naturals by IFF: Vetiver Haiti", "url": "https://www.youtube.com/watch?v=GHkJ4uzLi5s"},
+        {"rank": 8, "title": "Vetiver, Vetiveria zizanioides (L.) Nash: Biotechnology, Biorefineries, and the Production of Volatile Phytochemicals", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12114718/"},
+        {"rank": 9, "title": "(3R) epimer of octahydro-7,7-dimethyl-8-methylene 1H-3a, 6-methanoazulene-3-yl acetate, composition, synthesis process and use of said epimer", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9914691"},
+        {"rank": 10, "title": "Vetiver plant named ‘CIMAP-KHUSINOLIKA’", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/PP28388"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about vetiver oil, LMR, and IFF:\n\nLMR has established a natural innovation vetiver sourcing platform in Haiti. The synergy with its partner, with 20 years of experience in vetiver-oil production, gives exclusive access to plant materials and extraction equipment.\n\nLMR Naturals is part of International Flavors & Fragrances (IFF), a major company in the fragrance and flavor industry. The search results show several vetiver oil products available through LMR's catalog, including:\n\n- **Vetiver Oil Haiti** - sourced from Haiti through IFF's LMR platform\n- **Vetiver Oil Java** - an intense woody-earthy and smoky vetiver character with leather facets and a nutty nuance\n- **Vetiver Heart** - a penetrating woody profile that has a characteristically clean and dry vetiver note with a touch of nutty and grapefruit nuances\n- **Vetiver Concentrate MD for Life** - with deep woody earthy facets and smooth long lasting character\n\nVetiver is an important ingredient for perfumers and can be found in many fine fragrance and consumer fragrance creations."
+    },
+    {
+      "query": "Chrysopogon zizanioides root essential oil GC-MS composition",
+      "purpose": "gcms_composition",
+      "executed_at": "2026-09-28T10:52:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "GC-MS analyses and bioactivities of essential oil obtained from the roots ofChrysopogon zizanioides (L.) Roberty cultivated in Giresun, Turkey", "url": "https://journals.tubitak.gov.tr/chem/vol45/iss5/19/"},
+        {"rank": 2, "title": "Antibacterial, Antiparasitic, and Cytotoxic Activities of Chemical Characterized Essential Oil of Chrysopogon zizanioides Roots - PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9415812/"},
+        {"rank": 3, "title": "GC-MS analyses and bioactivities of essential oil obtained from the roots of Chrysopogon zizanioides (L.) Roberty cultivated in Giresun, Turkey - PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13061289/"},
+        {"rank": 4, "title": "GC-MS analyses and bioactivities of essential oil obtained from the roots of Chrysopogon zizanioides (L.) Roberty cultivated in Giresun, Turkey - PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/41958498/"},
+        {"rank": 5, "title": "(PDF) ESSENTIAL OIL OF Chrysopogon zizanioides (L.) ROOTS: TLC/GC-MS ANALYSIS, ACUTE TOXICITY AND ANTIMICROBIAL ACTIVITY AGAINST MULTIDRUG RESISTANCE MICROORGANISMS", "url": "https://www.researchgate.net/publication/320586135_ESSENTIAL_OIL_OF_Chrysopogon_zizanioides_L_ROOTS_TLCGC-MS_ANALYSIS_ACUTE_TOXICITY_AND_ANTIMICROBIAL_ACTIVITY_AGAINST_MULTIDRUG_RESISTANCE_MICROORGANISMS"},
+        {"rank": 6, "title": "(PDF) GC-MS analyses and bioactivities of essential oil obtained from the roots of Chrysopogon zizanioides (L.) Roberty cultivated in Giresun, Turkey", "url": "https://www.researchgate.net/publication/353192479_GC-MS_analyses_and_bioactivities_of_essential_oil_obtained_from_the_roots_of_Chrysopogon_zizanioides_L_Roberty_cultivated_in_Giresun_Turkey"},
+        {"rank": 7, "title": "(PDF) Microscopic characteristics and essential oil composition of Chrysopogon zizanioides (L.) Roberty collected in Quang Nam", "url": "https://www.researchgate.net/publication/326403216_Microscopic_characteristics_and_essential_oil_composition_of_Chrysopogon_zizanioides_L_Roberty_collected_in_Quang_Nam"},
+        {"rank": 8, "title": "Chrysopogon zizanioides (Vetiver) Essential Oil from Qatar Targets AKT1 and STAT3 in Colorectal and Lung Cancer: GC-MS Profiling, In Vitro Antiproliferative Activity, and In Silico Analyses - PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/41829818/"},
+        {"rank": 9, "title": "Chemical constituent and Biological potency of Chrysopogon zizanoides L. root essential oil grown in North-East India with special consideration to acidic soil: Journal of Essential Oil Bearing Plants: Vol 26, No 4", "url": "https://www.tandfonline.com/doi/abs/10.1080/0972060X.2023.2264328"}
+      ],
+      "provider_summary": "I've found comprehensive information about the GC-MS composition of Chrysopogon zizanioides root essential oil from multiple studies. Here are the key findings:\n\n## GC-MS Composition Results\n\n**Turkish Cultivar Study:**\nThirty compounds were identified by gas chromatography-mass spectrometry (GC-MS) and the major compounds were determined as isobutyl-angelate (11.15%), α-muurolene (10.56%), α-cedrene (8.42%), α-patchoulene (8.10%), and ethylene brassylate (7.49%).\n\n**Brazilian Cultivar Study:**\nThe major compounds in the essential oil are khusimol (30.0 ± 0.3%), β-eudesmol (10.8 ± 0.3%), α-muurolene (6.0 ± 0.1%), and patchouli alcohol (5.6 ± 0.2%). A total of 22 compounds were identified, most of which (70.4 ± 0.1 %) are oxygenated sesquiterpenes.\n\n**Vietnamese Cultivar Study:**\nThe GC/MS analysis showed that Ced-8-en-13-ol, junipene and β-vatirene were the main constituents of Vetiver oil.\n\n**North-East India Study:**\nThe GC/MS analysis identified 31 compounds with an essential oil yield of 0.11±0.035% (v/w), including cubenol as a major compound.\n\nThe composition varies depending on geographic origin and cultivation conditions, with sesquiterpenes being the dominant components across different samples."
+    },
+    {
+      "query": "ISO 4716 vetiver oil",
+      "purpose": "iso_standard",
+      "executed_at": "2026-09-28T10:52:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "ISO 4716:2002, Oil of vetiver (Vetiveria zizanioides (L.) Nash): International Organization for Standardization: Amazon.com: Books", "url": "https://www.amazon.com/ISO-4716-vetiver-Vetiveria-zizanioides/dp/B000Y2T2NU"},
+        {"rank": 2, "title": "ISO 4716:2002 - Oil of vetiver (Vetiveria zizanioides (L.) Nash)", "url": "https://www.iso.org/standard/28587.html"},
+        {"rank": 3, "title": "ISO 4716:1987 - Oil of vetiver (Vetiveria zizanioides (Linnaeus) Nash)", "url": "https://www.iso.org/standard/10700.html"},
+        {"rank": 4, "title": "ISO 4716:2013 - Essential oil of vetiver [Chrysopogon zizanioides (L.) Roberty, syn. Vetiveria zizanioides (L.) Nash]", "url": "https://www.iso.org/standard/55965.html"},
+        {"rank": 5, "title": "NEN-ISO 4716:1988 en", "url": "https://www.nen.nl/en/nen-iso-4716-1988-en-7281"},
+        {"rank": 6, "title": "© ISO 2013 Essential oil of vetiver [Chrysopogon", "url": "https://www.sis.se/api/document/preview/916442/"},
+        {"rank": 7, "title": "BS ISO 4716:2013 Essential oil of vetiver [Chrysopogon zizanioides (L.) Roberty, syn. Vet iveria zizanioides (L.) Nash]", "url": "https://www.en-standard.eu/bs-iso-4716-2013-essential-oil-of-vetiver-chrysopogon-zizanioides-l-roberty-syn-vet-iveria-zizanioides-l-nash/"},
+        {"rank": 8, "title": "ISO 4716", "url": "https://cdn.standards.iteh.ai/samples/10700/dee5c0794edc45b8a1e57336ee2b1e40/ISO-4716-1987.pdf"},
+        {"rank": 9, "title": "© ISO 2013 Essential oil of vetiver [Chrysopogon", "url": "https://cdn.standards.iteh.ai/samples/55965/9b8ef81ac9eb4ea08c60acc08ec53688/ISO-4716-2013.pdf"},
+        {"rank": 10, "title": "ISO 4716:2013 Essential oil of vetiver [Chrysopogon zizanioides (L.) Roberty, syn. Vetiveria zizanioides (L.) Nash] - Sky Bear Technical Standards", "url": "https://www.skybearstandards.com/documents/4716-essential-oil-of-vetiver-chrysopogon-zizanioides-l-roberty-syn-vetiveria-zizanioides-l-nash/"}
+      ],
+      "provider_summary": "Based on the search results, here's information about ISO 4716 and vetiver oil:\n\n## Overview\n\nISO 4716:2013 specifies certain characteristics of the essential oil of vetiver [Chrysopogon zizanioides (L.) Roberty, syn. Vetiveria zizanioides (L.) Nash], growing in Reunion Island, China, Haiti, Indonesia, Madagascar, Brazil, and Comoros Island in order to facilitate assessment of its quality.\n\n## Standards History\n\nThe ISO 4716 standard has gone through multiple editions:\n\n- **ISO 4716:1987** - The standard specifies certain characteristics of the oil, including appearance (viscous liquid), colour (brown to reddish brown), and characteristic odour.\n\n- **ISO 4716:2002** - This International Standard specifies certain characteristics of the oil of vetiver, growing in Reunion Island, China, Haiti and Indonesia, in order to facilitate assessment of its quality. This edition has been withdrawn.\n\n- **ISO 4716:2013** - This publication was last reviewed and confirmed in 2024, and therefore this version remains current.\n\nThe standard is maintained by ISO/TC 54, Essential oils."
+    },
+    {
+      "query": "vetiver oil safety data sheet CAS 8016-96-4",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:52:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Safety Data Sheet: Oil of vetiver", "url": "https://www.carlroth.com/medias/SDB-6622-DE-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyODIwNjN8YXBwbGljYXRpb24vcGRmfGFEWTJMMmc1T1M4NU1qQTJOelV3TlRjMk5qY3dMMU5FUWw4Mk5qSXlYMFJGWDBWT0xuQmtaZ3wwYWY3OWQ2YzQ5YmUwYzIzMGQxNjBjOWZiYWQzOGZmMWJjM2MwNGM1N2ViZDAwMTRmOTBhNWJiMzE0NzRkNWY0"},
+        {"rank": 2, "title": "SAFETY DATA SHEET Section 1: Identification Product Name:", "url": "https://leerburg.com/pdf/scentOils/sds%20vetiver.pdf"},
+        {"rank": 3, "title": "Oil of vetiver, 50 ml, CAS No. 8016-96-4 | Essential Oils | Oils and Greases | Natural & Reference Materials | Chemicals | Carl ROTH - International", "url": "https://www.carlroth.com/com/en/essential-oils/oil-of-vetiver/p/6622.1"},
+        {"rank": 4, "title": "504190 VETIVER OIL HAITI SAFETY DATA SHEET Version # 02", "url": "https://www.vigon.com/product/vetiver-oil-haiti/?doc=MSDS%2F504190_vigon_sds_us_english.pdf&namee=VetiverOilHaitiSDS"},
+        {"rank": 5, "title": "CHEMICAL SAFETY DATA SHEET according to 2020/878/EC (1907/2006/EC Article 31)", "url": "https://www.biolandes.com/wp-content/uploads/fiche-securite-A1350.pdf"},
+        {"rank": 6, "title": "Vetiver Oil SDS - Aromatics", "url": "https://data.aromatics.com/products/484/download-sds"},
+        {"rank": 7, "title": "MATERIAL SAFETY DATA SHEET OIL OF VETIVER Extra Pure MSDS CAS: 8016-96-4", "url": "https://www.oxfordlabfinechem.com/msds/(O-06483-244)%20OIL%20OF%20VETIVER%20Extra%20Pure.pdf"},
+        {"rank": 8, "title": "Material Safety Data Sheet Vetiver oil SECTION 1.1 – PRODUCT IDENTIFICATION", "url": "https://www.indenta.com/imagehandler/image-handler.ashx?imagepath=product/msds/8016-96-4-2519.pdf"},
+        {"rank": 9, "title": "Material Safety Data Sheet Vetiver Oil ​(VETIVERIA ZIZANIOIDES) 1.", "url": "https://cdn.accentuate.io/1800375107643/1592454388521/Vetiver---Material-Safety--Data-Sheet.pdf?v=0"},
+        {"rank": 10, "title": "Vetiver Essential Oil Safety Data Sheet", "url": "https://nikura.blob.core.windows.net/pdfs/Safety_Data_Sheet_Vetiver_Essential_Oil_EO-VET.pdf"}
+      ],
+      "provider_summary": "I found multiple Safety Data Sheets (SDS) for vetiver oil with CAS number 8016-96-4. Here's a summary of the key safety information:\n\n## Product Identification\nOil of vetiver has CAS No. 8016-96-4 and EC No. 282-490-8.\n\n## Hazard Classification\nVetiver oil causes skin irritation and causes serious eye irritation. Key components include alpha-Vetivone and beta-Vetivone, both classified as skin sensitizers (Category 1B).\n\n## First Aid Measures\n- **Skin contact:** Wash with plenty of soap and water if on skin\n- **Eye contact:** Flush immediately with water for at least 15 minutes and contact physician if symptoms persist\n- **Inhalation:** Remove from exposure site to fresh air, keep at rest, and obtain medical attention\n- **Ingestion:** If swallowed, immediately call a poison center or doctor\n\n## Toxicity Data\nFor rabbits, dermal LD50 is greater than 5000 mg/kg; for rats, oral LD50 is greater than 5000 mg/kg.\n\nMultiple complete Safety Data Sheets are available from suppliers like Carl Roth, Vigon, and others through the links found in the search results."
+    },
+    {
+      "query": "vetiver oil chemotype origin Haiti Java Bourbon",
+      "purpose": "chemotype_origin",
+      "executed_at": "2026-09-28T10:52:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Vetiver", "url": "https://salvatorebattaglia.com.au/blogs/mongraphs/vetiver"},
+        {"rank": 2, "title": "Vetiver Oil Haiti | Givaudan", "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/vetiver-oil-haiti"},
+        {"rank": 3, "title": "Different Kinds of Vetiver in Perfumery ~ Raw Materials ~ Fragrantica", "url": "https://www.fragrantica.com/news/Different-Kinds-of-Vetiver-in-Perfumery-16912.html"},
+        {"rank": 4, "title": "Vetiver in Perfumery | Première Peau", "url": "https://premierepeau.com/pages/glossary-terms/vetiver"},
+        {"rank": 5, "title": "Vetiver Perfume: The Root That Holds Everything", "url": "https://premierepeau.com/blogs/news/parfum-vetiver-niche-guide"},
+        {"rank": 6, "title": "Vetiver from Haiti: Geopolitics of a Root", "url": "https://premierepeau.com/blogs/news/vetiver-from-haiti-geopolitics-of-a-root"},
+        {"rank": 7, "title": "Vetiver sniffing: an exploration | The Black Narcissus", "url": "https://theblacknarcissus.com/2021/02/22/vetiver-sniffing-an-exploration/"},
+        {"rank": 8, "title": "Vetiver Haïti (Chrysopogon Zizanoide) : origins, fragrance", "url": "https://www.lesourceur.com/en/vetiver/"},
+        {"rank": 9, "title": "vetiver oil haiti, 8016-96-4", "url": "https://www.thegoodscentscompany.com/data/es1011832.html"}
+      ],
+      "provider_summary": "Based on the search results, here's information about vetiver oil chemotypes and their origins:\n\n## Chemotypes and Origins\n\nThere are three main vetiver types used in perfumery: Bourbon vetiver, Haitian vetiver, and Java vetiver. Bourbon vetiver is renowned for its earthy, fine, slightly rosy notes, while Haitian vetiver is more woody and green, and Java vetiver is smoky.\n\nAccording to Lawrence, there are two main chemotypes of vetiver oil, with vetiver oil produced in India originating from a fertile form and the one grown outside of India being a non-seeding, sterile form.\n\n## Geographic Origins\n\n- **Bourbon**: The finest quality vetiver is referred to as Bourbon vetiver and originates from the Reunion Islands.\n\n- **Haiti**: Haiti has become the leading supplier of vetiver oil in the world, approximately 90% of all oil being produced in its Les Cayes region.\n\n- **Java**: Indonesia (Java) is a major commercial origin for vetiver oil.\n\n## Sensory Differences\n\nVetiver oil from Haiti is dry and woody with earthy, smoky and nutty accents, differing from Java vetiver in its sparkling citrus notes and fresh bitterness, while Java vetiver is characterised by its strong smoky notes."
+    },
+    {
+      "query": "vetiver oil use level perfumery",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:52:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Vetiver: Its Fragrant Magic and Mystery Within Perfumery", "url": "https://www.alphaaromatics.com/blog/vetiver/"},
+        {"rank": 2, "title": "Vetiver Perfume | Bon Parfumeur Paris", "url": "https://www.bonparfumeur.com/en-us/blogs/journal/vetiver-in-perfumery"},
+        {"rank": 3, "title": "The Smelling Principle of Vetiver Oil, Unveiled by Chemical Synthesis", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986879/"},
+        {"rank": 4, "title": "Vetiver Essential Oil in Cosmetics: What Is New?", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5590077/"},
+        {"rank": 5, "title": "Vetiver Essential Oil | Uses, Benefits & Blends | VINEVIDA", "url": "https://www.vinevida.com/products/vetiver-essential-oil"},
+        {"rank": 6, "title": "6,10 Dimethyl bicyclo(4,4,0)decane or decene alcohol and ester perfume compositions", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4008184"},
+        {"rank": 7, "title": "Biotechnological manufacture of vetiveryl esters", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10323210"},
+        {"rank": 8, "title": "Uses of mixtures of alpha methyl styrene dimers and terpene dimers in perfumery processes and products", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4170576"},
+        {"rank": 9, "title": "Uses of alpha methyl styrene dimers in perfumery processes and products", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4142998"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about vetiver oil use levels in perfumery:\n\n## Use Levels in Perfumery\n\nVetiver oil dosages in perfumes can range significantly—from traditional amounts to extreme concentrations, such as 90% in the perfume \"Turtle Vetiver\" by Isabelle Doyen. The variation depends on the specific fragrance composition and desired intensity.\n\n## Role in Fragrances\n\nIn perfumery, vetiver is popular because it works brilliantly as a fixative, and there is no synthetic alternative of the fragrance. Vetiver functions as somewhere between a middle and a base note and falls under the \"woody\" category in scent.\n\n## Market Significance\n\nDespite a price of $350–500/kg, vetiver's worldwide consumption is estimated at 300–400 tons per year, highlighting its importance in the perfume industry. No other fragrance material appears more often in the name of a perfume, with 2,267 masculine, 1,976 feminine, and 2,302 unisex perfumes centered on vetiver."
+    },
+    {
+      "query": "Haiti vetiver oil GC-MS khusimol isovalencenol composition",
+      "purpose": "gcms_composition_origin",
+      "executed_at": "2026-09-28T10:52:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Constituents of South Indian Vetiver Oils", "url": "https://journals.sagepub.com/doi/pdf/10.1177/1934578X1200700228"},
+        {"rank": 2, "title": "Qualitative and quantitative analysis of vetiver essential oils by comprehensive two-dimensional gas chromatography and comprehensive two-dimensional gas chromatography/mass spectrometry | Request PDF", "url": "https://www.researchgate.net/publication/236074066_Qualitative_and_quantitative_analysis_of_vetiver_essential_oils_by_comprehensive_two-dimensional_gas_chromatography_and_comprehensive_two-dimensional_gas_chromatographymass_spectrometry"},
+        {"rank": 3, "title": "Vetiver oil compositi on.pdf", "url": "https://www.researchgate.net/profile/Br-Rajeswara-Rao/post/How-can-i-determine-the-best-extraction-method-for-specific-essential-oils/attachment/59d627fc79197b807798654c/AS:328208089141249@1455262314365/download/Vetiver+oil+composition.pdf"},
+        {"rank": 4, "title": "A Study on the Composition of Commercial Vetiveria zizanioides Oils from Different Geographical Origins: Journal of Essential Oil Research: Vol 18, No 4", "url": "https://www.tandfonline.com/doi/abs/10.1080/10412905.2006.9699129"},
+        {"rank": 5, "title": "A Study on the Composition of Commercial Vetiveria zizanioides Oils from Different Geographical Origins | Request PDF", "url": "https://www.researchgate.net/publication/254247256_A_Study_on_the_Composition_of_Commercial_Vetiveria_zizanioides_Oils_from_Different_Geographical_Origins"},
+        {"rank": 6, "title": "(PDF) Constituents of Haitian Vetiver Oil", "url": "https://www.researchgate.net/publication/222105727_Constituents_of_Haitian_Vetiver_Oil"},
+        {"rank": 7, "title": "Reformed vetiver oil and vetiverol, process for preparing the same, and perfumery composition comprising the same", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4937073"},
+        {"rank": 8, "title": "Isolation of Khusimol from the Root of Vetiver (Vetiveria ...", "url": "http://nanobioletters.com/wp-content/uploads/2021/09/22846808112.35493559.pdf"},
+        {"rank": 9, "title": "Biotechnological manufacture of vetiveryl esters", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10323210"},
+        {"rank": 10, "title": "Vetiver Essential Oil - Haiti (Vetiveria Zizanioides)", "url": "https://miraclebotanicals.com/products/vetiver-essential-oil-haiti"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Haiti vetiver oil composition analyzed by GC-MS:\n\n## Composition of Haitian Vetiver Oil\n\nHaitian Vetiver oil is predominantly composed of primary alcohol sesquiterpenes khusimol and isovalencenol. \n\nA comprehensive study examined the chemical composition of essential oils of Vetiveria zizanioides from nine countries including Haiti, with analyses performed using GC/MS, identifying about 110 constituents in oils, mainly sesquiterpenes.\n\n### Key Components\n\nThe characteristic constituents found across vetiver oils, including those from Haiti, are:\n\nβ-vetispirene (1.6–4.5%), khusimol (3.4–13.7%), vetiselinenol (1.3–7.8%) and α-vetivone (2.5–6.3%).\n\nThe most highly concentrated secondary metabolites within the Haitian species that are directly responsible for the essential oil's odorous properties are khusimol, β-vetivone, and α-vetivone.\n\n### Fragrance Properties\n\nKhusimol has a mild, long-lasting, powdery, warm, woody fragrance, and isovalencenol imparts a slightly oily, sandalwood-like fragrance."
+    }
+  ]
+}

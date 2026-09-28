@@ -1,0 +1,74 @@
+2026-09-28 11:51:01,899 INFO pipeline: init: 20 materials, master sha256 3a626dedfa9d
+2026-09-28 11:51:01,905 INFO run: == extract S-0002
+2026-09-28 11:51:05,427 INFO run: == extract S-0468
+2026-09-28 11:51:12,754 INFO run: == extract S-0486
+2026-09-28 11:51:22,121 INFO run: == extract S-0526
+2026-09-28 11:51:24,990 INFO run: == extract S-0479
+/home/user/Kuit-Mal--Portfolio/perroco_research/perroco/extract.py:97: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(body, "lxml")
+2026-09-28 11:51:31,908 INFO run: == extract S-0024
+2026-09-28 11:51:33,540 INFO run: == extract S-0518
+2026-09-28 11:51:43,174 INFO run: == extract S-0372
+2026-09-28 11:51:46,672 INFO run: == extract S-0502
+2026-09-28 11:51:49,975 INFO run: == extract S-0366
+2026-09-28 11:51:55,114 INFO run: == extract N-0775
+2026-09-28 11:51:59,041 INFO run: == extract N-0697
+2026-09-28 11:52:00,962 INFO run: == extract N-0623
+2026-09-28 11:52:02,664 INFO run: == extract N-0632
+2026-09-28 11:52:07,291 INFO run: == extract N-0556
+2026-09-28 11:52:08,790 INFO run: == extract N-0728
+2026-09-28 11:52:10,474 INFO run: == extract S-0507
+2026-09-28 11:52:15,953 INFO run: == extract S-0023
+2026-09-28 11:52:18,553 INFO run: == extract S-0020
+2026-09-28 11:52:20,337 INFO run: == extract S-0508
+2026-09-28 11:52:27,767 INFO run: == validate S-0002
+2026-09-28 11:52:27,770 INFO run: == validate S-0468
+2026-09-28 11:52:27,774 INFO run: == validate S-0486
+2026-09-28 11:52:27,781 INFO run: == validate S-0526
+2026-09-28 11:52:27,785 INFO run: == validate S-0479
+2026-09-28 11:52:27,797 INFO run: == validate S-0024
+2026-09-28 11:52:27,801 INFO run: == validate S-0518
+2026-09-28 11:52:27,807 INFO run: == validate S-0372
+2026-09-28 11:52:27,812 INFO run: == validate S-0502
+2026-09-28 11:52:27,816 INFO run: == validate S-0366
+2026-09-28 11:52:27,822 INFO run: == validate N-0775
+2026-09-28 11:52:27,827 INFO run: == validate N-0697
+2026-09-28 11:52:27,834 INFO run: == validate N-0623
+2026-09-28 11:52:27,840 INFO run: == validate N-0632
+2026-09-28 11:52:27,848 INFO run: == validate N-0556
+2026-09-28 11:52:27,853 INFO run: == validate N-0728
+2026-09-28 11:52:27,859 INFO run: == validate S-0507
+2026-09-28 11:52:27,866 INFO run: == validate S-0023
+2026-09-28 11:52:27,870 INFO run: == validate S-0020
+2026-09-28 11:52:27,874 INFO run: == validate S-0508
+2026-09-28 11:52:27,876 INFO run: == propose S-0002
+2026-09-28 11:52:27,881 INFO run: == propose S-0468
+2026-09-28 11:52:27,887 INFO run: == propose S-0486
+2026-09-28 11:52:27,894 INFO run: == propose S-0526
+2026-09-28 11:52:27,900 INFO run: == propose S-0479
+2026-09-28 11:52:27,911 INFO run: == propose S-0024
+2026-09-28 11:52:27,917 INFO run: == propose S-0518
+2026-09-28 11:52:27,924 INFO run: == propose S-0372
+2026-09-28 11:52:27,932 INFO run: == propose S-0502
+2026-09-28 11:52:27,938 INFO run: == propose S-0366
+2026-09-28 11:52:27,945 INFO run: == propose N-0775
+2026-09-28 11:52:27,952 INFO run: == propose N-0697
+2026-09-28 11:52:27,960 INFO run: == propose N-0623
+2026-09-28 11:52:27,968 INFO run: == propose N-0632
+2026-09-28 11:52:27,976 INFO run: == propose N-0556
+2026-09-28 11:52:27,984 INFO run: == propose N-0728
+2026-09-28 11:52:27,991 INFO run: == propose S-0507
+2026-09-28 11:52:27,999 INFO run: == propose S-0023
+2026-09-28 11:52:28,004 INFO run: == propose S-0020
+2026-09-28 11:52:28,011 INFO run: == propose S-0508
+2026-09-28 11:52:28,131 INFO run: formula leads staged for a later phase: 23

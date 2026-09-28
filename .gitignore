@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# Third-party documents are cached locally only (copyright): the manifest keeps URL + sha256 for provenance.
+perroco_research/data/cache/
+perroco_research/data/text/
+# The research master is the owner's file; it is read from here but not published in the repository.
+perroco_research/input/*.xlsx

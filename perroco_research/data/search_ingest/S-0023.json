@@ -1,0 +1,405 @@
+{
+  "palette_id": "S-0023",
+  "school_name_exact": "RHUBAFURAN TOCO",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "Rhubafuran fragrance ingredient manufacturer",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:56:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Rhubafuran Manufacturer & Suppliers |ELAROMA-RF - Elchemy",
+          "url": "https://elchemy.com/product/rhubafuran-1170"
+        },
+        {
+          "rank": 2,
+          "title": "Perfumers Apprentice - Rhubafuran (Givaudan)",
+          "url": "https://shop.perfumersapprentice.com/p-6214-rhubafuran-givaudan.aspx"
+        },
+        {
+          "rank": 3,
+          "title": "Rhubafuran | Givaudan",
+          "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/rhubafuran"
+        },
+        {
+          "rank": 4,
+          "title": "503248 RHUBAFURAN SAFETY DATA SHEET Version # 01 Revision Date: 02-18-2015",
+          "url": "https://shop.perfumersapprentice.com/Images/RhubafuranSDS.pdf"
+        },
+        {
+          "rank": 5,
+          "title": "503248 RHUBAFURAN SAFETY DATA SHEET Version # 02 Revision Date: 10-23-2019",
+          "url": "https://www.vigon.com/product/rhubafuran/?doc=MSDS%2F503248_vigon_sds_us_english.pdf&namee=RhubafuranSDS"
+        },
+        {
+          "rank": 6,
+          "title": "ScenTree - Rhubafuran® (CAS N° 82461-14-1)",
+          "url": "https://www.scentree.co/en/Rhubafuran%C2%AE.html"
+        },
+        {
+          "rank": 7,
+          "title": "rhubafuran furan, tetrahydro-2,4-dimethyl-4-phenyl",
+          "url": "https://www.thegoodscentscompany.com/data/rw1043021.html"
+        },
+        {
+          "rank": 8,
+          "title": "Rhubafuran | Vigon",
+          "url": "https://www.vigon.com/product/rhubafuran/"
+        },
+        {
+          "rank": 9,
+          "title": "Rhuboflor – Fraterworks",
+          "url": "https://fraterworks.com/products/rhuboflor"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubafuran fragrance ingredient manufacturers:\n\n## Key Manufacturers and Suppliers\n\nRhubafuran, also known as 2,3-Dihydro-3,5-dihydroxy-6-methyl-4H-pyran-4-one, is a synthetic aroma compound widely used in the flavors and fragrance industry.\n\nThe primary manufacturers include:\n\n1. **Givaudan** - Perfumer's Apprentice offers Rhubafuran manufactured by Givaudan\n\n2. **Vigon International, Inc.** - Vigon International, Inc. is located at 127 Airport Road, E. Stroudsburg, PA 18301\n\n3. **Other suppliers** - Additional suppliers include Indukern S.A. F&F Ingredients Division, Lluch Essence S.L., and Moellhausen S.P.A.\n\n## Product Characteristics\n\nAs a key ingredient in creating rhubarb-like scents, it plays a crucial role in enhancing the sensory appeal of various consumer products. Rhubafuran has an intense tangy rhubarb character, with a green eucalyptus heart very suitable in fruity and citrus accords, and can be used across all functional fragrances with good performance in air fresheners."
+    },
+    {
+      "query": "Rhubafuran CAS",
+      "purpose": "cas_identity",
+      "executed_at": "2026-09-28T10:56:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Perfumers Apprentice - Rhubafuran (Givaudan)",
+          "url": "https://shop.perfumersapprentice.com/p-6214-rhubafuran-givaudan.aspx"
+        },
+        {
+          "rank": 2,
+          "title": "Rhubafuran | Givaudan",
+          "url": "https://www.givaudan.com/fragrance-beauty/eindex/rhubafuran"
+        },
+        {
+          "rank": 3,
+          "title": "RHUBAFURAN | 82461-14-1",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB3197718.htm"
+        },
+        {
+          "rank": 4,
+          "title": "RHUBAFURAN - Safety Data Sheet",
+          "url": "https://www.chemicalbook.com/msds/rhubafuran.pdf"
+        },
+        {
+          "rank": 5,
+          "title": "Rhubafuran Manufacturer & Suppliers |ELAROMA-RF - Elchemy",
+          "url": "https://elchemy.com/product/rhubafuran-1170"
+        },
+        {
+          "rank": 6,
+          "title": "ScenTree - Rhubafuran® (CAS N° 82461-14-1)",
+          "url": "https://www.scentree.co/en/Rhubafuran%C2%AE.html"
+        },
+        {
+          "rank": 7,
+          "title": "CAS 82461-14-1 Rhubafuran - Alfa Chemistry",
+          "url": "https://www.alfa-chemistry.com/product/rhubafuran-cas-82461-14-1-240478.html"
+        },
+        {
+          "rank": 8,
+          "title": "rhubafuran furan, tetrahydro-2,4-dimethyl-4-phenyl",
+          "url": "https://www.thegoodscentscompany.com/data/rw1043021.html"
+        },
+        {
+          "rank": 9,
+          "title": "Rhubafuran | C12H16O | CID 113514 - PubChem - NIH",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Rhubafuran"
+        },
+        {
+          "rank": 10,
+          "title": "Rhubafuran (82461-14-1) for sale",
+          "url": "https://www.vulcanchem.com/product/vc3710231"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubafuran CAS:\n\nRhubafuran (CAS N° 82461-14-1) is an ingredient used in perfumes. Rhubafuran is a synthetic aroma compound known for its distinctive rhubarb-like scent and is primarily used in the flavors and fragrance industry to impart a fresh, fruity aroma to various products.\n\nKey chemical properties include:\n- Molecular formula: C12H16O with a molecular weight of 176.25\n- Boiling point: 246°C and it appears as a colorless liquid\n- It is known chemically as 2,4-dimethyl-4-phenyltetrahydrofuran or 2,4-dimethyl-4-phenyloxolane, and belongs to the oxolane (tetrahydrofuran) class of cyclic ethers\n\nRhubafuran is not found in nature and is a captive molecule used exclusively under its synthetic form."
+    },
+    {
+      "query": "Rhubafuran safety data sheet",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:56:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "RHUBAFURAN - Safety Data Sheet",
+          "url": "https://www.chemicalbook.com/msds/rhubafuran.pdf"
+        },
+        {
+          "rank": 2,
+          "title": "503248 RHUBAFURAN SAFETY DATA SHEET Version # 01 Revision Date: 02-18-2015",
+          "url": "https://shop.perfumersapprentice.com/Images/RhubafuranSDS.pdf"
+        },
+        {
+          "rank": 3,
+          "title": "503248 RHUBAFURAN SAFETY DATA SHEET Version # 02 Revision Date: 10-23-2019",
+          "url": "https://www.vigon.com/product/rhubafuran/?doc=MSDS%2F503248_vigon_sds_us_english.pdf&namee=RhubafuranSDS"
+        },
+        {
+          "rank": 4,
+          "title": "82461-14-1_RHUBAFURAN MSDS,Density,Formula-Molbase",
+          "url": "http://m.molbase.com/moldata/191303.html"
+        },
+        {
+          "rank": 5,
+          "title": "rhubafuran furan, tetrahydro-2,4-dimethyl-4-phenyl",
+          "url": "https://www.thegoodscentscompany.com/data/rw1043021.html"
+        },
+        {
+          "rank": 6,
+          "title": "Rhubafuran | C12H16O | CID 113514 - PubChem - NIH",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Rhubafuran"
+        },
+        {
+          "rank": 7,
+          "title": "ScenTree - Rhubafuran® (CAS N° 82461-14-1)",
+          "url": "https://www.scentree.co/en/Rhubafuran%C2%AE.html"
+        },
+        {
+          "rank": 8,
+          "title": "Rhubafuran (82461-14-1) for sale",
+          "url": "https://www.vulcanchem.com/product/vc3710231"
+        },
+        {
+          "rank": 9,
+          "title": "Furfuryl alcohol",
+          "url": "https://en.wikipedia.org/wiki/Furfuryl_alcohol"
+        }
+      ],
+      "provider_summary": "Based on the search results, I found several Safety Data Sheet (SDS) sources for Rhubafuran:\n\nRhubafuran (also known as 2,4-dimethyl-4-phenyltetrahydrofuran with CAS number 82461-14-1) is composed of 100% of this chemical compound.\n\nKey safety information from the available SDS includes:\n\n**First-Aid Measures:**\n- If breathing is difficult, remove to fresh air and keep at rest in a position comfortable for breathing\n- For skin contact, take off immediately all contaminated clothing and wash skin thoroughly with soap and water for several minutes\n\n**Fire-Fighting:**\n- Suitable extinguishing media include water spray, fog, CO2, dry chemical, or alcohol resistant foam\n\n**Physical Properties:**\n- Flash point is greater than 200.0 °F (93.3 °C) in closed cup conditions\n- It is insoluble in water\n\nRhubafuran is used functionally as a fragrance agent and has a citrus type odor.\n\nThe complete safety data sheets are available from suppliers like The Perfumers Apprentice and Vigon, which contain more detailed information on handling, storage, and hazard classifications."
+    },
+    {
+      "query": "Rhubafuran use level",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:56:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Rhubafuran by Vigon - Personal Care & Cosmetics",
+          "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/31183/994914/Rhubafuran"
+        },
+        {
+          "rank": 2,
+          "title": "Occupational Exposure to Carbofuran and the Incidence of Cancer in the Agricultural Health Study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1253753/"
+        },
+        {
+          "rank": 3,
+          "title": "Perfumers Apprentice - Rhubafuran (Givaudan)",
+          "url": "https://shop.perfumersapprentice.com/p-6214-rhubafuran-givaudan.aspx"
+        },
+        {
+          "rank": 4,
+          "title": "ScenTree - Rhubafuran® (CAS N° 82461-14-1)",
+          "url": "https://www.scentree.co/en/Rhubafuran%C2%AE.html"
+        },
+        {
+          "rank": 5,
+          "title": "rhubafuran, 82461-14-1",
+          "url": "http://www.perflavory.com/docs/doc1043021.html"
+        },
+        {
+          "rank": 6,
+          "title": "rhubafuran furan, tetrahydro-2,4-dimethyl-4-phenyl",
+          "url": "https://www.thegoodscentscompany.com/data/rw1043021.html"
+        },
+        {
+          "rank": 7,
+          "title": "Rhubafuran | Givaudan",
+          "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/rhubafuran"
+        },
+        {
+          "rank": 8,
+          "title": "Evaluating ATSBs for Malaria Reduction in Kenya",
+          "url": "https://cdn.clinicaltrials.gov/large-docs/65/NCT05219565/Prot_000.pdf"
+        },
+        {
+          "rank": 9,
+          "title": "Modification of the existing maximum residue level for cyprodinil in rhubarbs",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009263/"
+        },
+        {
+          "rank": 10,
+          "title": "RHUBAFURAN",
+          "url": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/85JUZ61OL5"
+        }
+      ],
+      "provider_summary": "Based on the search results, I found information about Rhubafuran use levels:\n\nRhubafuran is a high-performance ingredient in all types of perfumes, bringing effectively its note, even being used in small quantity. Rhubafuran is a concentrated aromatic ingredient which may be used in fragrance compounds according to legal and IFRA guidelines.\n\nIt can be used across all functional fragrances with good performance in air fresheners.\n\nThe search results indicate that Rhubafuran is an efficient fragrance ingredient that is used in relatively small amounts due to its concentrated nature and high performance characteristics. However, the results do not provide specific numeric use level percentages or concentration limits. For more detailed technical specifications about exact use levels, you may need to consult the product technical data sheets from suppliers like Givaudan or review the IFRA (International Fragrance Association) guidelines directly."
+    },
+    {
+      "query": "Rhubafuran IFF",
+      "purpose": "name_variant_iff",
+      "executed_at": "2026-09-28T10:56:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Rhubafuran by Vigon - Personal Care & Cosmetics",
+          "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/31183/994914/Rhubafuran"
+        },
+        {
+          "rank": 2,
+          "title": "Perfumers Apprentice - Rhubafuran (Givaudan)",
+          "url": "https://shop.perfumersapprentice.com/p-6214-rhubafuran-givaudan.aspx"
+        },
+        {
+          "rank": 3,
+          "title": "Rhubafuran | Givaudan",
+          "url": "https://www.givaudan.com/fragrance-beauty/eindex/rhubafuran"
+        },
+        {
+          "rank": 4,
+          "title": "rhubafuran furan, tetrahydro-2,4-dimethyl-4-phenyl",
+          "url": "https://www.thegoodscentscompany.com/data/rw1043021.html"
+        },
+        {
+          "rank": 5,
+          "title": "RHUBAFURAN | 82461-14-1",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB3197718.htm"
+        },
+        {
+          "rank": 6,
+          "title": "503248 RHUBAFURAN SAFETY DATA SHEET Version # 01 Revision Date: 02-18-2015",
+          "url": "https://shop.perfumersapprentice.com/Images/RhubafuranSDS.pdf"
+        },
+        {
+          "rank": 7,
+          "title": "Rhubafuran | C12H16O | CID 113514 - PubChem - NIH",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Rhubafuran"
+        },
+        {
+          "rank": 8,
+          "title": "rhubafuran, 82461-14-1",
+          "url": "http://www.perflavory.com/docs/doc1043021.html"
+        },
+        {
+          "rank": 9,
+          "title": "IFF",
+          "url": "https://en.wikipedia.org/wiki/IFF"
+        },
+        {
+          "rank": 10,
+          "title": "RHUBAFURAN",
+          "url": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/85JUZ61OL5"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubafuran IFF:\n\nRhubafuran is a concentrated aromatic ingredient which may be used fragrance compounds according to legal and IFRA guidelines. It's a chemical fragrance ingredient with the chemical name 2,4-dimethyl-4-phenyltetrahydrofuran and CAS number 82461-14-1.\n\nIn terms of its sensory characteristics, Rhubafuran has an intense tangy rhubarb character, with a green eucalyptus heart very suitable in fruity and citrus accords. It can be used across all functional fragrances with good performance in air fresheners.\n\nThe \"IFF\" in your query likely refers to the International Fragrance Federation or a company designation, though the search results primarily show Rhubafuran as a fragrance ingredient produced by companies like Givaudan and available through fragrance suppliers."
+    },
+    {
+      "query": "Rhubafuran perfumery rhubarb odor",
+      "purpose": "odor_profile",
+      "executed_at": "2026-09-28T10:56:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Perfumers Apprentice - Rhubafuran (Givaudan)",
+          "url": "https://shop.perfumersapprentice.com/p-6214-rhubafuran-givaudan.aspx"
+        },
+        {
+          "rank": 2,
+          "title": "Rhubarb perfume ingredient, Rhubarb fragrance and essential oils gen. Rheum, fam. Polygonaceae",
+          "url": "https://www.fragrantica.com/notes/Rhubarb-188.html"
+        },
+        {
+          "rank": 3,
+          "title": "Rhubafuran | Givaudan",
+          "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/rhubafuran"
+        },
+        {
+          "rank": 4,
+          "title": "rhubafuran furan, tetrahydro-2,4-dimethyl-4-phenyl",
+          "url": "https://www.thegoodscentscompany.com/data/rw1043021.html"
+        },
+        {
+          "rank": 5,
+          "title": "Rhubarb Perfume | Good Perfumer - Bon Parfumeur",
+          "url": "https://www.bonparfumeur.com/en-us/blogs/journal/rhubarbe-in-perfumery"
+        },
+        {
+          "rank": 6,
+          "title": "PerfumersWorld - The Art and Technology of Perfumery",
+          "url": "https://www.perfumersworld.com/view.php?pro_id=3FL06757"
+        },
+        {
+          "rank": 7,
+          "title": "[517] RHUBAFURAN Rhubarb furan – Candle Element",
+          "url": "https://www.candleelement.com/en/products/517-rhubafuran-en"
+        },
+        {
+          "rank": 8,
+          "title": "What Does Rhubarb Smell Like? Perfumery Guide",
+          "url": "https://caperfume.com/pages/discover-ingredient/rhubarb"
+        },
+        {
+          "rank": 9,
+          "title": "Rollicking rhubarb: fragrance edition",
+          "url": "https://amieelizabethwhite.substack.com/p/rollicking-rhubarb-fragrance-edition"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubafuran in perfumery:\n\n## Rhubafuran Overview\n\nRhubafuran has an intense tangy rhubarb character, with a green eucalyptus heart very suitable in fruity and citrus accords. It belongs to the citrus fragrance family with odor descriptions including rhubarb, green, fresh, and citrus notes.\n\n## Rhubarb Odor Characteristics\n\nIn perfumery, rhubarb (which Rhubafuran replicates) has a distinct sensory profile. Rhubarb's olfactory identity in perfumery is defined by its tart, green, and slightly fruity aroma, closely mimicking the sensation of biting into a raw rhubarb stalk. It smells tart, fruity, sweet, sour, pink, green, sparkly, and sharp.\n\n## Usage in Fragrances\n\nRhubafuran can be used across all functional fragrances with good performance in air fresheners. Perfumers have begun using synthetic molecules to replicate the scent of rhubarb, and these molecules can be modified to accentuate certain facets of rhubarb's scent, such as its acidity or freshness."
+    },
+    {
+      "query": "Rhubafuran Givaudan",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:56:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Rhubafuran | Givaudan",
+          "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/rhubafuran"
+        },
+        {
+          "rank": 2,
+          "title": "Perfumers Apprentice - Rhubafuran (Givaudan)",
+          "url": "https://shop.perfumersapprentice.com/p-6214-rhubafuran-givaudan.aspx"
+        },
+        {
+          "rank": 3,
+          "title": "Demo Formulas Rhubafuran",
+          "url": "https://www.givaudan.com/files/8683003_formula.pdf"
+        },
+        {
+          "rank": 4,
+          "title": "My Current list of beginning ingredients | Basenotes Forum",
+          "url": "https://basenotes.com/community/threads/my-current-list-of-beginning-ingredients.536055/"
+        },
+        {
+          "rank": 5,
+          "title": "Rhubafuran - GIVAUDAN – Bulkaroma",
+          "url": "https://bulkaroma.com/products/rhubafuran-givaudan"
+        },
+        {
+          "rank": 6,
+          "title": "Rhubafuran Givaudan | Perfume Material",
+          "url": "https://olfactorian.com/materials/rhubafuran-givaudan"
+        },
+        {
+          "rank": 7,
+          "title": "Xavier Givaudan",
+          "url": "https://en.wikipedia.org/wiki/Xavier_Givaudan"
+        },
+        {
+          "rank": 8,
+          "title": "rhubafuran furan, tetrahydro-2,4-dimethyl-4-phenyl",
+          "url": "https://www.thegoodscentscompany.com/data/rw1043021.html"
+        },
+        {
+          "rank": 9,
+          "title": "L%C3%A9on Givaudan",
+          "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Givaudan"
+        },
+        {
+          "rank": 10,
+          "title": "Givaudan",
+          "url": "https://en.wikipedia.org/wiki/Givaudan"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Rhubafuran from Givaudan:\n\n**Rhubafuran** is a fragrance ingredient produced by Givaudan, a leading Swiss manufacturer of fragrances and flavors. Rhubafuran has an intense tangy rhubarb character, with a green eucalyptus heart very suitable in fruity and citrus accords.\n\n**Key Properties:**\n- It can be used across all functional fragrances with good performance in air fresheners.\n- Chemical Name: 2,4-dimethyl-4-phenyltetrahydrofuran; Formula: C12H16O; Molecular Weight: 176.2; CAS # 82461-14-1\n- Appearance: pale yellow to yellow clear liquid\n\nThe ingredient is classified as an aromatic chemical used in fragrance formulations, particularly valued for its rhubarb and green notes in citrus and fruity compositions."
+    }
+  ]
+}

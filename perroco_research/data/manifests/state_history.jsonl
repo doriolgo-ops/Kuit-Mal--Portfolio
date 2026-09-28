@@ -1,0 +1,431 @@
+{"id": 1, "palette_id": "S-0372", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:02:53+00:00"}
+{"id": 2, "palette_id": "N-0775", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:02:54+00:00"}
+{"id": 3, "palette_id": "N-0775", "from_state": "SEARCHING", "to_state": "ERROR", "note": "search: HTTPError: 429 Client Error: Too Many Requests for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&id=12107173%2C8954624%2C12114718%2C12986586%2C5590077%2C13194690%2C12467945%2C9258650%2C8246832%2C7986879%2C4805151%2C13061289&retmode=json", "at": "2026-09-28T11:02:55+00:00"}
+{"id": 4, "palette_id": "S-0002", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:06+00:00"}
+{"id": 5, "palette_id": "S-0468", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:06+00:00"}
+{"id": 6, "palette_id": "S-0486", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:06+00:00"}
+{"id": 7, "palette_id": "S-0526", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:07+00:00"}
+{"id": 8, "palette_id": "S-0479", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:08+00:00"}
+{"id": 9, "palette_id": "S-0024", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:10+00:00"}
+{"id": 10, "palette_id": "S-0518", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:10+00:00"}
+{"id": 11, "palette_id": "S-0502", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:10+00:00"}
+{"id": 12, "palette_id": "S-0366", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:11+00:00"}
+{"id": 13, "palette_id": "N-0775", "from_state": "ERROR", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:11+00:00"}
+{"id": 14, "palette_id": "N-0697", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:19+00:00"}
+{"id": 15, "palette_id": "N-0623", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:29+00:00"}
+{"id": 16, "palette_id": "N-0632", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:39+00:00"}
+{"id": 17, "palette_id": "N-0556", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:49+00:00"}
+{"id": 18, "palette_id": "N-0728", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:03:59+00:00"}
+{"id": 19, "palette_id": "S-0507", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:04:09+00:00"}
+{"id": 20, "palette_id": "S-0023", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:04:09+00:00"}
+{"id": 21, "palette_id": "S-0020", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:04:10+00:00"}
+{"id": 22, "palette_id": "S-0508", "from_state": "NOT_STARTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:04:12+00:00"}
+{"id": 23, "palette_id": "S-0002", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "9 documents retrieved (9 this run)", "at": "2026-09-28T11:23:17+00:00"}
+{"id": 24, "palette_id": "S-0468", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "11 documents retrieved (11 this run)", "at": "2026-09-28T11:23:30+00:00"}
+{"id": 25, "palette_id": "S-0486", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:23:39+00:00"}
+{"id": 26, "palette_id": "S-0526", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:23:56+00:00"}
+{"id": 27, "palette_id": "S-0479", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:24:10+00:00"}
+{"id": 28, "palette_id": "S-0024", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:24:19+00:00"}
+{"id": 29, "palette_id": "S-0518", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "6 documents retrieved (6 this run)", "at": "2026-09-28T11:24:30+00:00"}
+{"id": 30, "palette_id": "S-0372", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (10 this run)", "at": "2026-09-28T11:24:48+00:00"}
+{"id": 31, "palette_id": "S-0502", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (9 this run)", "at": "2026-09-28T11:26:17+00:00"}
+{"id": 32, "palette_id": "S-0366", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "4 documents retrieved (4 this run)", "at": "2026-09-28T11:26:24+00:00"}
+{"id": 33, "palette_id": "N-0775", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "9 documents retrieved (6 this run)", "at": "2026-09-28T11:27:01+00:00"}
+{"id": 34, "palette_id": "N-0697", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "7 documents retrieved (4 this run)", "at": "2026-09-28T11:27:05+00:00"}
+{"id": 35, "palette_id": "N-0623", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (6 this run)", "at": "2026-09-28T11:27:15+00:00"}
+{"id": 36, "palette_id": "N-0632", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "9 documents retrieved (6 this run)", "at": "2026-09-28T11:27:26+00:00"}
+{"id": 37, "palette_id": "N-0556", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "10 documents retrieved (9 this run)", "at": "2026-09-28T11:28:02+00:00"}
+{"id": 38, "palette_id": "N-0728", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "12 documents retrieved (9 this run)", "at": "2026-09-28T11:28:10+00:00"}
+{"id": 39, "palette_id": "S-0507", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "10 documents retrieved (10 this run)", "at": "2026-09-28T11:28:19+00:00"}
+{"id": 40, "palette_id": "S-0023", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "10 documents retrieved (10 this run)", "at": "2026-09-28T11:28:32+00:00"}
+{"id": 41, "palette_id": "S-0020", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:28:41+00:00"}
+{"id": 42, "palette_id": "S-0508", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "5 documents retrieved (5 this run)", "at": "2026-09-28T11:28:50+00:00"}
+{"id": 43, "palette_id": "S-0002", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "5 claims", "at": "2026-09-28T11:28:50+00:00"}
+{"id": 44, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:29:25+00:00"}
+{"id": 45, "palette_id": "S-0468", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:30:56+00:00"}
+{"id": 46, "palette_id": "S-0486", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 47, "palette_id": "S-0526", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 48, "palette_id": "S-0479", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 49, "palette_id": "S-0024", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 50, "palette_id": "S-0518", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 51, "palette_id": "S-0372", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 52, "palette_id": "S-0502", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 53, "palette_id": "S-0366", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 54, "palette_id": "S-0507", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 55, "palette_id": "S-0023", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 56, "palette_id": "S-0020", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 57, "palette_id": "S-0508", "from_state": "SOURCES_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:32:27+00:00"}
+{"id": 58, "palette_id": "S-0002", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "9 documents retrieved (9 this run)", "at": "2026-09-28T11:32:36+00:00"}
+{"id": 59, "palette_id": "S-0468", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "11 documents retrieved (11 this run)", "at": "2026-09-28T11:32:37+00:00"}
+{"id": 60, "palette_id": "S-0486", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "11 documents retrieved (11 this run)", "at": "2026-09-28T11:32:58+00:00"}
+{"id": 61, "palette_id": "S-0526", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:32:59+00:00"}
+{"id": 62, "palette_id": "S-0479", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:32:59+00:00"}
+{"id": 63, "palette_id": "S-0024", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:32:59+00:00"}
+{"id": 64, "palette_id": "S-0518", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:33:18+00:00"}
+{"id": 65, "palette_id": "S-0372", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "10 documents retrieved (12 this run)", "at": "2026-09-28T11:33:38+00:00"}
+{"id": 66, "palette_id": "S-0502", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "9 documents retrieved (10 this run)", "at": "2026-09-28T11:33:48+00:00"}
+{"id": 67, "palette_id": "S-0366", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "7 documents retrieved (7 this run)", "at": "2026-09-28T11:34:19+00:00"}
+{"id": 68, "palette_id": "S-0507", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "10 documents retrieved (10 this run)", "at": "2026-09-28T11:35:12+00:00"}
+{"id": 69, "palette_id": "S-0023", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "12 documents retrieved (12 this run)", "at": "2026-09-28T11:35:23+00:00"}
+{"id": 70, "palette_id": "S-0020", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "8 documents retrieved (8 this run)", "at": "2026-09-28T11:35:23+00:00"}
+{"id": 71, "palette_id": "S-0508", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "6 documents retrieved (6 this run)", "at": "2026-09-28T11:35:36+00:00"}
+{"id": 72, "palette_id": "S-0002", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "5 claims", "at": "2026-09-28T11:35:36+00:00"}
+{"id": 73, "palette_id": "S-0468", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "1 claims", "at": "2026-09-28T11:35:42+00:00"}
+{"id": 74, "palette_id": "S-0486", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "99 claims", "at": "2026-09-28T11:35:47+00:00"}
+{"id": 75, "palette_id": "S-0526", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "9 claims", "at": "2026-09-28T11:35:47+00:00"}
+{"id": 76, "palette_id": "S-0479", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "139 claims", "at": "2026-09-28T11:35:52+00:00"}
+{"id": 77, "palette_id": "S-0024", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "8 claims", "at": "2026-09-28T11:35:52+00:00"}
+{"id": 78, "palette_id": "S-0518", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "87 claims", "at": "2026-09-28T11:35:58+00:00"}
+{"id": 79, "palette_id": "S-0372", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "115 claims", "at": "2026-09-28T11:36:02+00:00"}
+{"id": 80, "palette_id": "S-0502", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "17 claims", "at": "2026-09-28T11:36:05+00:00"}
+{"id": 81, "palette_id": "S-0366", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "76 claims", "at": "2026-09-28T11:36:09+00:00"}
+{"id": 82, "palette_id": "N-0775", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "39 claims", "at": "2026-09-28T11:36:12+00:00"}
+{"id": 83, "palette_id": "N-0697", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "26 claims", "at": "2026-09-28T11:36:12+00:00"}
+{"id": 84, "palette_id": "N-0623", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "50 claims", "at": "2026-09-28T11:36:13+00:00"}
+{"id": 85, "palette_id": "N-0632", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "86 claims", "at": "2026-09-28T11:36:16+00:00"}
+{"id": 86, "palette_id": "N-0556", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "40 claims", "at": "2026-09-28T11:36:16+00:00"}
+{"id": 87, "palette_id": "N-0728", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "147 claims", "at": "2026-09-28T11:36:18+00:00"}
+{"id": 88, "palette_id": "S-0507", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "55 claims", "at": "2026-09-28T11:36:20+00:00"}
+{"id": 89, "palette_id": "S-0023", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "31 claims", "at": "2026-09-28T11:36:23+00:00"}
+{"id": 90, "palette_id": "S-0020", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "44 claims", "at": "2026-09-28T11:36:24+00:00"}
+{"id": 91, "palette_id": "S-0508", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T11:36:27+00:00"}
+{"id": 92, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 93, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 94, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 28 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 95, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 96, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "5 conflicts; 22 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 97, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 98, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 9 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 99, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 36 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 100, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 5 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 101, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 17 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 102, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 3 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 103, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 12 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 104, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 25 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 105, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 21 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 106, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 21 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 107, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 18 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 108, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 6 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 109, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 110, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 6 changes need review", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 111, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:36:30+00:00"}
+{"id": 112, "palette_id": "S-0002", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:25+00:00"}
+{"id": 113, "palette_id": "S-0468", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 114, "palette_id": "S-0486", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 115, "palette_id": "S-0526", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 116, "palette_id": "S-0479", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 117, "palette_id": "S-0024", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 118, "palette_id": "S-0518", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 119, "palette_id": "S-0372", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 120, "palette_id": "S-0502", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 121, "palette_id": "S-0366", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 122, "palette_id": "N-0775", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:26+00:00"}
+{"id": 123, "palette_id": "N-0697", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:41+00:00"}
+{"id": 124, "palette_id": "N-0623", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:41:56+00:00"}
+{"id": 125, "palette_id": "N-0632", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:42:12+00:00"}
+{"id": 126, "palette_id": "N-0556", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:42:26+00:00"}
+{"id": 127, "palette_id": "N-0728", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:42:36+00:00"}
+{"id": 128, "palette_id": "S-0507", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:42:40+00:00"}
+{"id": 129, "palette_id": "S-0023", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:42:40+00:00"}
+{"id": 130, "palette_id": "S-0020", "from_state": "NEEDS_REVIEW", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:42:40+00:00"}
+{"id": 131, "palette_id": "S-0508", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "SEARCHING", "note": "ingesting search results + API lookups", "at": "2026-09-28T11:42:48+00:00"}
+{"id": 132, "palette_id": "S-0002", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:43:04+00:00"}
+{"id": 133, "palette_id": "S-0468", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:43:10+00:00"}
+{"id": 134, "palette_id": "S-0486", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:43:13+00:00"}
+{"id": 135, "palette_id": "S-0526", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:43:57+00:00"}
+{"id": 136, "palette_id": "S-0479", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:44:04+00:00"}
+{"id": 137, "palette_id": "S-0024", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:44:11+00:00"}
+{"id": 138, "palette_id": "S-0518", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:44:36+00:00"}
+{"id": 139, "palette_id": "S-0372", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "13 documents retrieved (14 this run)", "at": "2026-09-28T11:44:44+00:00"}
+{"id": 140, "palette_id": "S-0502", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:44:53+00:00"}
+{"id": 141, "palette_id": "S-0366", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:45:03+00:00"}
+{"id": 142, "palette_id": "N-0775", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "16 documents retrieved (14 this run)", "at": "2026-09-28T11:45:15+00:00"}
+{"id": 143, "palette_id": "N-0697", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "17 documents retrieved (14 this run)", "at": "2026-09-28T11:46:01+00:00"}
+{"id": 144, "palette_id": "N-0623", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:46:23+00:00"}
+{"id": 145, "palette_id": "N-0632", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "16 documents retrieved (14 this run)", "at": "2026-09-28T11:46:36+00:00"}
+{"id": 146, "palette_id": "N-0556", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "15 documents retrieved (14 this run)", "at": "2026-09-28T11:46:58+00:00"}
+{"id": 147, "palette_id": "N-0728", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:47:07+00:00"}
+{"id": 148, "palette_id": "S-0507", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:47:10+00:00"}
+{"id": 149, "palette_id": "S-0023", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:47:16+00:00"}
+{"id": 150, "palette_id": "S-0020", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:47:27+00:00"}
+{"id": 151, "palette_id": "S-0508", "from_state": "SEARCHING", "to_state": "SOURCES_FOUND", "note": "14 documents retrieved (14 this run)", "at": "2026-09-28T11:47:40+00:00"}
+{"id": 152, "palette_id": "S-0002", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "14 claims", "at": "2026-09-28T11:47:44+00:00"}
+{"id": 153, "palette_id": "S-0468", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "36 claims", "at": "2026-09-28T11:47:52+00:00"}
+{"id": 154, "palette_id": "S-0486", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "101 claims", "at": "2026-09-28T11:48:02+00:00"}
+{"id": 155, "palette_id": "S-0526", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "66 claims", "at": "2026-09-28T11:48:05+00:00"}
+{"id": 156, "palette_id": "S-0479", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "331 claims", "at": "2026-09-28T11:48:12+00:00"}
+{"id": 157, "palette_id": "S-0024", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T11:48:14+00:00"}
+{"id": 158, "palette_id": "S-0518", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "128 claims", "at": "2026-09-28T11:48:24+00:00"}
+{"id": 159, "palette_id": "S-0372", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "112 claims", "at": "2026-09-28T11:48:28+00:00"}
+{"id": 160, "palette_id": "S-0502", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "29 claims", "at": "2026-09-28T11:48:31+00:00"}
+{"id": 161, "palette_id": "S-0366", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "102 claims", "at": "2026-09-28T11:48:37+00:00"}
+{"id": 162, "palette_id": "N-0775", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "110 claims", "at": "2026-09-28T11:48:41+00:00"}
+{"id": 163, "palette_id": "N-0697", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "165 claims", "at": "2026-09-28T11:48:43+00:00"}
+{"id": 164, "palette_id": "N-0623", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "121 claims", "at": "2026-09-28T11:48:45+00:00"}
+{"id": 165, "palette_id": "N-0632", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "188 claims", "at": "2026-09-28T11:48:49+00:00"}
+{"id": 166, "palette_id": "N-0556", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "92 claims", "at": "2026-09-28T11:48:50+00:00"}
+{"id": 167, "palette_id": "N-0728", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "143 claims", "at": "2026-09-28T11:48:52+00:00"}
+{"id": 168, "palette_id": "S-0507", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "227 claims", "at": "2026-09-28T11:48:58+00:00"}
+{"id": 169, "palette_id": "S-0023", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "36 claims", "at": "2026-09-28T11:49:01+00:00"}
+{"id": 170, "palette_id": "S-0020", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "65 claims", "at": "2026-09-28T11:49:02+00:00"}
+{"id": 171, "palette_id": "S-0508", "from_state": "SOURCES_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T11:49:06+00:00"}
+{"id": 172, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 173, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 1 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 174, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 14 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 175, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 4 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 176, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 9 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 177, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 178, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 10 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 179, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 19 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 180, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 181, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 10 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 182, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 3 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 183, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 19 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 184, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 32 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 185, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 22 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 186, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 26 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 187, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 4 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 188, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 189, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 190, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 6 changes need review", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 191, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:49:10+00:00"}
+{"id": 192, "palette_id": "S-0002", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "14 claims", "at": "2026-09-28T11:51:05+00:00"}
+{"id": 193, "palette_id": "S-0468", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T11:51:12+00:00"}
+{"id": 194, "palette_id": "S-0486", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "101 claims", "at": "2026-09-28T11:51:22+00:00"}
+{"id": 195, "palette_id": "S-0526", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "66 claims", "at": "2026-09-28T11:51:24+00:00"}
+{"id": 196, "palette_id": "S-0479", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "331 claims", "at": "2026-09-28T11:51:31+00:00"}
+{"id": 197, "palette_id": "S-0024", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T11:51:33+00:00"}
+{"id": 198, "palette_id": "S-0518", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "128 claims", "at": "2026-09-28T11:51:43+00:00"}
+{"id": 199, "palette_id": "S-0372", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "112 claims", "at": "2026-09-28T11:51:46+00:00"}
+{"id": 200, "palette_id": "S-0502", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "29 claims", "at": "2026-09-28T11:51:49+00:00"}
+{"id": 201, "palette_id": "S-0366", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "102 claims", "at": "2026-09-28T11:51:55+00:00"}
+{"id": 202, "palette_id": "N-0775", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "110 claims", "at": "2026-09-28T11:51:59+00:00"}
+{"id": 203, "palette_id": "N-0697", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "165 claims", "at": "2026-09-28T11:52:00+00:00"}
+{"id": 204, "palette_id": "N-0623", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "121 claims", "at": "2026-09-28T11:52:02+00:00"}
+{"id": 205, "palette_id": "N-0632", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "188 claims", "at": "2026-09-28T11:52:07+00:00"}
+{"id": 206, "palette_id": "N-0556", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "92 claims", "at": "2026-09-28T11:52:08+00:00"}
+{"id": 207, "palette_id": "N-0728", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "143 claims", "at": "2026-09-28T11:52:10+00:00"}
+{"id": 208, "palette_id": "S-0507", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "237 claims", "at": "2026-09-28T11:52:15+00:00"}
+{"id": 209, "palette_id": "S-0023", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "36 claims", "at": "2026-09-28T11:52:18+00:00"}
+{"id": 210, "palette_id": "S-0020", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "65 claims", "at": "2026-09-28T11:52:20+00:00"}
+{"id": 211, "palette_id": "S-0508", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T11:52:23+00:00"}
+{"id": 212, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 213, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 214, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 14 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 215, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 4 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 216, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 8 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 217, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 218, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 10 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 219, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 16 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 220, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 221, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 10 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 222, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 3 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 223, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 19 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 224, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 32 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 225, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 22 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 226, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 26 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 227, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 4 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 228, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 3 changes need review", "at": "2026-09-28T11:52:27+00:00"}
+{"id": 229, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:52:28+00:00"}
+{"id": 230, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 8 changes need review", "at": "2026-09-28T11:52:28+00:00"}
+{"id": 231, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:52:28+00:00"}
+{"id": 232, "palette_id": "S-0002", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "14 claims", "at": "2026-09-28T11:54:35+00:00"}
+{"id": 233, "palette_id": "S-0468", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T11:54:42+00:00"}
+{"id": 234, "palette_id": "S-0486", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "98 claims", "at": "2026-09-28T11:54:52+00:00"}
+{"id": 235, "palette_id": "S-0526", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "63 claims", "at": "2026-09-28T11:54:55+00:00"}
+{"id": 236, "palette_id": "S-0479", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "323 claims", "at": "2026-09-28T11:55:01+00:00"}
+{"id": 237, "palette_id": "S-0024", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T11:55:03+00:00"}
+{"id": 238, "palette_id": "S-0518", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "123 claims", "at": "2026-09-28T11:55:13+00:00"}
+{"id": 239, "palette_id": "S-0372", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "107 claims", "at": "2026-09-28T11:55:16+00:00"}
+{"id": 240, "palette_id": "S-0502", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "29 claims", "at": "2026-09-28T11:55:20+00:00"}
+{"id": 241, "palette_id": "S-0366", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "98 claims", "at": "2026-09-28T11:55:25+00:00"}
+{"id": 242, "palette_id": "N-0775", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "100 claims", "at": "2026-09-28T11:55:29+00:00"}
+{"id": 243, "palette_id": "N-0697", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "164 claims", "at": "2026-09-28T11:55:31+00:00"}
+{"id": 244, "palette_id": "N-0623", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "115 claims", "at": "2026-09-28T11:55:33+00:00"}
+{"id": 245, "palette_id": "N-0632", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "187 claims", "at": "2026-09-28T11:55:37+00:00"}
+{"id": 246, "palette_id": "N-0556", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "84 claims", "at": "2026-09-28T11:55:39+00:00"}
+{"id": 247, "palette_id": "N-0728", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "139 claims", "at": "2026-09-28T11:55:41+00:00"}
+{"id": 248, "palette_id": "S-0507", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "234 claims", "at": "2026-09-28T11:55:46+00:00"}
+{"id": 249, "palette_id": "S-0023", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "36 claims", "at": "2026-09-28T11:55:49+00:00"}
+{"id": 250, "palette_id": "S-0020", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "64 claims", "at": "2026-09-28T11:55:51+00:00"}
+{"id": 251, "palette_id": "S-0508", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T11:55:54+00:00"}
+{"id": 252, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 253, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 254, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 14 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 255, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 4 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 256, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 8 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 257, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 258, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 6 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 259, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 16 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 260, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 261, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 262, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 3 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 263, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 19 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 264, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 26 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 265, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 22 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 266, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 21 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 267, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 4 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 268, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 269, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 270, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 8 changes need review", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 271, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:55:58+00:00"}
+{"id": 272, "palette_id": "S-0002", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "14 claims", "at": "2026-09-28T11:56:50+00:00"}
+{"id": 273, "palette_id": "S-0468", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T11:56:57+00:00"}
+{"id": 274, "palette_id": "S-0486", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "96 claims", "at": "2026-09-28T11:57:07+00:00"}
+{"id": 275, "palette_id": "S-0526", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "61 claims", "at": "2026-09-28T11:57:10+00:00"}
+{"id": 276, "palette_id": "S-0479", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "318 claims", "at": "2026-09-28T11:57:17+00:00"}
+{"id": 277, "palette_id": "S-0024", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T11:57:18+00:00"}
+{"id": 278, "palette_id": "S-0518", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "123 claims", "at": "2026-09-28T11:57:28+00:00"}
+{"id": 279, "palette_id": "S-0372", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "107 claims", "at": "2026-09-28T11:57:31+00:00"}
+{"id": 280, "palette_id": "S-0502", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "29 claims", "at": "2026-09-28T11:57:34+00:00"}
+{"id": 281, "palette_id": "S-0366", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "97 claims", "at": "2026-09-28T11:57:40+00:00"}
+{"id": 282, "palette_id": "N-0775", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "99 claims", "at": "2026-09-28T11:57:44+00:00"}
+{"id": 283, "palette_id": "N-0697", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "161 claims", "at": "2026-09-28T11:57:46+00:00"}
+{"id": 284, "palette_id": "N-0623", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "115 claims", "at": "2026-09-28T11:57:47+00:00"}
+{"id": 285, "palette_id": "N-0632", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "179 claims", "at": "2026-09-28T11:57:52+00:00"}
+{"id": 286, "palette_id": "N-0556", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "84 claims", "at": "2026-09-28T11:57:53+00:00"}
+{"id": 287, "palette_id": "N-0728", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "138 claims", "at": "2026-09-28T11:57:55+00:00"}
+{"id": 288, "palette_id": "S-0507", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "228 claims", "at": "2026-09-28T11:58:00+00:00"}
+{"id": 289, "palette_id": "S-0023", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T11:58:03+00:00"}
+{"id": 290, "palette_id": "S-0020", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "63 claims", "at": "2026-09-28T11:58:05+00:00"}
+{"id": 291, "palette_id": "S-0508", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T11:58:08+00:00"}
+{"id": 292, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 293, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 294, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 14 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 295, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 3 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 296, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 9 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 297, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 298, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 6 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 299, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 16 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 300, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 301, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 302, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 3 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 303, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 19 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 304, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 26 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 305, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 22 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 306, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 21 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 307, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 4 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 308, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 309, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 310, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 8 changes need review", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 311, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T11:58:12+00:00"}
+{"id": 312, "palette_id": "S-0002", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "14 claims", "at": "2026-09-28T11:59:49+00:00"}
+{"id": 313, "palette_id": "S-0468", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T11:59:56+00:00"}
+{"id": 314, "palette_id": "S-0486", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "96 claims", "at": "2026-09-28T12:00:06+00:00"}
+{"id": 315, "palette_id": "S-0526", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "61 claims", "at": "2026-09-28T12:00:09+00:00"}
+{"id": 316, "palette_id": "S-0479", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "318 claims", "at": "2026-09-28T12:00:16+00:00"}
+{"id": 317, "palette_id": "S-0024", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T12:00:17+00:00"}
+{"id": 318, "palette_id": "S-0518", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "123 claims", "at": "2026-09-28T12:00:27+00:00"}
+{"id": 319, "palette_id": "S-0372", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "107 claims", "at": "2026-09-28T12:00:30+00:00"}
+{"id": 320, "palette_id": "S-0502", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "29 claims", "at": "2026-09-28T12:00:34+00:00"}
+{"id": 321, "palette_id": "S-0366", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "97 claims", "at": "2026-09-28T12:00:39+00:00"}
+{"id": 322, "palette_id": "N-0775", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "100 claims", "at": "2026-09-28T12:00:43+00:00"}
+{"id": 323, "palette_id": "N-0697", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "155 claims", "at": "2026-09-28T12:00:45+00:00"}
+{"id": 324, "palette_id": "N-0623", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "105 claims", "at": "2026-09-28T12:00:47+00:00"}
+{"id": 325, "palette_id": "N-0632", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "170 claims", "at": "2026-09-28T12:00:51+00:00"}
+{"id": 326, "palette_id": "N-0556", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "75 claims", "at": "2026-09-28T12:00:53+00:00"}
+{"id": 327, "palette_id": "N-0728", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "138 claims", "at": "2026-09-28T12:00:55+00:00"}
+{"id": 328, "palette_id": "S-0507", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "228 claims", "at": "2026-09-28T12:01:00+00:00"}
+{"id": 329, "palette_id": "S-0023", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T12:01:03+00:00"}
+{"id": 330, "palette_id": "S-0020", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "63 claims", "at": "2026-09-28T12:01:04+00:00"}
+{"id": 331, "palette_id": "S-0508", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T12:01:08+00:00"}
+{"id": 332, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 333, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 334, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 14 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 335, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 3 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 336, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 8 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 337, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 338, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 6 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 339, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 16 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 340, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 341, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 342, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 4 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 343, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 13 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 344, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 16 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 345, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 346, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 12 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 347, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 4 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 348, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 349, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 350, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 7 changes need review", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 351, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:01:12+00:00"}
+{"id": 352, "palette_id": "S-0002", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "14 claims", "at": "2026-09-28T12:01:44+00:00"}
+{"id": 353, "palette_id": "S-0468", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T12:01:51+00:00"}
+{"id": 354, "palette_id": "S-0486", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "96 claims", "at": "2026-09-28T12:02:00+00:00"}
+{"id": 355, "palette_id": "S-0526", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "61 claims", "at": "2026-09-28T12:02:03+00:00"}
+{"id": 356, "palette_id": "S-0479", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "318 claims", "at": "2026-09-28T12:02:10+00:00"}
+{"id": 357, "palette_id": "S-0024", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T12:02:12+00:00"}
+{"id": 358, "palette_id": "S-0518", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "123 claims", "at": "2026-09-28T12:02:22+00:00"}
+{"id": 359, "palette_id": "S-0372", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "107 claims", "at": "2026-09-28T12:02:25+00:00"}
+{"id": 360, "palette_id": "S-0502", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "29 claims", "at": "2026-09-28T12:02:29+00:00"}
+{"id": 361, "palette_id": "S-0366", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "97 claims", "at": "2026-09-28T12:02:34+00:00"}
+{"id": 362, "palette_id": "N-0775", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "100 claims", "at": "2026-09-28T12:02:38+00:00"}
+{"id": 363, "palette_id": "N-0697", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "155 claims", "at": "2026-09-28T12:02:40+00:00"}
+{"id": 364, "palette_id": "N-0623", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "104 claims", "at": "2026-09-28T12:02:42+00:00"}
+{"id": 365, "palette_id": "N-0632", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "170 claims", "at": "2026-09-28T12:02:46+00:00"}
+{"id": 366, "palette_id": "N-0556", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "75 claims", "at": "2026-09-28T12:02:48+00:00"}
+{"id": 367, "palette_id": "N-0728", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "138 claims", "at": "2026-09-28T12:02:49+00:00"}
+{"id": 368, "palette_id": "S-0507", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "228 claims", "at": "2026-09-28T12:02:55+00:00"}
+{"id": 369, "palette_id": "S-0023", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T12:02:58+00:00"}
+{"id": 370, "palette_id": "S-0020", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "63 claims", "at": "2026-09-28T12:02:59+00:00"}
+{"id": 371, "palette_id": "S-0508", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T12:03:03+00:00"}
+{"id": 372, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 373, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 374, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 14 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 375, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 3 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 376, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 9 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 377, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 378, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 6 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 379, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 16 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 380, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 381, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 382, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 4 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 383, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 13 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 384, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 15 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 385, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 386, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 12 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 387, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 4 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 388, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 389, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 390, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 7 changes need review", "at": "2026-09-28T12:03:07+00:00"}
+{"id": 391, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:03:08+00:00"}
+{"id": 392, "palette_id": "S-0002", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "14 claims", "at": "2026-09-28T12:05:00+00:00"}
+{"id": 393, "palette_id": "S-0468", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "35 claims", "at": "2026-09-28T12:05:07+00:00"}
+{"id": 394, "palette_id": "S-0486", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "96 claims", "at": "2026-09-28T12:05:16+00:00"}
+{"id": 395, "palette_id": "S-0526", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "61 claims", "at": "2026-09-28T12:05:19+00:00"}
+{"id": 396, "palette_id": "S-0479", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "318 claims", "at": "2026-09-28T12:05:26+00:00"}
+{"id": 397, "palette_id": "S-0024", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T12:05:28+00:00"}
+{"id": 398, "palette_id": "S-0518", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "123 claims", "at": "2026-09-28T12:05:37+00:00"}
+{"id": 399, "palette_id": "S-0372", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "107 claims", "at": "2026-09-28T12:05:41+00:00"}
+{"id": 400, "palette_id": "S-0502", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "29 claims", "at": "2026-09-28T12:05:44+00:00"}
+{"id": 401, "palette_id": "S-0366", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "97 claims", "at": "2026-09-28T12:05:50+00:00"}
+{"id": 402, "palette_id": "N-0775", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "100 claims", "at": "2026-09-28T12:05:54+00:00"}
+{"id": 403, "palette_id": "N-0697", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "155 claims", "at": "2026-09-28T12:05:55+00:00"}
+{"id": 404, "palette_id": "N-0623", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "104 claims", "at": "2026-09-28T12:05:57+00:00"}
+{"id": 405, "palette_id": "N-0632", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "170 claims", "at": "2026-09-28T12:06:02+00:00"}
+{"id": 406, "palette_id": "N-0556", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "75 claims", "at": "2026-09-28T12:06:03+00:00"}
+{"id": 407, "palette_id": "N-0728", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "138 claims", "at": "2026-09-28T12:06:05+00:00"}
+{"id": 408, "palette_id": "S-0507", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "228 claims", "at": "2026-09-28T12:06:11+00:00"}
+{"id": 409, "palette_id": "S-0023", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "34 claims", "at": "2026-09-28T12:06:13+00:00"}
+{"id": 410, "palette_id": "S-0020", "from_state": "NEEDS_REVIEW", "to_state": "EXTRACTED", "note": "63 claims", "at": "2026-09-28T12:06:15+00:00"}
+{"id": 411, "palette_id": "S-0508", "from_state": "NO_PUBLIC_DATA_FOUND", "to_state": "EXTRACTED", "note": "2 claims", "at": "2026-09-28T12:06:19+00:00"}
+{"id": 412, "palette_id": "S-0002", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 413, "palette_id": "S-0468", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 414, "palette_id": "S-0486", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 14 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 415, "palette_id": "S-0526", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 3 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 416, "palette_id": "S-0479", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 8 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 417, "palette_id": "S-0024", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 418, "palette_id": "S-0518", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 6 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 419, "palette_id": "S-0372", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 16 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 420, "palette_id": "S-0502", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 421, "palette_id": "S-0366", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 422, "palette_id": "N-0775", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 4 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 423, "palette_id": "N-0697", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "4 conflicts; 13 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 424, "palette_id": "N-0623", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 15 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 425, "palette_id": "N-0632", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 13 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 426, "palette_id": "N-0556", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "1 conflicts; 12 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 427, "palette_id": "N-0728", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "3 conflicts; 4 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 428, "palette_id": "S-0507", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 2 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 429, "palette_id": "S-0023", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "0 conflicts; 4 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 430, "palette_id": "S-0020", "from_state": "EXTRACTED", "to_state": "NEEDS_REVIEW", "note": "2 conflicts; 7 changes need review", "at": "2026-09-28T12:06:23+00:00"}
+{"id": 431, "palette_id": "S-0508", "from_state": "EXTRACTED", "to_state": "NO_PUBLIC_DATA_FOUND", "note": "no usable public data in this targeted pass (not exhaustive)", "at": "2026-09-28T12:06:23+00:00"}

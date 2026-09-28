@@ -1,0 +1,66 @@
+{
+ "method": "Manual verification by the operator agent of each sampled claim against its stored source context (value faithfully read, correct field, document about the right material). Stratified random samples by field; seeds 20260928 and 777; proposals sample seed 99.",
+ "samples": [
+  {
+   "name": "claims sample 1 (after first fixes)",
+   "n": 70,
+   "errors": 8,
+   "precision": 0.886,
+   "error_details": {
+    "17": "identity: Vigon 'HABANOLIDE SUBSTITUTE' (different product) accepted",
+    "24": "placeholder 'LogP 0.00000' taken as value",
+    "34": "H411 read outside SDS section 2 (component/section-16 list)",
+    "41": "species stored truncated ('vetiveria')",
+    "48": "'Odour threshold: No data available' mapped to odour description",
+    "50": "'conforms to standard' taken as odour description",
+    "51": "'Not determined' taken as odour description",
+    "62": "GC-MS range mixed liquid and headspace (gas-phase) columns"
+   },
+   "fixed_afterwards": true
+  },
+  {
+   "name": "claims sample 2 (fresh claims, after fixes of sample 1)",
+   "n": 56,
+   "errors": 7,
+   "precision": 0.875,
+   "error_details": {
+    "2": "identity: Fraterworks Norlimbanol page (different product, same CAS) accepted for Timberol",
+    "20": "logP value not normalised (': log Pow: 6,060')",
+    "30": "'amomum' matched inside 'cardamomum'",
+    "32": "ecotox test species (green algae) taken as botanical name",
+    "36": "'Description of the goods' (transport) taken as odour description",
+    "37": "same as 36",
+    "46": "'N/A' kept as solubility value"
+   },
+   "fixed_afterwards": true
+  },
+  {
+   "name": "proposed changes: all AUTO_ELIGIBLE",
+   "n": 10,
+   "errors": 0,
+   "precision": 1.0
+  },
+  {
+   "name": "proposed changes: random NEEDS_REVIEW/BLOCKED",
+   "n": 40,
+   "errors": 8,
+   "precision": 0.8,
+   "error_details": {
+    "11": "S-0020 tier A from a Symrise document (school bottle manufacturer unknown)",
+    "20": "S-0020 supplier_grade_url = Symrise document (same cause)",
+    "30": "S-0020 Symrise dose labelled as the school grade (same cause)",
+    "16": "GC-MS range mixed columns of different units",
+    "17": "GC-MS range mixed columns (EFSA table)",
+    "19": "GC-MS range mixed columns (EFSA intake table)",
+    "32": "GC-MS range mixed columns",
+    "42": "GC-MS values from a method-validation table",
+    "14": "(re-checked: correct - column 'SCEO' = Salvia sclarea oil)"
+   },
+   "fixed_afterwards": true,
+   "note": "All 8 error causes were fixed and re-checked in the final run (mixed GC-MS columns now rejected by header-aware parsing; validation tables skipped; official documents of a manufacturer not established for the school bottle are no longer treated as the school grade)."
+  }
+ ],
+ "summary": {
+  "text": "**Propuestas AUTO_ELIGIBLE: 10/10 correctas (100 %, n pequeña).** Claims extraídos: 88,6 % (62/70) en la muestra 1 y 87,5 % (49/56) en la muestra 2; propuestas de revisión: 80 % (32/40). Todos los tipos de error encontrados se corrigieron y el piloto se re-ejecutó; la precisión tras la última ronda no se ha re-medido con una muestra nueva, por lo que la estimación prudente para claims no automáticos es **~85–90 %**, y por eso siguen marcados NEEDS_REVIEW. Aparte de la extracción, varias fuentes (retailers, agregadores tipo ChemicalBook/LookChem) publican valores dudosos: se leen fielmente pero se marcan como evidencia secundaria y suelen acabar en CONFLICT. Detalle: data/audit/audit_verdicts.json."
+ }
+}

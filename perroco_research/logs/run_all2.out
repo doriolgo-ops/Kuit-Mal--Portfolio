@@ -1,0 +1,152 @@
+2026-09-28 11:29:25,964 INFO pipeline: init: 20 materials, master sha256 3a626dedfa9d
+2026-09-28 11:29:25,969 INFO run: == search S-0002
+2026-09-28 11:29:26,572 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 1)
+2026-09-28 11:29:56,669 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 2)
+2026-09-28 11:30:26,748 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 3)
+2026-09-28 11:30:56,748 WARNING apis: pubchem cid lookup failed for 55722-59-3: 503 Server Error: PUGREST.ServerBusy for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/55722-59-3/cids/JSON
+2026-09-28 11:30:56,752 WARNING pipeline: S-0002: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:30:56,752 INFO pipeline: S-0002: 58 distinct leads, 14 selected for fetch
+2026-09-28 11:30:56,753 INFO run: == search S-0468
+2026-09-28 11:30:56,832 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 1)
+2026-09-28 11:31:26,905 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 2)
+2026-09-28 11:31:57,005 WARNING fetch: 429 from pubchem.ncbi.nlm.nih.gov, backing off 30s (attempt 3)
+2026-09-28 11:32:27,006 WARNING apis: pubchem cid lookup failed for 5986-55-0: 503 Server Error: PUGREST.ServerBusy for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/5986-55-0/cids/JSON
+2026-09-28 11:32:27,010 WARNING pipeline: S-0468: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,010 INFO pipeline: S-0468: 47 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,010 INFO run: == search S-0486
+2026-09-28 11:32:27,018 WARNING apis: pubchem cid lookup failed for 28219-61-6: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,020 WARNING pipeline: S-0486: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,020 INFO pipeline: S-0486: 51 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,021 INFO run: == search S-0526
+2026-09-28 11:32:27,028 WARNING apis: pubchem cid lookup failed for 82356-51-2: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,028 WARNING apis: pubchem cid lookup failed for 63314-79-4: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,030 WARNING pipeline: S-0526: 2 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,031 INFO pipeline: S-0526: 52 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,031 INFO run: == search S-0479
+2026-09-28 11:32:27,041 WARNING apis: pubchem cid lookup failed for 54464-57-2: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,041 WARNING apis: pubchem cid lookup failed for 68155-66-8: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,041 WARNING apis: pubchem cid lookup failed for 68155-67-9: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,044 WARNING pipeline: S-0479: 3 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,044 INFO pipeline: S-0479: 49 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,045 INFO run: == search S-0024
+2026-09-28 11:32:27,055 WARNING apis: pubchem cid lookup failed for 41816-03-9: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,059 WARNING pipeline: S-0024: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,059 INFO pipeline: S-0024: 39 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,059 INFO run: == search S-0518
+2026-09-28 11:32:27,070 WARNING apis: pubchem cid lookup failed for 111879-80-2: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,074 WARNING pipeline: S-0518: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,074 INFO pipeline: S-0518: 50 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,074 INFO run: == search S-0372
+2026-09-28 11:32:27,085 WARNING apis: pubchem cid lookup failed for 125109-85-5: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,090 WARNING pipeline: S-0372: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,090 INFO pipeline: S-0372: 43 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,090 INFO run: == search S-0502
+2026-09-28 11:32:27,100 WARNING apis: pubchem cid lookup failed for 70788-30-6: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,104 WARNING pipeline: S-0502: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,104 INFO pipeline: S-0502: 54 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,104 INFO run: == search S-0366
+2026-09-28 11:32:27,114 WARNING apis: pubchem cid lookup failed for 28940-11-6: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,117 WARNING pipeline: S-0366: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,118 INFO pipeline: S-0366: 53 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,118 INFO run: == search S-0507
+2026-09-28 11:32:27,125 WARNING apis: pubchem cid lookup failed for amber xtreme: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,128 WARNING pipeline: S-0507: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,128 INFO pipeline: S-0507: 38 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,129 INFO run: == search S-0023
+2026-09-28 11:32:27,135 WARNING apis: pubchem cid lookup failed for rhubafuran: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,138 WARNING pipeline: S-0023: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,138 INFO pipeline: S-0023: 37 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,138 INFO run: == search S-0020
+2026-09-28 11:32:27,144 WARNING apis: pubchem cid lookup failed for aldehyde c-11 intreleven: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,144 WARNING apis: pubchem cid lookup failed for c-11 intreleven aldehyde: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,144 WARNING apis: pubchem cid lookup failed for intreleven aldehyde: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,144 WARNING apis: pubchem cid lookup failed for aldehyde intreleven: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,147 WARNING pipeline: S-0020: 4 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,147 INFO pipeline: S-0020: 35 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,147 INFO run: == search S-0508
+2026-09-28 11:32:27,155 WARNING apis: pubchem cid lookup failed for ambrocemor: pubchem.ncbi.nlm.nih.gov unavailable for this run (repeated 429/503; not retried)
+2026-09-28 11:32:27,158 WARNING pipeline: S-0508: 1 API lookups failed; search stage left open for resume
+2026-09-28 11:32:27,158 INFO pipeline: S-0508: 64 distinct leads, 14 selected for fetch
+2026-09-28 11:32:27,158 INFO run: == fetch S-0002
+2026-09-28 11:32:36,324 INFO run: == fetch S-0468
+2026-09-28 11:32:37,348 INFO run: == fetch S-0486
+2026-09-28 11:32:58,990 INFO run: == fetch S-0526
+2026-09-28 11:32:59,150 INFO run: == fetch S-0479
+2026-09-28 11:32:59,155 INFO run: == fetch S-0024
+2026-09-28 11:32:59,158 INFO run: == fetch S-0518
+2026-09-28 11:33:18,081 INFO run: == fetch S-0372
+2026-09-28 11:33:38,076 INFO run: == fetch S-0502
+2026-09-28 11:33:48,504 INFO run: == fetch S-0366
+2026-09-28 11:34:19,155 INFO run: == fetch N-0775
+2026-09-28 11:34:30,918 INFO run: == fetch N-0697
+2026-09-28 11:34:34,967 INFO run: == fetch N-0623
+2026-09-28 11:34:45,151 INFO run: == fetch N-0632
+2026-09-28 11:34:50,848 INFO run: == fetch N-0556
+2026-09-28 11:34:52,348 WARNING fetch: domain mdpi.com marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:35:06,715 INFO run: == fetch N-0728
+2026-09-28 11:35:07,271 WARNING fetch: domain mdpi.com marked BLOCKED: HTTP 403 (site refuses automated access; not bypassed)
+2026-09-28 11:35:10,685 INFO run: == fetch S-0507
+2026-09-28 11:35:12,711 INFO run: == fetch S-0023
+2026-09-28 11:35:23,620 INFO run: == fetch S-0020
+2026-09-28 11:35:23,624 INFO run: == fetch S-0508
+2026-09-28 11:35:36,573 INFO run: == extract S-0002
+2026-09-28 11:35:36,812 INFO run: == extract S-0468
+2026-09-28 11:35:42,757 INFO run: == extract S-0486
+2026-09-28 11:35:47,123 INFO run: == extract S-0526
+2026-09-28 11:35:47,458 INFO run: == extract S-0479
+2026-09-28 11:35:52,047 INFO run: == extract S-0024
+2026-09-28 11:35:52,547 INFO run: == extract S-0518
+2026-09-28 11:35:58,948 INFO run: == extract S-0372
+2026-09-28 11:36:02,318 INFO run: == extract S-0502
+2026-09-28 11:36:05,096 INFO run: == extract S-0366
+2026-09-28 11:36:09,977 INFO run: == extract N-0775
+2026-09-28 11:36:12,509 INFO run: == extract N-0697
+2026-09-28 11:36:12,721 INFO run: == extract N-0623
+2026-09-28 11:36:13,684 INFO run: == extract N-0632
+2026-09-28 11:36:16,825 INFO run: == extract N-0556
+2026-09-28 11:36:16,885 INFO run: == extract N-0728
+2026-09-28 11:36:18,226 INFO run: == extract S-0507
+2026-09-28 11:36:20,634 INFO run: == extract S-0023
+2026-09-28 11:36:23,006 INFO run: == extract S-0020
+2026-09-28 11:36:24,603 INFO run: == extract S-0508
+2026-09-28 11:36:30,136 INFO run: == validate S-0002
+2026-09-28 11:36:30,140 INFO run: == validate S-0468
+2026-09-28 11:36:30,143 INFO run: == validate S-0486
+2026-09-28 11:36:30,150 INFO run: == validate S-0526
+2026-09-28 11:36:30,154 INFO run: == validate S-0479
+2026-09-28 11:36:30,163 INFO run: == validate S-0024
+2026-09-28 11:36:30,166 INFO run: == validate S-0518
+2026-09-28 11:36:30,173 INFO run: == validate S-0372
+2026-09-28 11:36:30,181 INFO run: == validate S-0502
+2026-09-28 11:36:30,186 INFO run: == validate S-0366
+2026-09-28 11:36:30,192 INFO run: == validate N-0775
+2026-09-28 11:36:30,196 INFO run: == validate N-0697
+2026-09-28 11:36:30,200 INFO run: == validate N-0623
+2026-09-28 11:36:30,204 INFO run: == validate N-0632
+2026-09-28 11:36:30,210 INFO run: == validate N-0556
+2026-09-28 11:36:30,214 INFO run: == validate N-0728
+2026-09-28 11:36:30,222 INFO run: == validate S-0507
+2026-09-28 11:36:30,227 INFO run: == validate S-0023
+2026-09-28 11:36:30,230 INFO run: == validate S-0020
+2026-09-28 11:36:30,233 INFO run: == validate S-0508
+2026-09-28 11:36:30,235 INFO run: == propose S-0002
+2026-09-28 11:36:30,241 INFO run: == propose S-0468
+2026-09-28 11:36:30,245 INFO run: == propose S-0486
+2026-09-28 11:36:30,254 INFO run: == propose S-0526
+2026-09-28 11:36:30,259 INFO run: == propose S-0479
+2026-09-28 11:36:30,268 INFO run: == propose S-0024
+2026-09-28 11:36:30,273 INFO run: == propose S-0518
+2026-09-28 11:36:30,278 INFO run: == propose S-0372
+2026-09-28 11:36:30,285 INFO run: == propose S-0502
+2026-09-28 11:36:30,291 INFO run: == propose S-0366
+2026-09-28 11:36:30,297 INFO run: == propose N-0775
+2026-09-28 11:36:30,301 INFO run: == propose N-0697
+2026-09-28 11:36:30,305 INFO run: == propose N-0623
+2026-09-28 11:36:30,310 INFO run: == propose N-0632
+2026-09-28 11:36:30,316 INFO run: == propose N-0556
+2026-09-28 11:36:30,322 INFO run: == propose N-0728
+2026-09-28 11:36:30,328 INFO run: == propose S-0507
+2026-09-28 11:36:30,334 INFO run: == propose S-0023
+2026-09-28 11:36:30,338 INFO run: == propose S-0020
+2026-09-28 11:36:30,343 INFO run: == propose S-0508
+2026-09-28 11:36:30,384 INFO run: formula leads staged for a later phase: 14

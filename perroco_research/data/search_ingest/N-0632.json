@@ -1,0 +1,154 @@
+{
+  "palette_id": "N-0632",
+  "school_name_exact": "CARDAMOM OIL EI LMR",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "cardamom oil LMR IFF",
+      "purpose": "supplier_page",
+      "executed_at": "2026-09-28T10:56:10Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "CARDAMOM OIL GUATEMALA|LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/cardamom-oil-guatemala/"},
+        {"rank": 2, "title": "cardamom guatemala co₂ extract - LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/cardamom-guatemala-co2-extract/"},
+        {"rank": 3, "title": "A Presentation of Natural Materials by IFF-LMR Naturals ~ Interviews ~ Fragrantica", "url": "https://www.fragrantica.com/news/A-Presentation-of-Natural-Materials-by-IFF-LMR-Naturals-3798.html"},
+        {"rank": 4, "title": "LMR – Fraterworks", "url": "https://fraterworks.com/collections/lmr"},
+        {"rank": 5, "title": "Scent - LMR Naturals Overview", "url": "https://www.iff.com/scent/lmr-naturals/"},
+        {"rank": 6, "title": "SAFETY DATA SHEET", "url": "https://finefrag.com/wp-content/uploads/2020/06/CARDAMOM-OIL-GUATEMALA-LMR_00032885_GHS_SDS_28May2020_482080.pdf"},
+        {"rank": 7, "title": "Cardamom “Signature” Oil", "url": "https://fraterworks.com/products/cardamom-signature-oil"},
+        {"rank": 8, "title": "cardamom guat extract co2 lmr", "url": "https://finefrag.com/wp-content/uploads/2020/06/CARDAMOM-GUAT-EXTRACT-CO2-LMR_00032873_GHS_SDS_28May2020_482079.pdf"},
+        {"rank": 9, "title": "LMR Naturals Compendium Products", "url": "https://www.iff.com/scent/lmr-compendium/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about cardamom oil from LMR IFF:\n\n## Cardamom Oil Guatemala by LMR IFF\n\nLMR IFF (Laboratoire Monique Remy) is a leading producer of finest natural ingredients for perfumery, flavors, cosmetics, and aromatherapy. It was founded in 1984 in Grasse by Monique Remy and was acquired by IFF in 2000.\n\n### Product Characteristics\n\nThe cardamom oil from Guatemala has a spicy, herbal, and camphoraceous profile, described as the most penetrating, fresh and volatile of the origins. It features a green, slightly metallic character that evaporates on a thin fruity note.\n\n### Technical Details\n\nThe product is an essential oil created through hydro distillation of the seeds, with a yield of 1 kg made from about 30 kg of vegetal material. Key components include sabinene, eucalyptol, linalool, linalyl acetate, and alpha terpinyl acetate, with CAS Number 8000-66-6.\n\nThe crop calendar is January, February, October, November, and December, and the product is renewable and readily biodegradable."
+    },
+    {
+      "query": "Elettaria cardamomum seed essential oil GC-MS composition 1,8-cineole alpha-terpinyl acetate",
+      "purpose": "gcms_composition",
+      "executed_at": "2026-09-28T10:56:10Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Antiparasitic effects of Elettaria cardamomum L. essential oil and its main compounds, 1-8 Cineole alone and in combination with albendazole against Echinococcus granulosus protoscoleces - PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9073046/"},
+        {"rank": 2, "title": "Essential Oil Composition of Elettaria cardamomum Maton", "url": "https://dergipark.org.tr/en/download/article-file/415771"},
+        {"rank": 3, "title": "(PDF) Essential Oil Composition of Elettaria cardamomum Maton", "url": "https://www.academia.edu/78816174/Essential_Oil_Composition_of_Elettaria_cardamomum_Maton"},
+        {"rank": 4, "title": "Antioxidant Activity and GC-MS Profile of Cardamom (Elettaria cardamomum) Essential Oil Obtained by a Combined Extraction Method—Instant Controlled Pressure Drop Technology Coupled with Sonication - PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9920946/"},
+        {"rank": 5, "title": "(PDF) Essential oil composition of Elettaria cardamomum Maton", "url": "https://www.researchgate.net/publication/288805764_Essential_oil_composition_of_Elettaria_cardamomum_Maton"},
+        {"rank": 6, "title": "(PDF) Chemical Composition and Antimicrobial Activities of Elettaria Cardamomum L. (Manton) Essential Oil: A High Activity against a Wide Range of Food Borne and Medically Important Bacteria and Fungi", "url": "https://www.researchgate.net/publication/288824316_Chemical_Composition_and_Antimicrobial_Activities_of_Elettaria_Cardamomum_L_Manton_Essential_Oil_A_High_Activity_against_a_Wide_Range_of_Food_Borne_and_Medically_Important_Bacteria_and_Fungi"},
+        {"rank": 7, "title": "Full article: In vitro antioxidant and anti-inflammatory activities of green cardamom essential oil and in silico molecular docking of its major bioactives", "url": "https://www.tandfonline.com/doi/full/10.1080/16583655.2021.2002550"},
+        {"rank": 8, "title": "Frontiers | Essential Oil Profile Diversity in Cardamom Accessions From Southern India", "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.639619/full"},
+        {"rank": 9, "title": "Essential Oil Composition of Elettaria cardamomum Maton | Journal of Applied Biological Sciences", "url": "https://jabsonline.org/index.php/jabs/article/view/354"}
+      ],
+      "provider_summary": "I found detailed information about the GC-MS composition of Elettaria cardamomum seed essential oil. Here are the key findings:\n\n## Major Constituents\n\nThe main constituents were 1,8-Cineole (42.6%), α-pinene (24.1%), and α-Terpinyl acetate (19.3%) in one study. However, the composition varies across different studies and cardamom varieties:\n\n- 1,8-cineole (25.6%), linalool (6.3%), and α-terpinyl acetate (40.7%)\n- α-terpinyl acetate (45.6%), 1,8-cineole (26%), linalyl acetate (5.6%), linalool (5.2%), α-terpineol and limonene (2.9%)\n- α-Terpinyl acetate was the major component (55.99%), followed by 1,8 cineole (8.82%), linalool (6.99%)\n\n## Overall Composition\n\nAccording to GC/MS analysis, sixteen constituents were detected, representing 97.4% of the whole essential oil, though other analyses identified sixty seven compounds, representing 96.9% of the oil.\n\nThe major constituents of cardamom essential oil are 1,8-cineole, α-terpinyl acetate, sabinene, and β-linalool, with variations depending on the source, extraction method, and growing conditions."
+    },
+    {
+      "query": "ISO 4733 cardamom oil",
+      "purpose": "iso_standard",
+      "executed_at": "2026-09-28T10:56:10Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "ISO 4733:1981 - Oil of cardamom", "url": "https://www.iso.org/standard/10719.html"},
+        {"rank": 2, "title": "ISO 4733:2004 - Oil of cardamom [Elettaria cardamomum (L.) Maton]", "url": "https://www.iso.org/standard/36803.html"},
+        {"rank": 3, "title": "Cardamom Essential Oil — Complete Ingredient Guide", "url": "https://bioshop.pk/blogs/ingredient-glossary/cardamom-essential-oil"},
+        {"rank": 4, "title": "Standard No.: 2022 / 2018", "url": "https://www.eos.org.eg/en/standard/528"},
+        {"rank": 5, "title": "ISO 11024-2 - Essential Oils - General Guidance on Chromatographic Profiles - Part 2: Utilization of Chromatographic Profiles of Samples of Essential Oils | GlobalSpec", "url": "https://standards.globalspec.com/std/955333/iso-11024-2"},
+        {"rank": 6, "title": "Safety and efficacy of an essential oil from Elettaria cardamomum (L.) Maton when used as a sensory additive in feed for all animal species - - 2019 - EFSA Journal - Wiley Online Library", "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5721"},
+        {"rank": 7, "title": "Chemical Compounds, Physicochemical Properties, and Antioxidant Activity of A. cardamomum Leaves and Rhizomes Oils on Different Distillation Time | Pujiarti | Wood Research Journal", "url": "http://ejournalmapeki.org/index.php/wrj/article/view/484"},
+        {"rank": 8, "title": "BS ISO 4733:2004 Oil of cardamom [Elettaria cardamomum (L.) Maton]", "url": "https://www.en-standard.eu/bs-iso-4733-2004-oil-of-cardamom-elettaria-cardamomum-l-maton/"},
+        {"rank": 9, "title": "Reference number ISO 4733:2004(E) © ISO 2004 INTERNATIONAL STANDARD ISO 4733", "url": "https://cdn.standards.iteh.ai/samples/36803/52f17d989ab04a4f836980d316fcce22/ISO-4733-2004.pdf"},
+        {"rank": 10, "title": "International Standard INTERNATIONAL ORGANIZATION", "url": "https://cdn.standards.iteh.ai/samples/10719/1803f5f7b82643dbb7266626f51ffe99/ISO-4733-1981.pdf"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about ISO 4733 cardamom oil:\n\n## Overview\n\nISO 4733:2004 specifies certain characteristics of the oil of cardamom, Elletaria cardamomum (L.) Maton., in order to facilitate assessment of its quality.\n\n## Physical and Sensory Properties\n\nCardamom oil is a liquid with almost colorless to yellow color and a characteristic, spicy, camphorous odor. The standard specifies various physicochemical properties including:\n\n- Relative density at 20/20 °C: 0.191 - 0.936\n- Refractive index at 20 °C: 1.4620 - 1.4680\n- Optical rotation at 20 °C: Range from + 22 to + 41\n- Acid value: Maximum 6; Ester value: 92 - 150\n\n## Chemical Composition\n\nOxygenated monoterpenes dominate at 75–90% of total composition — primarily esters and the cyclic ether eucalyptol. The most prevalent compounds include terpineol acetate (> 35%) and 1,8-cineole (> 20%).\n\n## Standards Versions\n\nISO 4733:1981 was withdrawn, with a new version available: ISO 4733:2004."
+    },
+    {
+      "query": "cardamom oil safety data sheet CAS 8000-66-6",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:56:10Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "cardamom bark oil, 8000-66-6", "url": "http://www.thegoodscentscompany.com/data/es1695991.html"},
+        {"rank": 2, "title": "SDS of Cardamom Oil, Safety Data Sheets, CAS 8000-66-6 - chemBlink", "url": "https://www.chemblink.com/MSDS/8000-66-6_MSDS.htm"},
+        {"rank": 3, "title": "CHEMICAL SAFETY DATA SHEET according to 2020/878/EC (1907/2006/EC Article 31)", "url": "https://biolandes.com/wp-content/uploads/fiche-securite-F0467.pdf"},
+        {"rank": 4, "title": "Cardamom Oil | 8000-66-6", "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB5685583.htm"},
+        {"rank": 5, "title": "504064 CARDAMOM GUATEMALA OIL PURE SAFETY DATA SHEET Version # 03", "url": "https://www.vigon.com/product/cardamom-oil-guatemala/?doc=MSDS%2F504064_vigon_sds_us_english.pdf&namee=CardamomOilGuatemalaSDS"},
+        {"rank": 6, "title": "Safety Data Sheet Organic Cardamom Essential Oil ( ...", "url": "https://www.nhrorganicoils.com/uploads/20221122161304e_Cardamom_SDS.pdf"},
+        {"rank": 7, "title": "Cardamom oil – Chem-Impex", "url": "https://www.chemimpex.com/products/33916"},
+        {"rank": 8, "title": "SAFETY DATA SHEET", "url": "https://www.amphora-aromatics.com/images/product/105%20Cardamom%20-%20SDS%20-%20Version%204.pdf"},
+        {"rank": 9, "title": "SAFETY DATA SHEET Version : GHS/SDS/04 Print Date: 01-May-2023", "url": "http://ultrainternational.com/wp-content/uploads/2023/08/SDS-CARDAMOM-OIL.pdf"},
+        {"rank": 10, "title": "Oils, cardamom MSDS CasNo.8000-66-6", "url": "https://www.lookchem.com/msds/36131/8000-66-6_Oils,%20cardamom.html"}
+      ],
+      "provider_summary": "The search has returned several Safety Data Sheet (SDS) resources for cardamom oil with CAS number 8000-66-6. Here's what I found:\n\n**Key Safety Information:**\n\nCardamom oil (CAS 8000-66-6) is used as a perfume ingredient and flavouring agent for industrial use.\n\n**Hazard Classifications:**\n\nThe substance is classified as potentially fatal if swallowed and enters airways (H304) and is flammable liquid and vapour (H226).\n\n**Health Effects:**\n\nConcentrated liquid and vapors are irritating to skin with prolonged exposure, irritating to eyes with possible damage, and harmful if swallowed. According to toxicological data, the oral LD50 in rats and dermal LD50 in rabbits are both 5 g/kg.\n\n**Available SDS Resources:**\n\nSeveral manufacturers provide SDS documents including:\n- Biolandes (F0467)\n- Vigon (504064)\n- Amphora Aromatics (105)\n- Ultra International\n- NHR Organic Oils\n\nThese SDS documents are available directly from the manufacturers' websites and chemical supplier databases like ChemBlink and ChemicalBook."
+    },
+    {
+      "query": "cardamom oil origin Guatemala India chemotype composition comparison",
+      "purpose": "chemotype_origin",
+      "executed_at": "2026-09-28T10:56:10Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "(PDF) Composition and Functional Properties of Cardamom Seeds", "url": "https://www.researchgate.net/publication/373794417_Composition_and_Functional_Properties_of_Cardamom_Seeds"},
+        {"rank": 2, "title": "(PDF) Analysis of Volatile Oil Composition and Fatty Acid Profiles of Cardamom Seeds", "url": "https://www.researchgate.net/publication/379332452_Analysis_of_Volatile_Oil_Composition_and_Fatty_Acid_Profiles_of_Cardamom_Seeds"},
+        {"rank": 3, "title": "Cardamom essential oil Monograph by SALVATORE BATTAGLIA", "url": "https://salvatorebattaglia.com.au/blogs/mongraphs/cardamom"},
+        {"rank": 4, "title": "Cardamom Essential Oil — Complete Ingredient Guide", "url": "https://bioshop.pk/blogs/ingredient-glossary/cardamom-essential-oil"},
+        {"rank": 5, "title": "Frontiers | Essential Oil Profile Diversity in Cardamom Accessions From Southern India", "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.639619/full"},
+        {"rank": 6, "title": "Cardamom Oil Guatemala | Givaudan", "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/cardamom-oil-guatemala"},
+        {"rank": 7, "title": "Effects of Essential Oils of Elettaria cardamomum Grown in India and Guatemala on Gram-Negative Bacteria and Gastrointestinal Disorders", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8123808/"},
+        {"rank": 8, "title": "CARDAMOM OIL GUATEMALA|LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/cardamom-oil-guatemala/"},
+        {"rank": 9, "title": "pmc.ncbi.nlm.nih.gov", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8123808/"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about cardamom oil from Guatemala and India:\n\n## Origins\n\nGuatemala is the largest producer of cardamom in the world followed by India. Cardamom was brought to Guatemala more than 100 years ago and grows in the very fertile lands of Las Verapaces, Quiche, Huehuetenango and Izabal regions.\n\n## Composition & Chemotypes\n\nCardamom essential oil quality varies significantly by origin, harvest conditions, and chemotypic balance between its two dominant compounds — α-terpinyl acetate and 1,8-cineole. The composition of cardamom oil from south India mainly contained α-terpinyl acetate (56.7%), 1,8-cineole (15.13%), α-terpineol (4.67%) and limonene (4.05%).\n\n## Regional Comparison\n\nComparative analysis between the two origins shows notable differences: Monoterpenes were present in higher concentration in Indian cardamom (83.24%) than in Guatemalan cardamom (73.03%), whereas sesquiterpenes were present in a higher concentration in Guatemalan cardamom (18.35%) than in Indian cardamom (9.27%). Additionally, Indian cardamom was observed to be more potent in the castor oil-induced diarrhea model than Guatemalan cardamom."
+    },
+    {
+      "query": "cardamom oil use level perfumery",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:56:10Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Cardamom Oil — Natural Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/cardamom-oil"},
+        {"rank": 2, "title": "Cardamom Scent Description In Perfume", "url": "https://phlur.com/blogs/perfumery-dictionary/cardamom-scent-in-perfumery"},
+        {"rank": 3, "title": "Cardamom perfume ingredient, Cardamom fragrance and essential oils Elletaria Cardamomum", "url": "https://www.fragrantica.com/notes/Cardamom-63.html"},
+        {"rank": 4, "title": "How The Spicy Woody Aroma Of Cardamom Transforms Fragrances", "url": "https://www.alphaaromatics.com/blog/cardamom/"},
+        {"rank": 5, "title": "Cardamom Oil – Pell Wall", "url": "https://pellwall.com/products/cardamom-oil-albert-vieille-1"},
+        {"rank": 6, "title": "Cardamom - Organic EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/cardamom-organic-2156.html"},
+        {"rank": 7, "title": "Cardamom “Signature” Oil", "url": "https://fraterworks.com/products/cardamom-signature-oil"},
+        {"rank": 8, "title": "Cardamom Essential Oil | Cardamom Essential Oil | PerfumersWorld", "url": "https://www.perfumersworld.com/view.php?pro_id=7SC00084"},
+        {"rank": 9, "title": "Stimulative agent and stimulative perfume composition", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6835709"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about cardamom oil use levels in perfumery:\n\n## Usage Levels\n\nCardamom oil is generally used in quite small amounts and the IFRA restrictions on its use are not onerous. This suggests that while cardamom oil is potent and aromatic, perfumers don't need to use large quantities to achieve its desired effects.\n\n## Safety Profile\n\nCardamom oil is generally recognized as safe at standard perfumery levels. However, as with most essential oils, skin sensitization may occur at high concentrations or with prolonged dermal exposure.\n\nFor regulatory purposes in the EU, when naturally occurring allergens exceed threshold levels (>0.001% in leave-on products, >0.01% in rinse-off products), allergen declaration is mandatory on product labels.\n\n## Application in Perfumery\n\nCardamom's scent profile makes it a popular top or middle note. The oil works well in floral bases such as muguet and rose, and blends well with bergamot, olibanum, ylang-ylang, labdanum products, nerol, methyl-ionones, and cedarwood derivatives."
+    },
+    {
+      "query": "\"CARDAMOM OIL EI\" LMR",
+      "purpose": "name_variant_exact",
+      "executed_at": "2026-09-28T10:56:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "CARDAMOM OIL GUATEMALA|LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/cardamom-oil-guatemala/"},
+        {"rank": 2, "title": "CARDAMOM SEED OIL (ELETTARIA CARDAMOMUM (L.) MATON) | FEMA", "url": "https://www.femaflavor.org/flavor-library/cardamom-seed-oil-elettaria-cardamomum-l-maton"},
+        {"rank": 3, "title": "Cardamom “Signature” Oil", "url": "https://fraterworks.com/products/cardamom-signature-oil"},
+        {"rank": 4, "title": "Cardamom Essential Oil Organic", "url": "https://mountainroseherbs.com/cardamom-essential-oil"},
+        {"rank": 5, "title": "Aura Cacia Organic Cardamom Essential Oil 0.25 fl. oz. | Aura Cacia", "url": "https://www.auracacia.com/products/aura-cacia-organic-cardamom-essential-oil-0-25-fl-oz"},
+        {"rank": 6, "title": "Cardamom Oil | NOW Foods", "url": "https://www.nowfoods.com/products/essential-oils/cardamom-oil"},
+        {"rank": 7, "title": "SAFETY DATA SHEET", "url": "https://finefrag.com/wp-content/uploads/2020/06/CARDAMOM-OIL-GUATEMALA-LMR_00032885_GHS_SDS_28May2020_482080.pdf"},
+        {"rank": 8, "title": "Cardamom Essential Oil", "url": "https://av-at.com/cardamom-oil/"},
+        {"rank": 9, "title": "Cardamom Essential Oil | Uses, Benefits, and Blends | VINEVIDA", "url": "https://www.vinevida.com/products/cardamom-essential-oil"},
+        {"rank": 10, "title": "ELEMI OIL |LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/elemi-oil/"}
+      ],
+      "provider_summary": "I found search results for \"CARDAMOM OIL EI LMR\". Here are the key findings:\n\nCardamom Oil Guatemala from LMR Naturals originates from Guatemala with a crop calendar of January, February, October, November, and December, featuring spicy, herbal, and camphoraceous notes with a fresh and volatile character.\n\nThe oil is an essential oil produced through hydro distillation from cardamom seeds, with a yield of 1 kg made from about 30 kg of plant material, and contains components including sabinene, eucalyptol, linalool, linalyl acetate, and alpha terpinyl acetate. The CAS number is 8000-66-6.\n\nThe product is described as the most penetrating and volatile of cardamom oil origins, with a green, slightly metallic character that evaporates to a thin fruity note.\n\nThe product is offered by IFF (International Flavors & Fragrances) through their LMR Naturals product line and has applications in both fragrance and flavor industries."
+    },
+    {
+      "query": "cardamom oil East Indian LMR Naturals India",
+      "purpose": "name_variant_origin",
+      "executed_at": "2026-09-28T10:56:40Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Top 100 Cardamom Oil Manufacturers in India (2026) | ensun", "url": "https://ensun.io/search/cardamom-oil/india"},
+        {"rank": 2, "title": "Cardamom Oil Manufacturers, Cardamom Oil Exporters India", "url": "https://www.aroraaromatics.com/natural-essential-oils/cardamom-oil.html"},
+        {"rank": 3, "title": "Alleppey green cardamom", "url": "https://en.wikipedia.org/wiki/Alleppey_green_cardamom"},
+        {"rank": 4, "title": "Cardamom “Signature” Oil", "url": "https://fraterworks.com/products/cardamom-signature-oil"},
+        {"rank": 5, "title": "Best Cardamom Oil Manufacturers, Suppliers & Exporters in India | Som Extracts", "url": "https://www.somextracts.com/cardamom-oil.php"},
+        {"rank": 6, "title": "Cardamom", "url": "https://en.wikipedia.org/wiki/Cardamom"},
+        {"rank": 7, "title": "Cardamom Essential Oil Organic - Elettaria Cardamomum India", "url": "https://www.natureinbottle.com/product/cardamom_essential_oil"},
+        {"rank": 8, "title": "Cardamom Essential Oil | Kannauj Attar", "url": "https://kannaujattar.com/product/cardamom-essential-oil/"},
+        {"rank": 9, "title": "Cardamom Oil - Buy Cardamom Essential Oil – Shiva Exports India", "url": "https://www.shivaexportsindia.com/products/cardamom-oil-regular"}
+      ],
+      "provider_summary": "I've completed the web search for \"cardamom oil East Indian LMR Naturals India\". The search results show information about various cardamom oil manufacturers and exporters in India, including companies like Som Extracts, Shiva Exports India, Arora Aromatics, and others.\n\nHowever, the search results don't contain specific information about \"LMR Naturals\" or their East Indian cardamom oil products. The results primarily focus on general cardamom oil manufacturing in India, its characteristics, uses, and various suppliers. \n\nIf you're looking for specific information about LMR Naturals' cardamom oil products, you may want to:\n- Visit LMR Naturals' website directly\n- Search specifically for \"LMR Naturals\" to find their business information\n- Check e-commerce platforms where they may be listed\n\nIs there anything else about cardamom oil or Indian manufacturers you'd like to know more about?"
+    }
+  ]
+}

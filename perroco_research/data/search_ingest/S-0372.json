@@ -1,0 +1,157 @@
+{
+  "palette_id": "S-0372",
+  "school_name_exact": "FLORHYDRAL TOCO (ELINCS)",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "Florhydral Givaudan",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:54:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Florhydral™ | Givaudan", "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/florhydraltm"},
+        {"rank": 2, "title": "Print Page | Givaudan", "url": "https://www.givaudan.com/print/1314306"},
+        {"rank": 3, "title": "Perfumers Apprentice - Florhydral® (Givaudan)", "url": "https://shop.perfumersapprentice.com/p-6085-florhydral-givaudan.aspx"},
+        {"rank": 4, "title": "Floral Butanal / Florhydral® (67583-77-1) - Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/floral-butanal"},
+        {"rank": 5, "title": "Biocatalysed synthesis of the enantiomers of the floral odorant Florhydral® - ScienceDirect", "url": "https://www.sciencedirect.com/science/article/abs/pii/S0957416602002021"},
+        {"rank": 6, "title": "Florhydral – Pell Wall", "url": "https://pellwall.com/products/florhydral"},
+        {"rank": 7, "title": "floral butanal florhydral (Givaudan)", "url": "https://www.thegoodscentscompany.com/data/rw1131041.html"},
+        {"rank": 8, "title": "Florhydral from Givaudan-Aromatic Chemicals – Bulkaroma", "url": "https://bulkaroma.com/products/florhydral-givaudan"},
+        {"rank": 9, "title": "Florhydral - BC Fragrance", "url": "https://shop.bcfragrance.com/product/florhydral-for-pre-order/"},
+        {"rank": 10, "title": "Florhydral - GIVAUDAN – Global Perfumes Shop", "url": "https://globalperfumesshop.com/products/florhydral-givaudan"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Florhydral from Givaudan:\n\n## Overview\n\nFlorhydral is a synthetic aliphatic aldehyde developed by Givaudan. It is classified chemically as a substituted benzenepropanal with a bulky isopropyl substituent at the meta-position of the phenyl ring.\n\n## Olfactory Profile\n\nFlorhydral has a very floral, fresh, natural odour (such as lily of the valley, hyacinth). Its great intensity and pleasant quality make it useful in all areas of perfumery. Florhydral is also valuable in fragrances for laundry products where a fresh residual odour is desired.\n\n## Chemical Properties\n\nThe chemical name is 3-(3-Isopropylphenyl)butanal with formula C13H18O, molecular weight 190.3, and CAS # 125109-85-5.\n\n## Development\n\nFlorhydral was developed by Givaudan during the late 20th century and was first disclosed in US Patent 4,910,346, filed by A. Chalk for Givaudan Corporation and published on November 10, 1988."
+    },
+    {
+      "query": "Florhydral CAS 125109-85-5",
+      "purpose": "cas_identity",
+      "executed_at": "2026-09-28T10:54:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "CAS 125109-85-5: Florhydral | CymitQuimica", "url": "https://cymitquimica.com/cas/125109-85-5/"},
+        {"rank": 2, "title": "FlorhydralR | CAS 125109-85-5 | SCBT - Santa Cruz Biotechnology", "url": "https://www.scbt.com/p/florhydralr-125109-85-5"},
+        {"rank": 3, "title": "ScenTree - Florhydral® (CAS N° 125109-85-5)", "url": "https://www.scentree.co/en/Florhydral%C2%AE.html"},
+        {"rank": 4, "title": "Perfumers Apprentice - Florhydral® (Givaudan)", "url": "https://shop.perfumersapprentice.com/p-6085-florhydral-givaudan.aspx"},
+        {"rank": 5, "title": "Florhydral – Pell Wall", "url": "https://pellwall.com/products/florhydral"},
+        {"rank": 6, "title": "Florhydral | Contrebande", "url": "https://contrebande.co/en-us/ingredients/125109-85-5/4W10-200ML"},
+        {"rank": 7, "title": "FLORHYDRAL", "url": "https://ies-ingredients.com/en/produit/florhydral/"},
+        {"rank": 8, "title": "FlorhydralR | CAS#:125109-85-5 | Chemsrc", "url": "https://www.chemsrc.com/en/cas/125109-85-5_667656.html"},
+        {"rank": 9, "title": "floral butanal, 125109-85-5", "url": "https://www.thegoodscentscompany.com/data/rw1131041.html"},
+        {"rank": 10, "title": "3-Hydroxyflavone", "url": "https://en.wikipedia.org/wiki/3-Hydroxyflavone"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Florhydral (CAS 125109-85-5):\n\n## Overview\nFlorhydral® (CAS N° 125109-85-5) is an ingredient used in perfumes. Its chemical name is 3-(3-Isopropylphenyl)butanal with molecular formula C13H18O and molecular weight of 190.28.\n\n## Properties and Appearance\nFlorhydral is a colorless to pale yellow clear liquid with an intensely floral aroma, featuring notes reminiscent of muguet, linden flower, and lily of the valley.\n\n## Applications\nFlorhydral® is generally used to create lily of the valley or hyacinth notes and is especially used for reformulating Lilial®-containing perfumes. Its great intensity and pleasant quality make it useful in all areas of perfumery, and it is also valuable in fragrances for laundry products where a fresh residual odour is desired.\n\n## Usage Levels\nRecommended usage is 0.2-2% with tenacity of about one week on a smelling strip, and this material also works well in burning applications such as candles and joss sticks.\n\n## Synthesis\nFlorhydral® can be synthesized by a hydroformylation reaction of 1,3-diisopropenylbenzene, using carbon monoxide and hydrogen to form an aldehydic group, starting from an alkene group."
+    },
+    {
+      "query": "Florhydral safety data sheet",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:54:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "CAS 125109-85-5: Florhydral | CymitQuimica", "url": "https://cymitquimica.com/cas/125109-85-5/"},
+        {"rank": 2, "title": "( 7 ) 1 Issue date: 07/24/2026 Page Version: 2 (07/24/2026) SAFETY DATA SHEET", "url": "https://shop.perfumersapprentice.com/msds/6085.pdf"},
+        {"rank": 3, "title": "Product Name: Vigon Code: CAS Number: FLORHYDRAL® 501126 125109-85-5", "url": "https://www.vigon.com/product/florhydral/?doc=PACKET%2F501126packet.pdf&namee=FlorhydralAllDocuments"},
+        {"rank": 4, "title": "Florhydral – Pell Wall", "url": "https://pellwall.com/products/florhydral"},
+        {"rank": 5, "title": "Floral Butanal / Florhydral® (67583-77-1) - Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/floral-butanal"},
+        {"rank": 6, "title": "FLORHYDRAL", "url": "https://www.directpcw.com/en/Floral/527-florhydral.html"},
+        {"rank": 7, "title": "Florhydral | C13H18O | CID 86209 - PubChem - NIH", "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Florhydral"},
+        {"rank": 8, "title": "floral butanal florhydral (Givaudan)", "url": "https://www.thegoodscentscompany.com/data/rw1131041.html"},
+        {"rank": 9, "title": "Florhydral - GIVAUDAN – Global Perfumes Shop", "url": "https://globalperfumesshop.com/products/florhydral-givaudan"},
+        {"rank": 10, "title": "Florhydral - CAS Common Chemistry", "url": "https://commonchemistry.cas.org/detail?cas_rn=125109-85-5"}
+      ],
+      "provider_summary": "Based on the search results, here's information about Florhydral safety data sheets:\n\n## Overview\nFlorhydral (also known as 3-(3-Isopropylphenyl)butanal with CAS number 125109-85-5) is a fragrance ingredient used in perfumery and personal care products.\n\n## Safety Profile\nFlorhydral demonstrates a favorable safety profile for cosmetic and perfumery applications when used according to good manufacturing practices and recommended dosage guidelines. Florhydral is not listed among the EU's 26 declarable fragrance allergens, meaning it does not require individual declaration on cosmetic product labels.\n\n## Handling Precautions\nSafety data sheets typically indicate that Florhydral should be handled with care, as it may pose health risks if ingested or inhaled, and appropriate personal protective equipment should be used during handling.\n\nFirst-aid measures include removing from exposure to fresh air and keeping at rest with medical attention; for inhalation, flush immediately with water for at least 15 minutes.\n\nFor storage, keep in a well-ventilated place, keep container tightly closed, and keep cool.\n\nSafety data sheets for Florhydral are available from various suppliers including Vigon International, Givaudan, and other chemical suppliers."
+    },
+    {
+      "query": "Florhydral use level",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:54:30Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Perfumers Apprentice - Florhydral® (Givaudan)", "url": "https://shop.perfumersapprentice.com/p-6085-florhydral-givaudan.aspx"},
+        {"rank": 2, "title": "Floral Butanal / Florhydral® (67583-77-1) - Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/floral-butanal"},
+        {"rank": 3, "title": "Florhydral in Perfumery | Première Peau", "url": "https://premierepeau.com/pages/glossary-terms/florhydral"},
+        {"rank": 4, "title": "Florhydral – Pell Wall", "url": "https://pellwall.com/products/florhydral"},
+        {"rank": 5, "title": "Florhydral: The Complete Guide To This Aroma Chemical – glooshi.", "url": "https://www.glooshi.com/florhydral/"},
+        {"rank": 6, "title": "Florhydral – Fraterworks", "url": "https://fraterworks.com/products/florhydral"},
+        {"rank": 7, "title": "Florhydral - BC Fragrance", "url": "https://shop.bcfragrance.com/product/florhydral-for-pre-order/"},
+        {"rank": 8, "title": "Florhydral", "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/florhydraltm"},
+        {"rank": 9, "title": "News - Florhydral: The Unique Aroma Chemical Defining Modern Fragrance Markets", "url": "https://www.sprchemical.com/news/florhydral-the-unique-aroma-chemical-defining-modern-fragrance-markets/"}
+      ],
+      "provider_summary": "Based on the search results, here's information about Florhydral use levels:\n\n## Use Level Guidelines\n\nThe recommended use level for Florhydral is 0.2% - 2%. More specifically, it is normally used at less than 1% of the concentrate except in Lily of the Valley applications.\n\nFor those new to working with this ingredient, it's recommended to begin testing at 0.5–1% in simple floral bases to understand its character before incorporating into complex compositions.\n\n## Performance Notes\n\nFlorhydral is remarkably powerful yet refined, effective at concentrations as low as 0.5% in fragrance concentrates, yet never overwhelming. It has a tenacity of about one week on a smelling strip and works well in burning applications such as candles and joss sticks.\n\n## Key Characteristics\n\nAt low dosages, it adds crisp, clean freshness; at higher levels, it becomes distinctly hyacinth-like."
+    },
+    {
+      "query": "Florhydral Givaudan pdf",
+      "purpose": "manufacturer_tds_pdf",
+      "executed_at": "2026-09-28T10:55:19Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Florhydral SDS-6085", "url": "https://shop.perfumersapprentice.com/msds/6085.pdf"},
+        {"rank": 2, "title": "Print Page | Givaudan", "url": "https://www.givaudan.com/print/1314306"},
+        {"rank": 3, "title": "Demo Formulas Ambermax®", "url": "https://www.givaudan.com/files/1472023_formula.pdf"},
+        {"rank": 4, "title": "Florhydral™ | Givaudan", "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/florhydraltm"},
+        {"rank": 5, "title": "Demo Formulas Frutonile", "url": "https://www.givaudan.com/files/1461553_formula.pdf"},
+        {"rank": 6, "title": "Perfumers Apprentice - Florhydral® (Givaudan)", "url": "https://shop.perfumersapprentice.com/p-6085-florhydral-givaudan.aspx"},
+        {"rank": 7, "title": "Florhydral – Pell Wall", "url": "https://pellwall.com/products/florhydral"},
+        {"rank": 8, "title": "floral butanal florhydral (Givaudan)", "url": "https://www.thegoodscentscompany.com/data/rw1131041.html"},
+        {"rank": 9, "title": "Florhydral from Givaudan-Aromatic Chemicals – Bulkaroma", "url": "https://bulkaroma.com/products/florhydral-givaudan"},
+        {"rank": 10, "title": "Florhydral - GIVAUDAN – Global Perfumes Shop", "url": "https://globalperfumesshop.com/products/florhydral-givaudan"}
+      ],
+      "provider_summary": "I found search results for Florhydral Givaudan PDF. Here's what the search revealed:\n\nFlorhydral® is a product from Givaudan (SDS-6085), and it's classified as a floral fragrance ingredient with the CAS number 125109-85-5.\n\nFlorhydral™ gives natural volume together with aldehydes in citrus accords and fits particularly in lily of the valley, linden blossom or hyacinth accords. It has a very floral, fresh, trendy, natural odour (such as lily-of-the-valley, hyacinth), and its great intensity and pleasant quality make it useful in all areas of perfumery.\n\nThe search results include references to several PDF documents:\n1. A Safety Data Sheet (SDS) available at the Perfumers Apprentice website\n2. Demo formula PDFs from Givaudan's website showing fragrance compositions using Florhydral\n\nYou can access the SDS directly at: https://shop.perfumersapprentice.com/msds/6085.pdf"
+    },
+    {
+      "query": "Florhydral odor vapor pressure",
+      "purpose": "odor_physchem",
+      "executed_at": "2026-09-28T10:55:19Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Floral Butanal / Florhydral® (67583-77-1) - Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/floral-butanal"},
+        {"rank": 2, "title": "Florhydral SDS-6085", "url": "https://shop.perfumersapprentice.com/msds/6085.pdf"},
+        {"rank": 3, "title": "Florhydral - BC Fragrance", "url": "https://shop.bcfragrance.com/product/florhydral-for-pre-order/"},
+        {"rank": 4, "title": "Hydrogen odorants and odorant selection method", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8394553"},
+        {"rank": 5, "title": "Malodor covering perfumery", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7585833"},
+        {"rank": 6, "title": "Hydrogen odorants and odorant selection method", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7811688"},
+        {"rank": 7, "title": "Product Name: Vigon Code: CAS Number: FLORHYDRAL® 501126 125109-85-5", "url": "https://www.vigon.com/product/florhydral/?doc=PACKET%2F501126packet.pdf&namee=FlorhydralAllDocuments"},
+        {"rank": 8, "title": "Rolled fibrous structures comprising encapsulated malodor reduction compositions", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10792384"},
+        {"rank": 9, "title": "Fragrance compositions and uses thereof", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10501706"}
+      ],
+      "provider_summary": "Based on the search results, here's information about Florhydral's odor and vapor pressure:\n\n## Odor Characteristics\n\nFlorhydral is a synthetic aldehyde used in perfumery for its floral-green lily-of-the-valley scent. It is described as having a floral, green, muguet, fresh, and powerful odor.\n\nThe odor potency varies by enantiomer: The (+)-(S)-enantiomer exhibits a more pronounced green, less watery character with greater power and an odor threshold of 0.035 ng/L air.\n\n## Vapor Pressure\n\nFlorhydral has a vapor pressure of 0.02 hPa, which gives it medium volatility and allows it to function as a heart note in fragrance composition. The vapor pressure at 20°C is specifically noted as 0.0200 hPa.\n\nThese properties make Florhydral suitable for use in various perfumery applications where a lasting floral character is desired."
+    },
+    {
+      "query": "Florhydral Vigon",
+      "purpose": "distributor_page",
+      "executed_at": "2026-09-28T10:55:19Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Florhydral® by Vigon - Personal Care & Cosmetics", "url": "https://www.ulprospector.com/en/la/PersonalCare/Detail/31182/994497/Florhydral"},
+        {"rank": 2, "title": "Florhydral® by Vigon - Food, Beverage & Nutrition", "url": "https://www.ulprospector.com/en/la/Food/Detail/33549/994497/Florhydral"},
+        {"rank": 3, "title": "Product Name: Vigon Code: CAS Number: FLORHYDRAL® 501126 125109-85-5", "url": "https://www.vigon.com/product/florhydral/?doc=PACKET%2F501126packet.pdf&namee=FlorhydralAllDocuments"},
+        {"rank": 4, "title": "Florhydral | Vigon", "url": "https://www.vigon.com/product/florhydral/"},
+        {"rank": 5, "title": "Vigon", "url": "https://www.vigon.com/product/florhydral//in-two-minutes/?doc=PACKET/501126packet.pdf&namee=FlorhydralAllDocuments"},
+        {"rank": 6, "title": "Florhydral: In Two Minutes - YouTube", "url": "https://www.youtube.com/watch?v=NA497wTcrk8"},
+        {"rank": 7, "title": "Perfumers Apprentice - Florhydral® (Givaudan)", "url": "https://shop.perfumersapprentice.com/p-6085-florhydral-givaudan.aspx"},
+        {"rank": 8, "title": "Florhydral - BC Fragrance", "url": "https://shop.bcfragrance.com/product/florhydral-for-pre-order/"},
+        {"rank": 9, "title": "Florhydral - GIVAUDAN – Global Perfumes Shop", "url": "https://globalperfumesshop.com/products/florhydral-givaudan"},
+        {"rank": 10, "title": "Flavanonol", "url": "https://en.wikipedia.org/wiki/Flavanonol"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Florhydral Vigon:\n\nFlorhydral® is a concentrated aromatic and flavor ingredient which may be used in flavor and fragrance compounds according to legal and IFRA or FEMA GRAS/FDA guidelines. It's produced by Vigon International, which provides customers with actives, botanical extracts, functional ingredients, and essential oils worldwide, with extensive on-site manufacturing capabilities.\n\n**Product Characteristics:**\n\nFlorhydral® has a powerful, green, floral odor with a purity of 98-100% and a specific gravity of 0.9470-0.9520 at 25°C. The appearance is colorless to pale yellow liquid.\n\n**Chemical Properties:**\n\nThe chemical name is 3-(3-Isopropylphenyl)butanal with the formula C13H18O, a molecular weight of 190.3, and a boiling point of 257°C.\n\n**Applications:**\n\nIts great intensity and pleasant quality make it useful in all areas of perfumery, and it is also valuable in fragrances for laundry products where a fresh residual odour is desired."
+    },
+    {
+      "query": "Florhydral TOCO",
+      "purpose": "name_variant_grade",
+      "executed_at": "2026-09-28T10:55:19Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Tocofersolan", "url": "https://en.wikipedia.org/wiki/Tocofersolan"},
+        {"rank": 2, "title": "Floral Butanal / Florhydral® (67583-77-1) - Synthetic Ingredient for Perfumery — Scentspiracy", "url": "https://www.scentspiracy.com/fragrance-ingredients/p/floral-butanal"},
+        {"rank": 3, "title": "ScenTree - Florhydral® (CAS N° 125109-85-5)", "url": "https://www.scentree.co/en/Florhydral%C2%AE.html"},
+        {"rank": 4, "title": "Florhydral", "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/florhydraltm"},
+        {"rank": 5, "title": "Perfumers Apprentice - Florhydral® (Givaudan)", "url": "https://shop.perfumersapprentice.com/p-6085-florhydral-givaudan.aspx"},
+        {"rank": 6, "title": "Florhydral | Contrebande", "url": "https://contrebande.co/ingredients/125109-85-5/4W10"},
+        {"rank": 7, "title": "Florhydral | Maese Lab", "url": "https://maeselab.com/florhydral/"},
+        {"rank": 8, "title": "Florhydral – Pell Wall", "url": "https://pellwall.com/products/florhydral"},
+        {"rank": 9, "title": "Florhydral | C13H18O | CID 86209 - PubChem - NIH", "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Florhydral"},
+        {"rank": 10, "title": "Tofogliflozin", "url": "https://en.wikipedia.org/wiki/Tofogliflozin"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Florhydral:\n\nFlorhydral (floral butanal) is a synthetic green-floral aldehyde. It is used in perfumery to reproduce the fresh transparency of lily-of-the-valley. Florhydral has a very floral, fresh, natural odour (such as lily of the valley, hyacinth...).\n\nFlorhydral is generally used to create lily of the valley or hyacinth notes and is especially used for reformulating Lilial-containing perfumes. Its great intensity and pleasant quality make it useful in all areas of perfumery, and Florhydral is also valuable in fragrances for laundry products where a fresh residual odour is desired.\n\nFlorhydral does not exist in a natural state and thus can't be used as extracted from a plant. The chemical name is 3-(3-Isopropylphenyl)butanal with formula C13H18O and CAS number 125109-85-5.\n\nRegarding \"TOCO\" - the search results do not show a direct connection between Florhydral and a product called \"Florhydral TOCO.\" The first result does mention tocofersolan (a water-soluble form of vitamin E), but this appears to be unrelated to Florhydral."
+    }
+  ]
+}

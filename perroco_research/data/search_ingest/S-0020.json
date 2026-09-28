@@ -1,0 +1,420 @@
+{
+  "palette_id": "S-0020",
+  "school_name_exact": "ALD C-11 INTRELEVEN (TT) PRG",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "Intreleven aldehyde IFF",
+      "purpose": "manufacturer_page",
+      "executed_at": "2026-09-28T10:57:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Intreleven Aldehyde - IFF",
+          "url": "https://www.specialchem.com/cosmetics/product/iff-intreleven-aldehyde"
+        },
+        {
+          "rank": 2,
+          "title": "Intreleven Aldehyde Special - IFF",
+          "url": "https://www.specialchem.com/cosmetics/product/iff-intreleven-aldehyde-special"
+        },
+        {
+          "rank": 3,
+          "title": "Intreleven Aldehyde Special|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde-special/"
+        },
+        {
+          "rank": 4,
+          "title": "intreleven aldehyde (IFF), 112-45-8",
+          "url": "https://www.thegoodscentscompany.com/data/rw1395171.html"
+        },
+        {
+          "rank": 5,
+          "title": "Intreleven Aldehyde|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde/"
+        },
+        {
+          "rank": 6,
+          "title": "Perfumers Apprentice - Intreleven Aldehyde (IFF) **",
+          "url": "https://shop.perfumersapprentice.com/p-6117-intreleven-aldehyde-iff.aspx"
+        },
+        {
+          "rank": 7,
+          "title": "Intreleven Aldehyde – International Flavors & Fragrances",
+          "url": "http://lmrnaturals.iff.com/en/scent/fragrance-ingredients/online-compendium-new/intreleven-aldehyde"
+        },
+        {
+          "rank": 8,
+          "title": "ALDEHYDE INTRELEVEN IFF",
+          "url": "https://www.ventos.com/index.php/en/producto/2213/ALDEHYDE+INTRELEVEN+IFF/223"
+        },
+        {
+          "rank": 9,
+          "title": "Intreleven Aldehyde from IFF-Aromatic Chemicals – Bulkaroma",
+          "url": "https://bulkaroma.com/products/intreleven-aldehyde-iff"
+        },
+        {
+          "rank": 10,
+          "title": "intreleven aldehyde (IFF)",
+          "url": "https://flavscents.com/library/material/3555592c56b/a"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Intreleven Aldehyde by IFF:\n\nIntreleven Aldehyde by IFF is a readily biodegradable, fragrance ingredient with an olfactory profile described as an intense aldehydic floral note with ozone, marine and citrus effects.\n\nIntreleven Aldehyde is used in fragrances, cosmetics and personal care formulations. It contains BHA as a stabilizer and shows very good soap stability.\n\nThe chemical name for Intreleven Aldehyde is Undec-2-enal. It is REACH registered.\n\nAdditionally, IFF offers Intreleven Aldehyde Special, a non-biodegradable fragrance ingredient with the same olfactory profile of an intense aldehydic floral note with ozone, marine and citrus effects."
+    },
+    {
+      "query": "Intreleven aldehyde CAS",
+      "purpose": "cas_identity",
+      "executed_at": "2026-09-28T10:57:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Intreleven Aldehyde Special|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde-special/"
+        },
+        {
+          "rank": 2,
+          "title": "ALDEHYDE C-11 INTRELEVEN",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB49917268.htm"
+        },
+        {
+          "rank": 3,
+          "title": "Intreleven Aldehyde Special",
+          "url": "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Intereleven_Aldehyde_Spec..pdf"
+        },
+        {
+          "rank": 4,
+          "title": "Symrise AG's Intreleven Aldehyde Special | Perfumer & Flavorist",
+          "url": "https://www.perfumerflavorist.com/roundups/2024/june/news/22912596/symrise-symrise-ags-intreleven-aldehyde-special"
+        },
+        {
+          "rank": 5,
+          "title": "intreleven aldehyde (IFF), 112-45-8",
+          "url": "https://www.thegoodscentscompany.com/data/rw1395171.html"
+        },
+        {
+          "rank": 6,
+          "title": "Intreleven Aldehyde (Aldehyde C-11 Undecylenic) – Citrus/Aldehydic",
+          "url": "https://www.myskinrecipes.com/shop/en/aldehyde-aroma-chemicals/2458-intreleven-aldehyde.html"
+        },
+        {
+          "rank": 7,
+          "title": "ALDEHYDE INTRELEVEN",
+          "url": "https://www.ventos.com/index.php/en/producto/2271/ALDEHYDE+INTRELEVEN/223"
+        },
+        {
+          "rank": 8,
+          "title": "Perfumers Apprentice - Intreleven Aldehyde (IFF) **",
+          "url": "https://shop.perfumersapprentice.com/p-6117-intreleven-aldehyde-iff.aspx"
+        },
+        {
+          "rank": 9,
+          "title": "ALDEHYDE INTRELEVEN IFF",
+          "url": "https://www.ventos.com/index.php/en/producto/2213/ALDEHYDE+INTRELEVEN+IFF/223"
+        },
+        {
+          "rank": 10,
+          "title": "Fragrance Chemicals - Intreleven Aldehyde (C11H20O) Trader - Wholesaler / Distributor from Vapi",
+          "url": "https://www.trivenichemicals.com/fragrance-chemicals.html"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's the information about Intreleven Aldehyde CAS:\n\nIntreleven Aldehyde Special has the CAS number 1337-83-3. However, it's worth noting that there are different CAS numbers associated with related Intreleven Aldehyde products. Intreleven Aldehyde (CAS No. 112-45-8), also known as Aldehyde C-11 Intreleven, 10-Undecenal, 10-Undecenyl Aldehyde, and Undecylenic Aldehyde, is a colorless liquid with a strong aldehydic floral note.\n\nThe chemical formula is C11H20O, and it has an intense aldehydic floral note with ozone, marine and citrus effects. It is a readily biodegradable and renewable top-note booster used as a valuable molecule for fabric care applications."
+    },
+    {
+      "query": "Intreleven aldehyde safety data sheet",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:57:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "SAFETY DATA SHEET INTERNATIONAL FLAVORS & FRAGRANCES Product",
+          "url": "https://shop.perfumersapprentice.com/msds/6117.pdf"
+        },
+        {
+          "rank": 2,
+          "title": "intreleven aldehyde (IFF), 112-45-8",
+          "url": "https://www.thegoodscentscompany.com/data/rw1395171.html"
+        },
+        {
+          "rank": 3,
+          "title": "Intreleven Aldehyde - IFF",
+          "url": "https://www.specialchem.com/cosmetics/product/iff-intreleven-aldehyde"
+        },
+        {
+          "rank": 4,
+          "title": "INTRELEVEN ALDEHYDE",
+          "url": "https://www.directpcw.com/en/aldehyde/178-intreleven-aldehyde.html"
+        },
+        {
+          "rank": 5,
+          "title": "Intreleven Aldehyde (Aldehyde C-11 Undecylenic) – Citrus/Aldehydic",
+          "url": "https://www.myskinrecipes.com/shop/en/aldehyde-aroma-chemicals/2458-intreleven-aldehyde.html"
+        },
+        {
+          "rank": 6,
+          "title": "ALDEHYDE INTRELEVEN",
+          "url": "https://www.ventos.com/index.php/en/producto/2271/ALDEHYDE+INTRELEVEN/223"
+        },
+        {
+          "rank": 7,
+          "title": "Intreleven Aldehyde Special|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde-special/"
+        },
+        {
+          "rank": 8,
+          "title": "ALDEHYDE INTRELEVEN IFF",
+          "url": "https://www.ventos.com/index.php/en/producto/2213/ALDEHYDE+INTRELEVEN+IFF/223"
+        },
+        {
+          "rank": 9,
+          "title": "Intreleven Aldehyde 112-45-8 | Premium Supplier & Distributor",
+          "url": "https://www.chemicalbull.com/products/intreleven-aldehyde"
+        },
+        {
+          "rank": 10,
+          "title": "Acetaldehyde (data page)",
+          "url": "https://en.wikipedia.org/wiki/Acetaldehyde_(data_page)"
+        }
+      ],
+      "provider_summary": "Based on the search results, I found information about Intreleven Aldehyde's Safety Data Sheet. Here are the key findings:\n\n## Product Information\nIntreleven Aldehyde is a fragrance ingredient from International Flavors & Fragrances (IFF), with the chemical formula C11 H20 O and CAS number 112-45-8.\n\n## Hazard Classification\nAccording to GHS classification, Intreleven Aldehyde is classified as a Flammable liquid, Category 4.\n\n## Physical Properties\nIt appears as a clear mobile liquid that is colorless to pale yellow in color, with an aldehydic, floral, citrus, and ozone odor. It has a flashpoint of 94°C and is insoluble in water.\n\n## Storage\nThe product should be kept in a tightly closed container in a cool and dry place, protected from light, and quality should be checked before use if stored for more than 12 months.\n\nA complete Safety Data Sheet (SDS) is available from suppliers like The Perfumer's Apprentice and other chemical distributors. The official IFF Safety Data Sheet was last updated on 06/10/2020."
+    },
+    {
+      "query": "Intreleven aldehyde use level perfumery",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:57:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Intreleven Aldehyde Special",
+          "url": "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Intereleven_Aldehyde_Spec..pdf"
+        },
+        {
+          "rank": 2,
+          "title": "Perfumers Apprentice - Intreleven Aldehyde (IFF) **",
+          "url": "https://shop.perfumersapprentice.com/p-6117-intreleven-aldehyde-iff.aspx"
+        },
+        {
+          "rank": 3,
+          "title": "intreleven aldehyde (IFF), 112-45-8",
+          "url": "https://www.thegoodscentscompany.com/data/rw1395171.html"
+        },
+        {
+          "rank": 4,
+          "title": "Intreleven aldehyde spec. - Symrise",
+          "url": "https://www.specialchem.com/cosmetics/product/symrise-intreleven-aldehyde-spec"
+        },
+        {
+          "rank": 5,
+          "title": "Aldehyde C-11 Intreleven – Fraterworks",
+          "url": "https://fraterworks.com/products/aldehyde-c-11-intreleven"
+        },
+        {
+          "rank": 6,
+          "title": "Intreleven Aldehyde Special|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde-special/"
+        },
+        {
+          "rank": 7,
+          "title": "Intreleven Aldehyde - BC Fragrance",
+          "url": "https://shop.bcfragrance.com/product/intreleven-aldehyde-for-pre-order/"
+        },
+        {
+          "rank": 8,
+          "title": "Intreleven Aldehyde|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde/"
+        },
+        {
+          "rank": 9,
+          "title": "Aliphatic C.sub.11 branched chain aldehydes and alcohols, process for preparing same and uses thereof in augmenting or enhancing the aroma of perfumes, colognes and/or perfumed articles",
+          "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4374277"
+        },
+        {
+          "rank": 10,
+          "title": "Perfumers Apprentice - Aldehydic",
+          "url": "https://shop.perfumersapprentice.com/c-68-aldehydic.aspx"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Intreleven aldehyde use levels in perfumery:\n\n## Use Levels\n\nThe recommended use level for Intreleven aldehyde is 0.1–2% in perfumery applications. Some sources specify a use level of 0.1000% in the fragrance concentrate.\n\n## Perfumery Applications\n\nIntreleven aldehyde serves as a top note booster and provides a clean, fresh linen aspect. It creates an intense aldehydic floral note with ozone, marine and citrus effects.\n\n## Chemical Properties\n\nIntreleven aldehyde is the chemical undec-2-enal with the formula C11H20O and a vapor pressure of 0.033811 mm Hg at 23°C. It has a tenacity on blotter of 380 hours, making it quite persistent in fragrance compositions."
+    },
+    {
+      "query": "aldehyde C-11 Intreleven undecenal composition isomers",
+      "purpose": "composition",
+      "executed_at": "2026-09-28T10:57:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Aldehyde C-11 Undecylenic | Aldehyde C-11 Undecylenic | PerfumersWorld",
+          "url": "https://www.perfumersworld.com/view.php?pro_id=4AR01236"
+        },
+        {
+          "rank": 2,
+          "title": "10-Undecenal | 112-45-8",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB9190322.htm"
+        },
+        {
+          "rank": 3,
+          "title": "Intreleven Aldehyde Special",
+          "url": "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Intereleven_Aldehyde_Spec..pdf"
+        },
+        {
+          "rank": 4,
+          "title": "Aldehyde C-11 Intreleven – Fraterworks",
+          "url": "https://fraterworks.com/products/aldehyde-c-11-intreleven"
+        },
+        {
+          "rank": 5,
+          "title": "undecenal mixture (aldehyde C-11 mixed), 1337-83-3",
+          "url": "https://www.thegoodscentscompany.com/data/rw1016731.html"
+        },
+        {
+          "rank": 6,
+          "title": "10-undecenal (aldehyde C-11 undecylenic), 112-45-8",
+          "url": "https://www.thegoodscentscompany.com/data/rw1000332.html"
+        },
+        {
+          "rank": 7,
+          "title": "ScenTree - Aldehyde C-11 Undecylenic (CAS N° 112-45-8)",
+          "url": "https://www.scentree.co/en/Aldehyde_C-11_Undecylenic.html"
+        },
+        {
+          "rank": 8,
+          "title": "Undecenal Mixture (Aldehyde C-11 Mixed)",
+          "url": "https://olfactorian.com/materials/undecenal-mixture-aldehyde-c11-mixed"
+        },
+        {
+          "rank": 9,
+          "title": "Odorants and compositions comprising odorants",
+          "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12545852"
+        },
+        {
+          "rank": 10,
+          "title": "Aldehyde C-11 Undecylenic | Perfume Material",
+          "url": "https://olfactorian.com/materials/aldehyde-c11-undecylenic"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Aldehyde C-11 Intreleven and undecenal:\n\n## Composition and Isomers\n\nIntreleven Aldehyde Special is a mixture of isomers with the chemical formula C11H20O. Mixtures containing undecenals with the double bond in other positions (9-, 8-, 7-) are marketed and used in fragrances, for example, Aldehyde C11 Iso (Givaudan), Intreleven aldehyde.\n\n## Chemical Names\n\nAldehyde C-11 Undecylenic is also known as 10-hendecenal, 10-undecenal, undecenal (10-), Undecylenic Aldehyde Mixed Isomers, and Hendecenal (10-). The IUPAC name is undec-10-enal (mixture of isomers).\n\n## Properties and Performance\n\nIntreleven Aldehyde Special has a GC purity minimum of 95% (sum of isomers). Aldehyde C-11 Intreleven has a powerful clean aldehydic aroma with green rosy character, fresh linen facets, ozonic-marine brightness, and citrus-orange undertones.\n\n## Applications\n\nIt can be used as a top note booster in white floral concepts, or to add aldehydic sparkle to citrus, marine, and green compositions."
+    },
+    {
+      "query": "\"Intreleven\" aldehyde odor",
+      "purpose": "odor_profile",
+      "executed_at": "2026-09-28T10:57:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Intreleven aldehyde spec. - Symrise",
+          "url": "https://www.specialchem.com/cosmetics/product/symrise-intreleven-aldehyde-spec"
+        },
+        {
+          "rank": 2,
+          "title": "Intreleven Aldehyde Special|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde-special/"
+        },
+        {
+          "rank": 3,
+          "title": "Perfumers Apprentice - Intreleven Aldehyde (IFF) **",
+          "url": "https://shop.perfumersapprentice.com/p-6117-intreleven-aldehyde-iff.aspx"
+        },
+        {
+          "rank": 4,
+          "title": "intreleven aldehyde (IFF), 112-45-8",
+          "url": "https://www.thegoodscentscompany.com/data/rw1395171.html"
+        },
+        {
+          "rank": 5,
+          "title": "Intreleven Aldehyde|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde/"
+        },
+        {
+          "rank": 6,
+          "title": "Intreleven Aldehyde - IFF",
+          "url": "https://www.specialchem.com/cosmetics/product/iff-intreleven-aldehyde"
+        },
+        {
+          "rank": 7,
+          "title": "Intreleven Aldehyde (Aldehyde C-11 Undecylenic) – Citrus/Aldehydic",
+          "url": "https://www.myskinrecipes.com/shop/en/aldehyde-aroma-chemicals/2458-intreleven-aldehyde.html"
+        },
+        {
+          "rank": 8,
+          "title": "Intreleven Aldehyde Special - IFF",
+          "url": "https://www.specialchem.com/cosmetics/product/iff-intreleven-aldehyde-special"
+        },
+        {
+          "rank": 9,
+          "title": "Intreleven Aldehyde - BC Fragrance",
+          "url": "https://shop.bcfragrance.com/product/intreleven-aldehyde-for-pre-order/"
+        },
+        {
+          "rank": 10,
+          "title": "Odorants and compositions comprising odorants",
+          "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12545852"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's information about Intreleven aldehyde's odor characteristics:\n\nIntreleven aldehyde has a typical aldehydic odor that is powerful, green, and has fresh linen shades. More specifically, it is described as an intense aldehydic floral note with ozone, marine and citrus effects.\n\nIntreleven Aldehyde is a bright aldehydic citrus-peel material adding clean, zesty lift. The ingredient is commonly used in fragrances, cosmetics, and personal care formulations as a top note component in perfumes."
+    },
+    {
+      "query": "Aldehyde C-11 Intreleven special PRG",
+      "purpose": "name_variant",
+      "executed_at": "2026-09-28T10:57:00Z",
+      "provider": "claude_websearch",
+      "results": [
+        {
+          "rank": 1,
+          "title": "Intreleven Aldehyde Special",
+          "url": "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Intereleven_Aldehyde_Spec..pdf"
+        },
+        {
+          "rank": 2,
+          "title": "ALDEHYDE C-11 INTRELEVEN",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB49917268.htm"
+        },
+        {
+          "rank": 3,
+          "title": "Intreleven Aldehyde (Aldehyde C-11 Undecylenic) – Citrus/Aldehydic",
+          "url": "https://www.myskinrecipes.com/shop/en/aldehyde-aroma-chemicals/2458-intreleven-aldehyde.html"
+        },
+        {
+          "rank": 4,
+          "title": "Aldehyde C-11 Intreleven – Fraterworks",
+          "url": "https://fraterworks.com/products/aldehyde-c-11-intreleven"
+        },
+        {
+          "rank": 5,
+          "title": "ALD C-11 INTRELEVEN SPECIAL BHA (IFF)",
+          "url": "https://www.creatingperfume.com/aldc11intrelevenaldehydespecialbhaiff.aspx"
+        },
+        {
+          "rank": 6,
+          "title": "Intreleven Aldehyde Special|Fragrance Ingredients| IFF",
+          "url": "https://www.iff.com/scent/ingredients-compendium/intreleven-aldehyde-special/"
+        },
+        {
+          "rank": 7,
+          "title": "INTRELEVEN ALDEHYDE SPECIAL",
+          "url": "https://www.creatingperfume.com/intrelevenaldehydespecialiff.aspx"
+        },
+        {
+          "rank": 8,
+          "title": "intreleven aldehyde (IFF), 112-45-8",
+          "url": "https://www.thegoodscentscompany.com/data/rw1395171.html"
+        },
+        {
+          "rank": 9,
+          "title": "Perfumers Apprentice - Intreleven Aldehyde (IFF) **",
+          "url": "https://shop.perfumersapprentice.com/p-6117-intreleven-aldehyde-iff.aspx"
+        },
+        {
+          "rank": 10,
+          "title": "undecenal mixture (aldehyde C-11 mixed), 1337-83-3",
+          "url": "https://www.thegoodscentscompany.com/data/rw1016731.html"
+        }
+      ],
+      "provider_summary": "Based on the search results, here's what I found about Aldehyde C-11 Intreleven Special PRG:\n\n**Product Overview:**\nIntreleven Aldehyde Special is an isomerized grade of undecylenic aldehyde much more intense than the regular Aldehyde C-11 Undecylenic. The chemical composition is Undecenal (mixture of isomers) C11H20O.\n\n**Scent Profile:**\nIt provides an intense aldehydic floral note with ozone, marine and citrus effects. Aldehyde C-11 Intreleven has a powerful clean aldehydic aroma with green rosy character, fresh linen facets, ozonic-marine brightness, and citrus-orange undertones. It has a slightly orange, predominantly rose and decidedly less fatty aroma.\n\n**Applications:**\nIt implements a fresh radiant top note to white flower concepts and is valuable for fabric care products. The material has 400-hour substantivity on blotter translating to exceptional longevity in finished products, and the fresh linen aspect has made it particularly popular in fabric care applications.\n\nThis ingredient is primarily used in the fragrance and perfumery industry as a raw material for creating fragrance formulations."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "palette_id": "N-0623",
+  "school_name_exact": "SAGE CLARY OIL FRENCH LMR",
+  "searched_by": "operator-agent (WebSearch tool)",
+  "queries": [
+    {
+      "query": "clary sage oil French LMR IFF",
+      "purpose": "supplier_page",
+      "executed_at": "2026-09-28T10:54:50Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "SAGE CLARY OIL FRANCE|LMR Naturals | IFF", "url": "https://www.iff.com/scent/lmr-compendium/sage-clary-oil-france/"},
+        {"rank": 2, "title": "Sage Clary Oil France – International Flavors & Fragrances", "url": "http://lmrnaturals.iff.com/en/site-services/lmr-naturals-online-compendium/sage-clary-oil-france"},
+        {"rank": 3, "title": "SAGE CLARY OIL GREEN FRANCE |LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/sage-clary-oil-green-france/"},
+        {"rank": 4, "title": "SAGE CLARY ABSOLUTE FRANCE |LMR Naturals", "url": "https://www.iff.com/scent/lmr-compendium/sage-clary-absolute-france/"},
+        {"rank": 5, "title": "clary sage oil france, 8016-63-5", "url": "https://www.thegoodscentscompany.com/data/es1018512.html"},
+        {"rank": 6, "title": "CLARY SAGE OIL – International Flavors & Fragrances", "url": "http://lmrnaturals.iff.com/en/site-services/flavor-online-compendium-iframe/clary-sage-oil"},
+        {"rank": 7, "title": "Feel the Power of Clary Sage", "url": "https://www.maison21g.com/articles/feel-power-clary-sage"},
+        {"rank": 8, "title": "Clary Sage Essential Oil - Salvia Sclarea - France - LMR – Bulkaroma", "url": "https://bulkaroma.com/products/clary-sage-essential-oil-salvia-sclarea-france-lmr"},
+        {"rank": 9, "title": "LMR – Bulkaroma", "url": "https://bulkaroma.com/en-us/collections/vendors?q=LMR"},
+        {"rank": 10, "title": "Anne-Marie Saget", "url": "https://en.wikipedia.org/wiki/Anne-Marie_Saget"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about clary sage oil French LMR IFF:\n\nClary Sage Oil France is a herbal product with a powerful warm and aromatic note featuring a noticeable lavender character, balanced with tea and hay facets on a sensual ambergris background. \n\nThe botanical name is Salvia sclarea L., sourced from France, with a typical crop calendar in July. It is produced through hydro distillation of the stems and flowers, yielding 1 kg from approximately 400 kg of plant material.\n\nThe key components include linalool, linalyl acetate, beta caryophyllene, germacrene D, and sclareol, with CAS Number 8016-63-5. It is certified as renewable and readily biodegradable, and can be used in fragrance and flavor applications.\n\nLMR is an in-house naturals facility of IFF (International Flavors & Fragrances) located in Grasse, which is a major center for fragrance production in France."
+    },
+    {
+      "query": "Salvia sclarea essential oil GC-MS composition linalyl acetate linalool",
+      "purpose": "gcms_composition",
+      "executed_at": "2026-09-28T10:54:50Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "(PDF) The essential oil of Salvia sclarea L. from Tajikistan", "url": "https://www.academia.edu/30835978/The_essential_oil_of_Salvia_sclarea_L_from_Tajikistan"},
+        {"rank": 2, "title": "Assessment of chemically characterized Salvia sclarea L. essential oil and its combination with linalyl acetate as novel plant based antifungal, antiaflatoxigenic and antioxidant agent against herbal drugs contamination and probable mode of action: Natural Product Research: Vol 35 , No 5 - Get Access", "url": "https://www.tandfonline.com/doi/full/10.1080/14786419.2019.1593168"},
+        {"rank": 3, "title": "Terpenoid Compositions and Enantio-differentiation of Linalool and Sclareol in Salvia sclarea L. from Three Different Climatic Regions in India: Journal of Essential Oil Research: Vol 22, No 6", "url": "https://www.tandfonline.com/doi/abs/10.1080/10412905.2010.9700406"},
+        {"rank": 4, "title": "Composition of the essential oils from the flowers and leaves of Salvia sclarea L. (Lamiaceae) cultivated in Slovak Republic", "url": "https://agris.fao.org/search/en/providers/122535/records/65de3bbf0f3e94b9e5cc360c"},
+        {"rank": 5, "title": "Salvia sclarea Essential Oil Chemical Composition and Biological Activities", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049179/"},
+        {"rank": 6, "title": "Composition and Antifungal Activity on Soil-Borne Pathogens of the Essential Oil of Salviasclarea from Greece | Journal of Agricultural and Food Chemistry | ACS Publications", "url": "https://pubs.acs.org/doi/10.1021/jf020422n"},
+        {"rank": 7, "title": "Greek Salvia sclarea L. Essential Oils", "url": "https://www.acgpubs.org/uploads/articles/pdfs/2018080808544095-RNP-EO_1508-054.pdf"},
+        {"rank": 8, "title": "Laurus nobilis, Salvia sclarea and Salvia officinalis Essential Oils and Hydrolates: Evaluation of Liquid and Vapor Phase Chemical Composition and Biological Activities", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8067454/"},
+        {"rank": 9, "title": "Salvia sclarea: A comprehensive review of its pharmacology, phytochemistry, ethnobotany and traditional uses - ScienceDirect", "url": "https://www.sciencedirect.com/science/article/pii/S2214662826000265"},
+        {"rank": 10, "title": "Salvia officinalis L. and Salvia sclarea Essential Oils: Chemical Composition, Biological Activities and Preservative Effects against Listeria monocytogenes Inoculated into Minced Beef Meat", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10574192/"}
+      ],
+      "provider_summary": "I've found comprehensive information about Salvia sclarea essential oil composition analyzed by GC-MS. Here are the key findings:\n\n## Major Components\n\nSalvia sclarea essential oil is dominated by linalyl acetate and linalool, with samples from Tajikistan containing linalyl acetate (44.1%) and linalool (24.8%). However, the exact percentages vary by geographic origin and cultivation conditions.\n\n## GC-MS Analysis Results from Various Studies\n\nSeveral studies using GC-MS have reported varying compositions:\n\n- One analysis showed linalyl acetate (61.33%) and linalool (17.59%) as major components\n- Another study identified linalool acetate (49.1%) and linalool (20.6%) as the main constituents, followed by (E)-caryophyllene (5.1%), p-cimene (4.9%), α-terpineol (4.9%), and geranyl acetate (4.4%)\n- Greek samples showed linalyl acetate (19.75−31.05%), linalool (18.46−30.43%), geranyl acetate (4.45−12.1%), and α-terpineol (5.08−7.56%) as main components\n- Indian cultivars showed variation, with linalyl acetate ranging from 45.7% to 60.8% and linalool from 14.5% to 23.6%\n\n## Factors Affecting Composition\n\nSeveral factors influence the chemical composition of Salvia sclarea essential oil, with variations in extraction methods and plant organs used for extraction significantly altering the oil's chemical profile."
+    },
+    {
+      "query": "ISO 7609 clary sage oil",
+      "purpose": "iso_standard",
+      "executed_at": "2026-09-28T10:54:50Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "ISO 24255:2025 - Essential oil of clary sage (Salvia sclarea L.) \"prewilted\" French type and \"chopped\" French type", "url": "https://www.iso.org/standard/87790.html"},
+        {"rank": 2, "title": "Clary Sage Oil by Jedwards International, Inc. - Personal Care & Cosmetics", "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/2357/647759/Clary-Sage-Oil"},
+        {"rank": 3, "title": "Clary Sage 100% Pure Essential Oil Therapeutic Grade | eBay", "url": "https://www.ebay.com/itm/Clary-Sage-Pure-Essential-Oil-ISO-Certified-GMP-Accredited-for-quality-Assurance/143956698945?hash=item21847ce741:g:vTkAAOSwzu9gM4-w&var=443223288080"},
+        {"rank": 4, "title": "Clary sage oil | 8016-63-5", "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB9340183.htm"},
+        {"rank": 5, "title": "clary sage oil america, 8016-63-5", "url": "https://www.thegoodscentscompany.com/data/es1101491.html"},
+        {"rank": 6, "title": "clary sage oil france, 8016-63-5", "url": "https://www.thegoodscentscompany.com/data/es1018512.html"},
+        {"rank": 7, "title": "clary sage oil greece, 8016-63-5", "url": "https://www.thegoodscentscompany.com/data/es1585161.html"},
+        {"rank": 8, "title": "clary sage oil spain, 8016-63-5 - The Good Scents Company", "url": "https://www.thegoodscentscompany.com/data/es1585171.html"},
+        {"rank": 9, "title": "Clary sage oil | CAS#:8016-63-5 | Chemsrc", "url": "https://www.chemsrc.com/en/cas/8016-63-5_1465845.html"},
+        {"rank": 10, "title": "Buy Organic Clary Sage Oil Online | Trusted Organic Clary Sage Oil Wholesale Suppliers", "url": "https://www.avinaturals.com/product/organic-clary-sage-oil/"}
+      ],
+      "provider_summary": "Based on the search results, I found information about clary sage oil standards, though the specific ISO 7609 standard did not appear directly in the results. However, I did find a related ISO standard:\n\nISO 24255:2025 is a standard for essential oil of clary sage (Salvia sclarea L.) covering \"prewilted\" French type and \"chopped\" French type.\n\nRegarding clary sage oil itself, clary sage oil is obtained by steam distillation of flowering tops and foliage of Salvia sclarea L. (Lamiaceae). It is a pale yellow to yellow liquid with a fresh herbaceous odor and a wine-like bouquet.\n\nThe search results show that ISO standards exist for clary sage oil quality specifications, and the product is commonly referenced with ISO certifications in the industry. If you need specific details about ISO 7609 in particular, you may want to consult the official ISO standards document directly."
+    },
+    {
+      "query": "clary sage oil safety data sheet CAS 8016-63-5",
+      "purpose": "sds",
+      "executed_at": "2026-09-28T10:54:50Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Clary sage oil CAS#: 8016-63-5", "url": "https://www.chemicalbook.com/ProductChemicalPropertiesCB9340183_EN.htm"},
+        {"rank": 2, "title": "Clary sage oil | 8016-63-5", "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB9340183.htm"},
+        {"rank": 3, "title": "SAFETY DATA SHEET Revision date 05-May-2021 Revision Number 2", "url": "https://cdn.planttherapy.com/sds/clary_sage_eo.pdf"},
+        {"rank": 4, "title": "www.newdirectionsaromatics.com SAFETY DATA SHEET (SDS) Version 2.0", "url": "https://docs.newdirectionsaromatics.com/msds/SDS_ClarySageOrganicEO.pdf"},
+        {"rank": 5, "title": "CAS 8016-63-5 Clary sage oil - Alfa Chemistry", "url": "https://www.alfa-chemistry.com/cas_8016-63-5.htm"},
+        {"rank": 6, "title": "Safety data sheet according to 1907/2006/EC, Article 31 Version : SDS/2013/03", "url": "https://ultranl.com/wp-content/uploads/SDS-CLARY-SAGE-OIL-FRANCE.pdf"},
+        {"rank": 7, "title": "( 10 ) 1 Issue date: 18/11/2024 Page Version: 1 (18/11/2024) SAFETY DATA SHEET", "url": "https://dam.hollandandbarrettimages.co.uk/uk_ie/sds_-clarysageessentialoil.pdf"},
+        {"rank": 8, "title": "Safety and efficacy of a feed additive consisting of an essential oil derived from the flowering stems of Salvia sclarea L. (clary sage oil) for use in all animal species (FEFANA asbl)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11561422/"},
+        {"rank": 9, "title": "Material Safety Data Sheet Clary Sage Oil (Salvia Sclarea) 1.", "url": "https://cdn.accentuate.io/1871053684795/1619828099392/Clary-Sage---Material-Safety--Data-Sheet.pdf?v=0"},
+        {"rank": 10, "title": "Clary sage oil | CAS#:8016-63-5 | Chemsrc", "url": "https://www.chemsrc.com/en/cas/8016-63-5_1465845.html"}
+      ],
+      "provider_summary": "I've found several safety data sheets and safety information for clary sage oil (CAS 8016-63-5). Here's a summary of the key safety data:\n\n## Hazard Classifications\n\nClary sage oil is classified as a flammable liquid (Category 4), skin corrosion/irritation (Category 2), skin sensitiser (Category 1), and causes serious eye damage/eye irritation (Category 2A).\n\n## Main Safety Hazards\n\n- The oil is irritating to skin and causes serious eye irritation\n- May cause sensitization by skin contact\n- Classification includes flammable liquid and skin irritation hazards\n\n## Chemical Composition\n\nThe main constituents of clary sage oil are linalyl acetate and linalool, with low toxicity by ingestion.\n\n## Source Information\n\nThe search results include multiple safety data sheets from various suppliers and sources, with the most recent update being from November 2024. These documents provide comprehensive hazard classifications, first aid measures, and handling instructions according to international safety standards (GHS and EC Regulation 1272/2008)."
+    },
+    {
+      "query": "clary sage oil France origin chemotype sclareol Russia Bulgaria",
+      "purpose": "chemotype_origin",
+      "executed_at": "2026-09-28T10:54:50Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "(PDF) Salvia sclarea: CHEMICAL COMPOSITION AND BIOLOGICAL ACTIVITY", "url": "https://www.researchgate.net/publication/330347235_Salvia_sclarea_CHEMICAL_COMPOSITION_AND_BIOLOGICAL_ACTIVITY"},
+        {"rank": 2, "title": "Clary Sage in Perfumery — Everything You Need to Know | The Sniff Test", "url": "https://thesnifftest.co.uk/note/clary-sage/"},
+        {"rank": 3, "title": "Clary Sage - Organic EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/clary-sage-organic.html"},
+        {"rank": 4, "title": "Clary Sage Absolute | Eden Botanicals", "url": "https://www.edenbotanicals.com/clary-sage-absolute.html"},
+        {"rank": 5, "title": "Clary Sage - Conventional EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/clary-sage-conventional.html"},
+        {"rank": 6, "title": "Clary Sage in Perfumery | Première Peau", "url": "https://premierepeau.com/pages/glossary-terms/clary-sage"},
+        {"rank": 7, "title": "Aroma Profile of Clary Sage (Salvia sclarea L.)", "url": "http://www.globalsciencebooks.info/Online/GSBOnline/images/2011/MAPSB_5(2)/MAPSB_5(2)139-142o.pdf"},
+        {"rank": 8, "title": "Sage oil", "url": "https://en.wikipedia.org/wiki/Sage_oil"},
+        {"rank": 9, "title": "Clary Sage Oil (France) - Ultra International B.V.Ultra International B.V.", "url": "https://ultranl.com/products/clarysage-oil-france/"}
+      ],
+      "provider_summary": "I found comprehensive information about clary sage oil origins, chemotypes, and sclareol content. Here are the key findings:\n\n## Origin and Cultivation\n\nClary sage (Salvia sclarea) is native to the Mediterranean region, growing wild in France, Germany, North Africa, parts of Italy, and also on the Crimean Peninsula. Commercially, in large scale it is cultivated in Russia, Bulgaria, France and Morocco, with annual world production of about 150 t of essential oil. The main commercial origins are Russia and the south of France, with Bulgaria, other former Soviet republics, Morocco, China, and the United States also producing it.\n\n## Chemotypes\n\nRussian and French oils tend toward the clean, linalyl acetate-dominant profile most useful in fine fragrance, while some Mediterranean chemotypes (including germacrene D-rich Sicilian oil and methyl chavicol-rich Sardinian oil) produce markedly different scent characters. Researchers have identified a geraniol/geranyl acetate-rich chemotype in Israel, a methyl chavicol-rich chemotype in Sardinia, a germacrene D-rich chemotype in Sicily, and several Tunisian chemotypes dominated by α-thujone, thujene, and manool oxide.\n\n## Sclareol Content\n\nSclareol (up to ~2% in the distilled oil, significantly higher in the absolute) is a diterpene alcohol with 20 carbons that contributes the warm, slightly musky, ambery quality that differentiates clary sage from lavender. The absolute is a green waxy paste with high sclareol content (30–50%) — far more than the distilled oil, which contains only trace sclareol."
+    },
+    {
+      "query": "clary sage oil use level perfumery",
+      "purpose": "use_level",
+      "executed_at": "2026-09-28T10:54:50Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "Clary sage essential oil: properties and uses - Aroma-Zone", "url": "https://www.aroma-zone.com/en/guide/organic-clary-sage-essential-oil"},
+        {"rank": 2, "title": "Clary Sage Perfume | Good Perfumer - Bon Parfumeur", "url": "https://www.bonparfumeur.com/en-us/blogs/journal/clary-sage-in-perfumery"},
+        {"rank": 3, "title": "Clary Sage perfume ingredient, Clary Sage fragrance and essential oils Salvia sclarea (Labiatae)", "url": "https://www.fragrantica.com/notes/Clary-Sage-164.html"},
+        {"rank": 4, "title": "Clary Sage - Conventional EO | Eden Botanicals", "url": "https://www.edenbotanicals.com/clary-sage-conventional.html"},
+        {"rank": 5, "title": "Study of the genetic and phenotypic variation among wild and cultivated clary sages provides interesting avenues for breeding programs of a perfume, medicinal and aromatic plant", "url": "https://www.biorxiv.org/content/10.1101/2020.11.22.393264.full.pdf"},
+        {"rank": 6, "title": "Perfuming with oxygen containing derivatives of tricyclo[6.2.1.0.sup.2,7 ]u n", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4341666"},
+        {"rank": 7, "title": "Study of the genetic and phenotypic variation among wild and cultivated clary sages provides interesting avenues for breeding programs of a perfume, medicinal and aromatic plant", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8294528/"},
+        {"rank": 8, "title": "Clary Sage Essential Oil, Organic, France", "url": "https://enfleurage.com/clary-sage/"},
+        {"rank": 9, "title": "Oxygen containing derivatives of tricyclo[6.2.1.0.sup.2,7 ]undecane", "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4311852"}
+      ],
+      "provider_summary": "Based on the search results, here's what I found about clary sage oil use levels in perfumery:\n\n**Usage Level:**\nClary sage essential oil can be used at up to 10% as an ingredient in fragrance composition as a fragrance fixative.\n\n**Role in Perfumery:**\nClary sage essential oil is traditionally used in perfumery as a fixative in cypress, fern and amber fragrances. In natural perfumery, clary sage is often used in formulations for plant-based musk-type bases, for example, with Ambrette Seed, Angelica, Patchouli, Labdanum, and Balsam of Peru.\n\n**Scent Profile:**\nIt has an odor profile of a soft and sweet herbaceous fragrance with lavender, balsamic, and amber musky nuances. Clary sage blends well with herbal notes like lavender and rosemary, floral notes like jasmine and rose, and woody notes like cedar and sandalwood."
+    },
+    {
+      "query": "\"ISO 7609\" essential oil clary sage Salvia sclarea",
+      "purpose": "iso_standard_variant",
+      "executed_at": "2026-09-28T10:55:20Z",
+      "provider": "claude_websearch",
+      "results": [
+        {"rank": 1, "title": "ISO 24255:2025 - Essential oil of clary sage (Salvia sclarea L.) \"prewilted\" French type and \"chopped\" French type", "url": "https://www.iso.org/standard/87790.html"},
+        {"rank": 2, "title": "EWG's Guide to Healthy Cleaning | SALVIA SCLAREA (CLARY SAGE) OIL | Substance", "url": "https://www.ewg.org/cleaners/substances/5290-SALVIASCLAREACLARYSAGEOIL/"},
+        {"rank": 3, "title": "Safety and efficacy of a feed additive consisting of an essential oil derived from the flowering stems of Salvia sclarea L. (clary sage oil) for use in all animal species (FEFANA asbl)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11561422/"},
+        {"rank": 4, "title": "Mechanistic insights into clary sage oils role in wound healing: targeting oxidative stress and inflammatory pathways", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12394166/"},
+        {"rank": 5, "title": "Chemical Composition, Antioxidant and Anti-Inflammatory Activities of Clary Sage and Coriander Essential Oils Produced on Polluted and Amended Soils-Phytomanagement Approach", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8434190/"},
+        {"rank": 6, "title": "Supercritical Fluid Extraction of Essential Oil and Sclareol from a Clary Sage Concrete", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10179952/"},
+        {"rank": 7, "title": "Combination of Analytical and Statistical Methods in Order to Optimize Antibacterial Activity of Clary Sage Supercritical Fluid Extracts", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8586929/"},
+        {"rank": 8, "title": "Clary Sage Essential Oil Organic - French Salvia Sclarea", "url": "https://www.natureinbottle.com/product/clary_sage_essential_oil"},
+        {"rank": 9, "title": "Clary Sage (Salvia sclarea) essential oil – Wingsets", "url": "https://www.wingsets.com/products/clary-sage-salvia-sclarea-russia-aromatherapy-clinical-grade-pure-essential-oil"}
+      ],
+      "provider_summary": "Based on the search results, I found relevant information about clary sage (Salvia sclarea) essential oil and ISO standards, though the specific ISO 7609 standard was not directly found in these results. However, I did find more recent ISO standards related to this topic.\n\nThe search results show that ISO 24255:2025 covers Essential oil of clary sage (Salvia sclarea L.) \"prewilted\" French type and \"chopped\" French type, which appears to be a newer ISO standard for clary sage essential oil.\n\nRegarding clary sage essential oil itself, CSEO is extracted from the flowers and leaves of S. sclarea and is rich in bioactive constituents such as linalool, linalyl acetate, geraniol, and other terpenes, demonstrating anti-inflammatory, antibacterial, and analgesic effects. Additionally, Clary sage (Salvia sclarea L.) is a biennial aromatic plant cultivated worldwide for its high-value essential oil, widely known for its use in perfumery and cosmetics but also for its applications in medicine.\n\nIf you need specific information about ISO 7609 in particular, you may want to check the ISO organization's official website, as that specific standard number does not appear in these search results."
+    }
+  ]
+}
